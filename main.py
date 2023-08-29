@@ -6,17 +6,17 @@ from functions import get_export_files, check_DMO_files, make_dictionary_for_map
 from options import set_options_for_pandas
 set_options_for_pandas()
 
-path_BMO = r"C:\Users\hvanegeraat\DC\ACCDocs\Lantis\Lantis 3B\Project Files\002_WIP\W200_Bestaande toestand\W200.TT41 BT Constructies\(050)_R1O"
-path_DMO = r"C:\Users\hvanegeraat\DC\ACCDocs\Lantis\Lantis 3B\Project Files\002_WIP\W200_Bestaande toestand\W200.TT41 BT Constructies\(050)_R1O"
+general_path = r"C:\Users\hvanegeraat\DC\ACCDocs\Lantis\Lantis 3B\Project Files\002_WIP\W200_Bestaande toestand\W200.TT41 BT Constructies\(050)_R1O"
 
 # List all files and folders within the folder
-contents = os.listdir(path_BMO)
+contents = os.listdir(general_path)
 
 # Iterate over the contents in the BMO-files on BIM360 and add only the file names to the list.
 list_BMO_files = []
 for item in contents:
-    item_path = os.path.join(path_BMO, item)
-    if os.path.isfile(item_path):
+    item_path = os.path.join(general_path, item)
+    if os.path.isfile(item_path) and item.split(".")[1] == "rvt":
+        print(item)
         list_BMO_files.append(item)
 
 # Convert the list of the BMO models to a data series
@@ -52,13 +52,19 @@ ds_object_code = pd.Series(object_list, name="object_code")
 
 #  In this step the object names will be mapped to the existing object names
 dict_objects_name_num = make_dictionary_for_mapping()
-ds_object_name = ds_object_code.map(dict_objects_name_num).fillna("Unknown").rename("object_name")
 
-df_object_code_name = pd.concat([ds_object_code, ds_object_name], axis="columns")
+#Seperate the stem and object name in one dictionary
+stem_dict = {key: value[0] for key, value in dict_objects_name_num.items()}
+object_name_dict = {key: value[1] for key, value in dict_objects_name_num.items()}
+
+ds_object_stem = ds_object_code.map(stem_dict).fillna("Unknown").rename("object_stem")
+ds_object_name = ds_object_code.map(object_name_dict).fillna("Unknown").rename("object_name")
+
+df_object_code_name = pd.concat([ds_object_code, ds_object_stem, ds_object_name], axis="columns")
 
 df_BMO_overview = pd.concat([df_object_code_name, df_BMO_overview], axis="columns")
 
-df_DMO_overview = get_export_files(path=path_DMO)
+df_DMO_overview = get_export_files(path=general_path)
 
 df_model_overview = pd.concat([df_BMO_overview, df_DMO_overview], axis="columns")
 df_model_overview.drop(columns="DMO_other", inplace=True)

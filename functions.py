@@ -6,14 +6,18 @@ def make_dictionary_for_mapping():
     """
 
     """
-    dataframe = pd.read_csv("data/Onderliggend.csv")
-    value_arr = dataframe.values
-
     new_dict = {}
-    for item in value_arr:
-        splitted_item = item[0].split(" - ")
-        new_dict[splitted_item[0].replace("Obj-", "")] = splitted_item[1]
+    stems = ["R1_Oost", "R1_Oost_Context"]
+    csv_filepaths = ["data/Onderliggend_R1_Oost.csv", "data/Onderliggend_R1_Oost_Context.csv"]
+    for stem in stems:
+        path = f"data/Onderliggend_{stem}.csv"
+        dataframe = pd.read_csv(path)
+        value_arr = dataframe.values
 
+        for item in value_arr:
+            splitted_item = item[0].split(" - ")
+            new_dict[splitted_item[0].replace("Obj-", "")] = (stem, splitted_item[1])
+    print( new_dict)
     return new_dict
 
 
