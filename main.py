@@ -1,12 +1,15 @@
 import os as os
 import pandas as pd
 import xlwings as xw
-from functions import get_export_files, check_DMO_files, make_dictionary_for_mapping
+from functions import get_export_files, check_model_files, make_dictionary_for_mapping
+from func_dat_pres import data_presentation
 
 from options import set_options_for_pandas
 set_options_for_pandas()
 
-general_path = r"C:\Users\hvanegeraat\DC\ACCDocs\Lantis\Lantis 3B\Project Files\002_WIP\W200_Bestaande toestand\W200.TT41 BT Constructies\(050)_R1O"
+general_path = r"C:\Users\hvanegeraat\DC\ACCDocs\Lantis\Lantis 3B\Project Files\002_WIP\W200_Bestaande toestand\W200.TT41 BT Constructies\(000)_OWR"
+#general_path = r"C:\Users\hvanegeraat\DC\ACCDocs\Lantis\Lantis 3B\Project Files\002_WIP\W200_Bestaande toestand\W200.TT41 BT Constructies\(050)_R1O"
+
 
 # List all files and folders within the folder
 contents = os.listdir(general_path)
@@ -16,7 +19,6 @@ list_BMO_files = []
 for item in contents:
     item_path = os.path.join(general_path, item)
     if os.path.isfile(item_path) and item.split(".")[1] == "rvt":
-        print(item)
         list_BMO_files.append(item)
 
 # Convert the list of the BMO models to a data series
@@ -26,7 +28,7 @@ ds_BMO_models = pd.Series(list_BMO_files)
 check_name_list = []
 for i, name in pd.Series(ds_BMO_models).items():
     splitted_name = name.split("-")
-    if splitted_name[0] == "OWRB" and splitted_name[2] in ["ROC", "LAN"] and splitted_name[3] in ["BMO", "TMO"] and splitted_name[4] == "W66":
+    if splitted_name[0] == "OWRB" and splitted_name[2] in ["ROC", "LAN"] and splitted_name[3] in ["BMO", "TMO"] and splitted_name[4] in ["W66", "W27"]:
         ds_name = splitted_name[5].split(".")
         if isinstance(ds_name[0], str) and ds_name[1] == "rvt":
             check_name_list.append(True)
@@ -57,6 +59,7 @@ dict_objects_name_num = make_dictionary_for_mapping()
 stem_dict = {key: value[0] for key, value in dict_objects_name_num.items()}
 object_name_dict = {key: value[1] for key, value in dict_objects_name_num.items()}
 
+#Make a dataseries for the descriptions and root of the OBS
 ds_object_stem = ds_object_code.map(stem_dict).fillna("Unknown").rename("object_stem")
 ds_object_name = ds_object_code.map(object_name_dict).fillna("Unknown").rename("object_name")
 
@@ -64,27 +67,31 @@ df_object_code_name = pd.concat([ds_object_code, ds_object_stem, ds_object_name]
 
 df_BMO_overview = pd.concat([df_object_code_name, df_BMO_overview], axis="columns")
 
-df_DMO_overview = get_export_files(path=general_path)
+df_model_overview = get_export_files(path=general_path)
 
-df_model_overview = pd.concat([df_BMO_overview, df_DMO_overview], axis="columns")
-df_model_overview.drop(columns="DMO_other", inplace=True)
+df_all_model_overview = pd.concat([df_BMO_overview, df_model_overview], axis="columns")
+df_all_model_overview.drop(columns="DMO_other", inplace=True)
 
-
-filenames_and_bools_nwc = check_DMO_files(dataframe=df_model_overview, filetype=".nwc")
-
+#DMO NWC
+filenames_and_bools_nwc = check_model_files(dataframe=df_all_model_overview, filetype=".nwc")
 name_nwc = filenames_and_bools_nwc["filenames_.nwc"]
 bool_nwc = filenames_and_bools_nwc["DMO_bools_.nwc"]
 
-filenames_and_bools_ifc = check_DMO_files(dataframe=df_model_overview, filetype=".ifc")
+#DMO IFC
+filenames_and_bools_ifc = check_model_files(dataframe=df_all_model_overview, filetype=".ifc")
 name_ifc = filenames_and_bools_ifc["filenames_.ifc"]
 bool_ifc = filenames_and_bools_ifc["DMO_bools_.ifc"]
 
-
-filenames_and_bools_dwg = check_DMO_files(dataframe=df_model_overview, filetype=".dwg")
+#DMO DWG
+filenames_and_bools_dwg = check_model_files(dataframe=df_all_model_overview, filetype=".dwg")
 name_dwg = filenames_and_bools_dwg["filenames_.dwg"]
 bool_dwg = filenames_and_bools_dwg["DMO_bools_.dwg"]
 
-df = pd.concat([df_BMO_overview, name_nwc, bool_nwc, name_ifc, bool_ifc, name_dwg, bool_dwg], axis=1)
-xw.view(df)
+# #DMM DWG
+# filenames_and_bools_DMM_dwg = check_model_files(dataframe=df_all_model_overview, filetype=".dwg")
+# name_DMM_dwg = filenames_and_bools_DMM_dwg["filenames_DMM_.dwg"]
+# bool_DMM_dwg = filenames_and_bools_DMM_dwg["DMM_bools_DMM.dwg"]
 
- 
+df = pd.concat([df_BMO_overview, name_nwc, bool_nwc, name_ifc, bool_ifc, name_dwg, bool_dwg], axis=1)
+
+data_presentation(dataframe=df)

@@ -17,7 +17,6 @@ def make_dictionary_for_mapping():
         for item in value_arr:
             splitted_item = item[0].split(" - ")
             new_dict[splitted_item[0].replace("Obj-", "")] = (stem, splitted_item[1])
-    print( new_dict)
     return new_dict
 
 
@@ -28,36 +27,52 @@ def get_export_files(path):
         - Column with the DMO_.nwc filenames [DMO_.nwc]
         - Column with the DMO_.ifc filenames [DMO_.ifc]
         - Column with the DMO_.dwg filenames [DMO_.dwg]
+        - Column with the DMM_.dwg filesnames [DMM_.dwg]
         - Column with other filenames [DMO_other]
     """
     path_DMO = path
     contents = os.listdir(path_DMO)
 
-    file_list_nwc = []
+    file_list_DMO_nwc = []
+    file_list_DMM_nwc = []
     file_list_ifc = []
-    file_list_dwg = []
+    file_list_DMO_dwg = []
+    file_list_DMM_dwg = []
     file_list_else = []
     for file_name in contents:
         file = Path(file_name)
-        if file.suffix == ".nwc":
-            file_list_nwc.append(file_name)
+        str_file_name = str(file)
+        try:
+            model_type = str_file_name.split("-")[3]
+        except:
+            print("Splitting not possible")
+            breakpoint()
+        if file.suffix == ".nwc" and model_type == "DMO":
+            file_list_DMO_nwc.append(file_name)
+        elif file.suffix == ".nwc" and model_type == "DMM":
+            file_list_DMM_nwc.append(file_name)
         elif file.suffix == ".ifc":
             file_list_ifc.append(file_name)
-        elif file.suffix == ".dwg":
-            file_list_dwg.append(file_name)
+        elif file.suffix == ".dwg" and model_type == "DMO":
+            file_list_DMO_dwg.append(file_name)
+        elif file.suffix == ".dwg" and model_type == "DMM":
+            file_list_DMM_dwg.append(file_name)
         else:
             file_list_else.append(file_name)
 
-    ds_nwc = pd.Series(file_list_nwc, name="DMO_.nwc")
+    ds_DMO_nwc = pd.Series(file_list_DMO_nwc, name="DMO_.nwc")
+    ds_DMM_nwc = pd.Series(file_list_DMM_nwc, name="DMM_.nwc")
     ds_ifc = pd.Series(file_list_ifc, name="DMO_.ifc")
-    ds_dwg = pd.Series(file_list_dwg, name="DMO_.dwg")
+    ds_DMO_dwg = pd.Series(file_list_DMO_dwg, name="DMO_.dwg")
+    ds_DMM_dwg = pd.Series(file_list_DMM_dwg, name="DMM_.dwg")
     ds_else = pd.Series(file_list_else, name="DMO_other")
 
-    df_sorted_DMO = pd.concat([ds_nwc, ds_ifc, ds_dwg, ds_else], axis="columns")
-    return df_sorted_DMO
+    df_sorted_models = pd.concat([ds_DMO_nwc, ds_DMM_nwc, ds_ifc, ds_DMO_dwg, ds_DMM_dwg, ds_else], axis="columns")
+
+    return df_sorted_models
 
 
-def check_DMO_files(dataframe, filetype="DMO_.nwc"):
+def check_model_files(dataframe, filetype="DMO_.nwc"):
     """
     :param dataframe: A dataframe containing at least the object_code, BMO_files, bools,
     :param filetype: The suffix of the filetypes that has been checked in this function.
@@ -71,15 +86,12 @@ def check_DMO_files(dataframe, filetype="DMO_.nwc"):
     bool_DMO_list = []
     true_DMO_list = []
 
-    print(ds_object_codes)
     for i, item in ds_object_codes.items():
-        print(i, item)
         object_code_BMO = item
         bool_code_check = False
         true_DMO_name = "No DMO available"
         for DMO_name in DMO_list:
             object_code_DMO = DMO_name.split("-")[1]
-            print(DMO_name, object_code_DMO)
             if object_code_BMO == object_code_DMO:
                 true_DMO_name = DMO_name
                 bool_code_check = True
