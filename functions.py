@@ -2,6 +2,23 @@ import os as os
 from pathlib import Path
 import pandas as pd
 
+def choose_project_area():
+    prj_area_options = ["OWR","R1O"]
+    user_input = ""
+    while user_input not in prj_area_options:
+        user_input = "R1O"
+
+
+        import time
+        print(f"User input = {user_input}")
+        time.sleep(2)
+
+        #user_input = input(f"For which project area do you want to see the model data? [{prj_area_options[0]}/{prj_area_options[-1]}]: ").upper()
+    project_area_dict = {   "OWR":"(000)_OWR",
+                            "R1O":"(050)_R1O"}
+    return (user_input,project_area_dict[user_input])
+
+
 def make_dictionary_for_mapping():
     """
 
@@ -46,7 +63,6 @@ def get_export_files(path):
             model_type = str_file_name.split("-")[3]
         except:
             print("Splitting not possible")
-            breakpoint()
         if file.suffix == ".nwc" and model_type == "DMO":
             file_list_DMO_nwc.append(file_name)
         elif file.suffix == ".nwc" and model_type == "DMM":
@@ -72,37 +88,42 @@ def get_export_files(path):
     return df_sorted_models
 
 
-def check_model_files(dataframe, filetype="DMO_.nwc"):
+def check_model_files(dataframe, model_type="DMO", file_type=".nwc"):
     """
-    :param dataframe: A dataframe containing at least the object_code, BMO_files, bools,
-    :param filetype: The suffix of the filetypes that has been checked in this function.
+    :param dataframe: A dataframe containing at least the object_code, BMO_files, bools.
+    :param model_type: The model type DMO or DMM.
+    :param file_type: The suffix of the filetypes that has been checked in this function.
     :return: returns a dictionary with a series of checked filenames and bools
     """
-    select_dataframe = dataframe[["object_code", "BMO_files", "check_name_BMO", f"DMO_{filetype}"]]
+    select_dataframe = dataframe[["object_code", "BMO_files", "check_name_BMO", f"{model_type}_{file_type}"]]
 
-    DMO_list = select_dataframe[f"DMO_{filetype}"].dropna().tolist()
-    ds_object_codes = select_dataframe["object_code"].dropna()
+    model_list = select_dataframe[f"{model_type}_{file_type}"].dropna().tolist()
+    ds_BMO_files = select_dataframe["BMO_files"].dropna()
 
-    bool_DMO_list = []
-    true_DMO_list = []
+    bool_model_list = []
+    true_model_list = []
 
-    for i, item in ds_object_codes.items():
-        object_code_BMO = item
+    for i, item in ds_BMO_files.items():
+        BMO_object_code = item.split("-")[1]
+        BMO_serie_number = item.split("-")[-1].split(".")[0]
         bool_code_check = False
-        true_DMO_name = "No DMO available"
-        for DMO_name in DMO_list:
-            object_code_DMO = DMO_name.split("-")[1]
-            if object_code_BMO == object_code_DMO:
-                true_DMO_name = DMO_name
+        true_model_name = ""
+        for model_name in model_list:
+            object_code_model = model_name.split("-")[1]
+            serie_code_model = model_name.split("-")[-1].split(".")[0]
+            if BMO_object_code == object_code_model and BMO_serie_number == serie_code_model:
+                true_model_name = model_name
                 bool_code_check = True
 
-        true_DMO_list.append(true_DMO_name)
-        bool_DMO_list.append(bool_code_check)
+        true_model_list.append(true_model_name)
+        bool_model_list.append(bool_code_check)
 
-    ds_true_DMO = pd.Series(data=true_DMO_list, dtype=str, name=f"real_DMO{filetype}", copy=True)
-    ds_bool_DMO = pd.Series(data=bool_DMO_list, dtype=bool, name=f"bool_DMO{filetype}", copy=True)
-    dataseries = {f"filenames_{filetype}" : ds_true_DMO, f"DMO_bools_{filetype}" : ds_bool_DMO}
+    ds_true_model = pd.Series(data=true_model_list, dtype=str, name=f"real_{model_type}_{file_type}", copy=True)
+    ds_bool_model = pd.Series(data=bool_model_list, dtype=bool, name=f"bool_{model_type}_{file_type}", copy=True)
+    dataseries = {f"filenames_{model_type}_{file_type}": ds_true_model, f"bools_{model_type}_{file_type}": ds_bool_model}
 
+    print(f"filenames_{model_type}_{file_type}")
+    print(f"bools_{model_type}_{file_type}")
     return dataseries
 
 

@@ -1,23 +1,28 @@
 import os as os
 import pandas as pd
 import xlwings as xw
-from functions import get_export_files, check_model_files, make_dictionary_for_mapping
+from functions import get_export_files, check_model_files, make_dictionary_for_mapping, choose_project_area
 from func_dat_pres import data_presentation
+from func_save import save_data_to_sharepoint
 
 from options import set_options_for_pandas
 set_options_for_pandas()
 
-general_path = r"C:\Users\hvanegeraat\DC\ACCDocs\Lantis\Lantis 3B\Project Files\002_WIP\W200_Bestaande toestand\W200.TT41 BT Constructies\(000)_OWR"
-#general_path = r"C:\Users\hvanegeraat\DC\ACCDocs\Lantis\Lantis 3B\Project Files\002_WIP\W200_Bestaande toestand\W200.TT41 BT Constructies\(050)_R1O"
+project_code_tuple = choose_project_area()
+project_area = project_code_tuple[0]
+project_area_code = project_code_tuple[1]
+
+#Determining the folderpath based user input
+folder_path = rf"C:\Users\hvanegeraat\DC\ACCDocs\Lantis\Lantis 3B\Project Files\002_WIP\W200_Bestaande toestand\W200.TT41 BT Constructies\{project_area_code}"
 
 
 # List all files and folders within the folder
-contents = os.listdir(general_path)
+contents = os.listdir(folder_path)
 
 # Iterate over the contents in the BMO-files on BIM360 and add only the file names to the list.
 list_BMO_files = []
 for item in contents:
-    item_path = os.path.join(general_path, item)
+    item_path = os.path.join(folder_path, item)
     if os.path.isfile(item_path) and item.split(".")[1] == "rvt":
         list_BMO_files.append(item)
 
@@ -67,31 +72,55 @@ df_object_code_name = pd.concat([ds_object_code, ds_object_stem, ds_object_name]
 
 df_BMO_overview = pd.concat([df_object_code_name, df_BMO_overview], axis="columns")
 
-df_model_overview = get_export_files(path=general_path)
+df_model_overview = get_export_files(path=folder_path)
 
 df_all_model_overview = pd.concat([df_BMO_overview, df_model_overview], axis="columns")
 df_all_model_overview.drop(columns="DMO_other", inplace=True)
 
-#DMO NWC
-filenames_and_bools_nwc = check_model_files(dataframe=df_all_model_overview, filetype=".nwc")
-name_nwc = filenames_and_bools_nwc["filenames_.nwc"]
-bool_nwc = filenames_and_bools_nwc["DMO_bools_.nwc"]
 
-#DMO IFC
-filenames_and_bools_ifc = check_model_files(dataframe=df_all_model_overview, filetype=".ifc")
-name_ifc = filenames_and_bools_ifc["filenames_.ifc"]
-bool_ifc = filenames_and_bools_ifc["DMO_bools_.ifc"]
+#DMO_NWC
+filenames_and_bools_DMO_nwc = check_model_files(dataframe=df_all_model_overview, model_type="DMO", file_type=".nwc")
+name_DMO_nwc = filenames_and_bools_DMO_nwc["filenames_DMO_.nwc"]
+bool_DMO_nwc = filenames_and_bools_DMO_nwc["bools_DMO_.nwc"]
 
-#DMO DWG
-filenames_and_bools_dwg = check_model_files(dataframe=df_all_model_overview, filetype=".dwg")
-name_dwg = filenames_and_bools_dwg["filenames_.dwg"]
-bool_dwg = filenames_and_bools_dwg["DMO_bools_.dwg"]
+#DMM_NWC
+filenames_and_bools_DMM_nwc = check_model_files(dataframe=df_all_model_overview, model_type="DMM", file_type=".nwc")
+name_DMM_nwc = filenames_and_bools_DMM_nwc["filenames_DMM_.nwc"]
+bool_DMM_nwc = filenames_and_bools_DMM_nwc["bools_DMM_.nwc"]
 
-# #DMM DWG
-# filenames_and_bools_DMM_dwg = check_model_files(dataframe=df_all_model_overview, filetype=".dwg")
-# name_DMM_dwg = filenames_and_bools_DMM_dwg["filenames_DMM_.dwg"]
-# bool_DMM_dwg = filenames_and_bools_DMM_dwg["DMM_bools_DMM.dwg"]
+#DMO_IFC
+filenames_and_bools_DMO_ifc = check_model_files(dataframe=df_all_model_overview, model_type="DMO", file_type=".ifc")
+name_DMO_ifc = filenames_and_bools_DMO_ifc["filenames_DMO_.ifc"]
+bool_DMO_ifc = filenames_and_bools_DMO_ifc["bools_DMO_.ifc"]
 
-df = pd.concat([df_BMO_overview, name_nwc, bool_nwc, name_ifc, bool_ifc, name_dwg, bool_dwg], axis=1)
+#DMO_DWG
+filenames_and_bools_DMO_dwg = check_model_files(dataframe=df_all_model_overview, model_type="DMO", file_type=".dwg")
+name_DMO_dwg = filenames_and_bools_DMO_dwg["filenames_DMO_.dwg"]
+bool_DMO_dwg = filenames_and_bools_DMO_dwg["bools_DMO_.dwg"]
+
+#DMM_DWG
+filenames_and_bools_DMM_dwg = check_model_files(dataframe=df_all_model_overview, model_type="DMM", file_type=".dwg")
+name_DMM_dwg = filenames_and_bools_DMM_dwg["filenames_DMM_.dwg"]
+bool_DMM_dwg = filenames_and_bools_DMM_dwg["bools_DMM_.dwg"]
+
+df = pd.concat([       df_BMO_overview,
+                            name_DMO_nwc,
+                            bool_DMO_nwc,
+                            name_DMM_nwc,
+                            bool_DMM_nwc,
+                            name_DMO_ifc,
+                            bool_DMO_ifc,
+                            name_DMO_dwg,
+                            bool_DMO_dwg,
+                            name_DMM_dwg,
+                            bool_DMM_dwg],
+                            axis="columns")
 
 data_presentation(dataframe=df)
+
+# Do you want to save the data on sharepoint
+user_input = ""
+user_input = input("Do you want to update the data to Sharepoint? [Yes/No]: ").upper()
+if user_input == "YES":
+    save_data_to_sharepoint(dataframe=df)
+
