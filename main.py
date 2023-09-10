@@ -1,9 +1,10 @@
 import os as os
 import pandas as pd
 import xlwings as xw
-from functions import get_export_files, check_model_files, make_dictionary_for_mapping, choose_project_area
+from functions import (get_export_files, check_model_files, make_dictionary_for_mapping, choose_project_area,
+                       make_dictionary_lantis_relatics_for_mapping)
 from func_dat_pres import data_presentation
-from func_save import save_data_to_sharepoint
+from func_save import save_data_to_local, open_from_local_and_modify, save_bar_chart_on_sharepoint
 
 from options import set_options_for_pandas
 set_options_for_pandas()
@@ -16,20 +17,20 @@ project_area_code = project_code_tuple[1]
 folder_path = rf"C:\Users\hvanegeraat\DC\ACCDocs\Lantis\Lantis 3B\Project Files\002_WIP\W200_Bestaande toestand\W200.TT41 BT Constructies\{project_area_code}"
 
 
-# List all files and folders within the folder
+#List all files and folders within the folder
 contents = os.listdir(folder_path)
 
-# Iterate over the contents in the BMO-files on BIM360 and add only the file names to the list.
+#Iterate over the contents in the BMO-files on BIM360 and add only the file names to the list.
 list_BMO_files = []
 for item in contents:
     item_path = os.path.join(folder_path, item)
     if os.path.isfile(item_path) and item.split(".")[1] == "rvt":
         list_BMO_files.append(item)
 
-# Convert the list of the BMO models to a data series
+#Convert the list of the BMO models to a data series
 ds_BMO_models = pd.Series(list_BMO_files)
 
-# This part of code is checking the convention of the build-up of the BMO files
+#This part of code is checking the convention of the build-up of the BMO files
 check_name_list = []
 for i, name in pd.Series(ds_BMO_models).items():
     splitted_name = name.split("-")
@@ -42,22 +43,22 @@ for i, name in pd.Series(ds_BMO_models).items():
     else:
         check_name_list.append(False)
 
-# This part of code makes a dataframe of the list of bools which checked the convention of the  names
+#This part of code makes a dataframe of the list of bools which checked the convention of the  names
 ds_check_names = pd.Series(check_name_list)
 df_BMO_overview = pd.concat([ds_BMO_models, ds_check_names], axis="columns", keys=["BMO_files", "check_name_BMO"])
 
 
-# This part of the code isolates the object number of the name BMO-filenames
+#This part of the code isolates the object number of the name BMO-filenames
 object_list = []
 for value in df_BMO_overview["BMO_files"]:
     sp_value = value.split("-")[1]
     object_list.append(sp_value)
 
 
-# This part of code makes a series of the list of object numbers
+#This part of code makes a series of the list of object numbers
 ds_object_code = pd.Series(object_list, name="object_code")
 
-#  In this step the object names will be mapped to the existing object names
+#In this step the object names will be mapped to the existing object names
 dict_objects_name_num = make_dictionary_for_mapping()
 
 #Seperate the stem and object name in one dictionary
@@ -68,10 +69,15 @@ object_name_dict = {key: value[1] for key, value in dict_objects_name_num.items(
 ds_object_stem = ds_object_code.map(stem_dict).fillna("Unknown").rename("object_stem")
 ds_object_name = ds_object_code.map(object_name_dict).fillna("Unknown").rename("object_name")
 
-df_object_code_name = pd.concat([ds_object_code, ds_object_stem, ds_object_name], axis="columns")
+
+#Mapping the Data of the Lantis Relatics
+dict_lantis = make_dictionary_lantis_relatics_for_mapping()
+ds_BMO_names_map = df_BMO_overview["BMO_files"].str.split(".").str[0]
+ds_lantis_relatics = ds_BMO_names_map.map(dict_lantis).rename("lantis_ID")
+
+df_object_code_name = pd.concat([ds_object_code, ds_lantis_relatics, ds_object_stem, ds_object_name], axis="columns")
 
 df_BMO_overview = pd.concat([df_object_code_name, df_BMO_overview], axis="columns")
-
 df_model_overview = get_export_files(path=folder_path)
 
 df_all_model_overview = pd.concat([df_BMO_overview, df_model_overview], axis="columns")
@@ -103,24 +109,30 @@ filenames_and_bools_DMM_dwg = check_model_files(dataframe=df_all_model_overview,
 name_DMM_dwg = filenames_and_bools_DMM_dwg["filenames_DMM_.dwg"]
 bool_DMM_dwg = filenames_and_bools_DMM_dwg["bools_DMM_.dwg"]
 
-df = pd.concat([       df_BMO_overview,
-                            name_DMO_nwc,
-                            bool_DMO_nwc,
-                            name_DMM_nwc,
-                            bool_DMM_nwc,
-                            name_DMO_ifc,
-                            bool_DMO_ifc,
-                            name_DMO_dwg,
-                            bool_DMO_dwg,
-                            name_DMM_dwg,
-                            bool_DMM_dwg],
-                            axis="columns")
 
-data_presentation(dataframe=df)
+df = pd.concat([df_BMO_overview,
+                name_DMO_nwc,
+                bool_DMO_nwc,
+                name_DMM_nwc,
+                bool_DMM_nwc,
+                name_DMO_ifc,
+                bool_DMO_ifc,
+                name_DMO_dwg,
+                bool_DMO_dwg,
+                name_DMM_dwg,
+                bool_DMM_dwg],
+               axis="columns")
+
+bar_chart = data_presentation(dataframe=df)
+
 
 # Do you want to save the data on sharepoint
 user_input = ""
 user_input = input("Do you want to update the data to Sharepoint? [Yes/No]: ").upper()
 if user_input == "YES":
-    save_data_to_sharepoint(dataframe=df)
+    save_data_to_local(dataframe=df)
+    open_from_local_and_modify(project_data=project_code_tuple)
+    save_bar_chart_on_sharepoint(plt=bar_chart)
+else:
+    print("Data is not saved ... ")
 

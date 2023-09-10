@@ -6,14 +6,14 @@ def choose_project_area():
     prj_area_options = ["OWR","R1O"]
     user_input = ""
     while user_input not in prj_area_options:
-        user_input = "R1O"
-
+        user_input = input("In what project area do you want check the models? [OWR, R1O] \nIn project area: ").upper()
+        if user_input not in prj_area_options:
+            user_input = "R1O"
 
         import time
         print(f"User input = {user_input}")
-        time.sleep(2)
+        time.sleep(1)
 
-        #user_input = input(f"For which project area do you want to see the model data? [{prj_area_options[0]}/{prj_area_options[-1]}]: ").upper()
     project_area_dict = {   "OWR":"(000)_OWR",
                             "R1O":"(050)_R1O"}
     return (user_input,project_area_dict[user_input])
@@ -25,9 +25,9 @@ def make_dictionary_for_mapping():
     """
     new_dict = {}
     stems = ["R1_Oost", "R1_Oost_Context"]
-    csv_filepaths = ["data/Onderliggend_R1_Oost.csv", "data/Onderliggend_R1_Oost_Context.csv"]
+    csv_filepaths = ["data/roco_relatics/Onderliggend_R1_Oost.csv", "data/roco_relatics/Onderliggend_R1_Oost_Context.csv"]
     for stem in stems:
-        path = f"data/Onderliggend_{stem}.csv"
+        path = f"data/roco_relatics/Onderliggend_{stem}.csv"
         dataframe = pd.read_csv(path)
         value_arr = dataframe.values
 
@@ -35,6 +35,23 @@ def make_dictionary_for_mapping():
             splitted_item = item[0].split(" - ")
             new_dict[splitted_item[0].replace("Obj-", "")] = (stem, splitted_item[1])
     return new_dict
+
+def make_dictionary_lantis_relatics_for_mapping():
+    """
+
+    :return:
+    """
+    new_dict = {}
+    csv_filepath = "data/lantis_relatics/lantis_relatics_reg_models.csv"
+    dataframe = pd.read_csv(csv_filepath)
+    dataframe_selection = dataframe[["AutoID", "Naam"]]
+
+    new_dict_lantis = dataframe_selection.set_index("Naam")["AutoID"].to_dict()
+
+    import xlwings as xw
+    xw.view(new_dict_lantis)
+
+    return new_dict_lantis
 
 
 def get_export_files(path):
@@ -125,6 +142,3 @@ def check_model_files(dataframe, model_type="DMO", file_type=".nwc"):
     print(f"filenames_{model_type}_{file_type}")
     print(f"bools_{model_type}_{file_type}")
     return dataseries
-
-
-

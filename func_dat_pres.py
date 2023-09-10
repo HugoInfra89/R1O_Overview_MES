@@ -64,4 +64,8 @@ def data_presentation(dataframe, prj_area="(050)_R1O"):
     xw.view(dataframe)
 
     # Display the chart
-    plt.show()
+    model_bar_chart = plt
+
+    model_bar_chart.show()
+
+    return model_bar_chart

@@ -1,27 +1,17 @@
 import pandas as pd
+from functions import make_dictionary_lantis_relatics_for_mapping
 
-data = {
-    'Name': ['Alice', 'Bob', 'Charlie'],
-    'Age': [25, 30, 28],
-    'City': ['New York', 'San Francisco', 'Los Angeles']
-}
+make_dictionary_lantis_relatics_for_mapping()
 
-df = pd.DataFrame(data)
+print("End of Script")
 
 
-def make_excel_file(dataframe):
-    from openpyxl import Workbook
-    from openpyxl.utils.dataframe import dataframe_to_rows
-    wb = Workbook()
-    ws = wb.active
+def make_meta_data():
+    import datetime as dt
+    current_datetime = dt.datetime.now()
+    formatted_time = current_datetime.strftime("%Y-%m-%d %H:%M:%S")
+    print(formatted_time)
 
-    ws.title = "My New Worksheet"
 
-    for row in dataframe_to_rows(dataframe, index=False, header=False):
-        print(row)
-        ws.append(row)
 
-    ws.column_dimensions["A"].width = 20
-    wb.save("py_test.xlsx")
-
-make_excel_file(df)
+make_meta_data()
