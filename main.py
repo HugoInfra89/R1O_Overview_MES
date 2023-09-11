@@ -136,6 +136,5 @@ if user_input == "YES":
 else:
     print("Data is not saved ... ")
 
-print("With this print statement, I want to check if the push has been succeeded")
-print("This with a commit and push")
+
 

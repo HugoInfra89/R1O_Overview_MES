@@ -1,0 +1,958 @@
+﻿AutoID,Naam,Omschrijving,Model status,Model actueel?,ObjectID,Objectnaam,Object actueel?
+MDL-3921,OWRB-07123-ROC-DMO-W66-000001,Terrein Kras Jeugdwerk,Nieuw,Ja,Obj-07123,Terrein Kras Jeugdwerk - steunpunt Dam - Slachthuislaan,Ja
+MDL-3920,OWRB-07123-ROC-BMO-W66-000001,Terrein Kras Jeugdwerk,Nieuw,Ja,Obj-07123,Terrein Kras Jeugdwerk - steunpunt Dam - Slachthuislaan,Ja
+MDL-3918,OWRB-07070-ROC-XRF-W40-000045,Wielwasinstallaties-RVP128,Nieuw,Ja,,,
+MDL-3917,OWRB-07070-ROC-XRF-W40-000044,Wielwasinstallaties-RVP127,Nieuw,Ja,,,
+MDL-3916,OWRB-07070-ROC-XRF-W40-000043,Wielwasinstallaties-RVP124,Nieuw,Ja,,,
+MDL-3915,OWRB-07070-ROC-XRF-W40-000042,Wielwasinstallaties-RVP123,Nieuw,Ja,,,
+MDL-3914,OWRB-07070-ROC-XRF-W40-000041,Wielwasinstallaties-RVP122,Nieuw,Ja,,,
+MDL-3912,OWRB-07070-ROC-XRF-W40-000040,Wielwasinstallaties-RVP121,Nieuw,Ja,,,
+MDL-3911,3D-model,Wielwasinstallaties-RVP120,Nieuw,Ja,,,
+MDL-3904,OWRB-07069-ROC-DMO-W69-000002,R1O-RIO-OT Dive-Under,Nieuw,Ja,Obj-07069,Waterhuishouding R1 Oost,Ja
+MDL-3903,OWRB-07069-ROC-BMO-W69-000002,R1O-RIO-OT Dive-Under,Nieuw,Ja,Obj-07069,Waterhuishouding R1 Oost,Ja
+MDL-3902,OWRB-07069-ROC-DMO-W69-000001,R1O-RIO-TIJ Tijdelijke Verbindingsboog E313-R1,Nieuw,Ja,Obj-07069,Waterhuishouding R1 Oost,Ja
+MDL-3901,OWRB-07069-ROC-BMO-W69-000001,R1O-RIO-TIJ Tijdelijke Verbindingsboog E313-R1,Nieuw,Ja,Obj-07069,Waterhuishouding R1 Oost,Ja
+MDL-3893,OWRB-04026-ROC-DMO-W64-000001,R1O-DBW-OT Dienstbouwwerk Schijnpoort Energie,Nieuw,Ja,,,
+MDL-3892,OWRB-04026-ROC-BMO-W64-000001,R1O-DBW-OT Dienstbouwwerk Schijnpoort Energie,Nieuw,Ja,Obj-04026,Dienstbouwwerk Schijnpoort Energie,Ja
+MDL-3891,OWRB-03709-ROC-DMO-W64-000001,R1O-DBW-OT Dienstbouwwerk Schijnpoort,Nieuw,Ja,,,
+MDL-3890,OWRB-03709-ROC-BMO-W64-000001,R1O-DBW-OT Dienstbouwwerk Schijnpoort,Nieuw,Ja,Obj-03709,Dienstbouwwerk Schijnpoort,Ja
+MDL-3859,OWRB-01723-ROC-DMO-W28-000001,R1O-FA-TIJ - aanleg gronddijk ijzerlaankanaal,Nieuw,Ja,,,
+MDL-3846,OWRB-01723-ROC-BMO-W28-000001,R1O-FA-TIJ - aanleg gronddijk ijzerlaankanaal,Nieuw,Ja,,,
+MDL-3826,OWRB-07070-ROC-XRF-W40-000039,Werfomheining-RVP128,Nieuw,Ja,,,
+MDL-3825,OWRB-07070-ROC-XRF-W40-000038,Werfomheining-RVP127,Nieuw,Ja,,,
+MDL-3823,OWRB-07070-ROC-XRF-W40-000037,Werfomheining-RVP123,Nieuw,Ja,,,
+MDL-3822,OWRB-07070-ROC-XRF-W40-000036,Werfomheining-RVP122,Nieuw,Ja,,,
+MDL-3810,OWRB-07070-ROC-XRF-W40-000035,Werfketen-RVP127,Nieuw,Ja,,,
+MDL-3807,OWRB-07070-ROC-XRF-W40-000034,Werfketen-RVP123,Nieuw,Ja,,,
+MDL-3806,OWRB-07070-ROC-XRF-W40-000033,Werfketen-RVP122,Nieuw,Ja,,,
+MDL-3805,OWRB-07070-ROC-XRF-W40-000032,Werfketen-RVP121,Nieuw,Ja,,,
+MDL-3796,OWRB-07070-ROC-XRF-W40-000031,Toegangscontrole+Porta-RVP128,Nieuw,Ja,,,
+MDL-3795,OWRB-07070-ROC-XRF-W40-000030,Toegangscontrole+Porta-RVP127,Nieuw,Ja,,,
+MDL-3787,OWRB-07070-ROC-XRF-W40-000029,Toegangscontrole+Porta-RVP123,Nieuw,Ja,,,
+MDL-3786,OWRB-07070-ROC-XRF-W40-000028,Toegangscontrole+Porta-RVP122,Nieuw,Ja,,,
+MDL-3766,OWRB-07070-ROC-XRF-W40-000027,Parkeerplaatsen-RVP127,Nieuw,Ja,,,
+MDL-3765,3D-model,Parkeerplaatsen-RVP125,Nieuw,Ja,,,
+MDL-3764,OWRB-07070-ROC-XRF-W40-000026,Parkeerplaatsen-RVP124,Nieuw,Ja,,,
+MDL-3762,OWRB-07070-ROC-XRF-W40-000025,Parkeerplaatsen-RVP123,Nieuw,Ja,,,
+MDL-3761,OWRB-07070-ROC-XRF-W40-000024,Parkeerplaatsen-RVP122,Nieuw,Ja,,,
+MDL-3760,OWRB-07070-ROC-XRF-W40-000023,Parkeerplaatsen-RVP121,Nieuw,Ja,,,
+MDL-3742,OWRB-07070-ROC-XRF-W40-000022,2D-Werfweg-RVP128-e313-situatie+1,Nieuw,Ja,,,
+MDL-3741,OWRB-06221-ROC-DMO-W69-000002,R1O-RIO-TIJ Tijdelijke Verbindingsboog E313-R1,Vervallen,Ja,Obj-06221,Dive under - afrit Schijnpoort,Ja
+MDL-3740,OWRB-06221-ROC-BMO-W69-000002,R1O-RIO-TIJ Tijdelijke Verbindingsboog E313-R1,Vervallen,Ja,Obj-06221,Dive under - afrit Schijnpoort,Ja
+MDL-3739,OWRB-07070-ROC-XRF-W40-000021,2D-Werfweg-RVP127-van pompstation naar dive-under-situatie+1,Nieuw,Ja,,,
+MDL-3738,OWRB-06221-ROC-DMO-W69-000001,R1O-RIO-OT Dive-Under,Vervallen,Ja,Obj-06221,Dive under - afrit Schijnpoort,Ja
+MDL-3737,OWRB-07070-ROC-XRF-W40-000020,2D-Werfweg-RVP127-invoeger e313-situatie+1,Nieuw,Ja,,,
+MDL-3736,OWRB-06221-ROC-BMO-W69-000001,R1O-RIO-OT Dive-Under,Vervallen,Ja,Obj-06221,Dive under - afrit Schijnpoort,Ja
+MDL-3735,OWRB-07070-ROC-XRF-W40-000019,2D-Werfweg-RVP127-dive-under-situatie+1,Nieuw,Ja,,,
+MDL-3734,OWRB-07070-ROC-XRF-W40-000018,2D-Werfweg-RVP124-sportpaleis-situatie+2,Nieuw,Ja,,,
+MDL-3733,OWRB-07070-ROC-XRF-W40-000017,2D-Werfweg-RVP124-sportpaleis-situatie+1,Nieuw,Ja,,,
+MDL-3732,OWRB-07070-ROC-XRF-W40-000016,2D-Werfweg-RVP124-lbd west-situatie+1,Nieuw,Ja,,,
+MDL-3731,OWRB-07070-ROC-XRF-W40-000015,2D-Werfweg-RVP123-schijnpoortweg zuid-situatie+1,Nieuw,Ja,,,
+MDL-3730,OWRB-07070-ROC-XRF-W40-000014,2D-Werfweg-RVP123- imobe-situatie+1,Nieuw,Ja,,,
+MDL-3729,OWRB-07070-ROC-XRF-W40-000013,2D-Werfweg-RVP123-aquafin-situatie+3,Nieuw,Ja,,,
+MDL-3728,OWRB-07070-ROC-XRF-W40-000012,2D-Werfweg-RVP123-aquafin-situatie+2,Nieuw,Ja,,,
+MDL-3727,OWRB-07070-ROC-XRF-W40-000011,2D-Werfweg-RVP123-aquafin-situatie+1,Nieuw,Ja,,,
+MDL-3726,OWRB-07070-ROC-XRF-W40-000010,2D-Werfweg-RVP123-schijnpoortweg zuid-situatie+1,Nieuw,Ja,,,
+MDL-3725,OWRB-07070-ROC-XRF-W40-000009,2D-Werfweg-RVP122-van pompstation naar spw west-situatie+1,Nieuw,Ja,,,
+MDL-3724,OWRB-07070-ROC-XRF-W40-000008,2D-Werfweg-RVP122-van pompstation naar spw oost -situatie+2,Nieuw,Ja,,,
+MDL-3723,OWRB-07070-ROC-XRF-W40-000007,2D-Werfweg-RVP122-van pompstation naar spw oost -situatie+1,Nieuw,Ja,,,
+MDL-3722,OWRB-07070-ROC-XRF-W40-000006,2D-Werfweg-RVP121-slachthuislaan-situatie+2,Nieuw,Ja,,,
+MDL-3720,OWRB-07070-ROC-XRF-W40-000005,2D-Werfweg-RVP121-lbd west-situatie+1,Nieuw,Ja,,,
+MDL-3719,OWRB-07070-ROC-XRF-W40-000004,2D-Werfweg-RVP121-inrit bouwput oka-situatie+4,Nieuw,Ja,,,
+MDL-3718,OWRB-07070-ROC-XRF-W40-000003,2D-Werfweg-RVP121-inrit bouwput oka-situatie+3,Nieuw,Ja,,,
+MDL-3717,OWRB-07070-ROC-XRF-W40-000002,2D-Werfweg-RVP121-inrit bouwput oka-situatie+2,Nieuw,Ja,,,
+MDL-3716,OWRB-07070-ROC-XRF-W40-000001.dwg,2D-Werfweg-RVP121-inrit bouwput oka-situatie+1,Nieuw,Ja,,,
+MDL-3619,3D-model,,Nieuw,Ja,,,
+MDL-3616,3D-model,,Nieuw,Ja,,,
+MDL-3614,3D-model,,Nieuw,Ja,,,
+MDL-3594,3D-model,,Nieuw,Ja,,,
+MDL-3592,3D-model,,Nieuw,Ja,,,
+MDL-3589,3D-model,HW-BT-Merksem viaduct onderbouw,Nieuw,Ja,,,
+MDL-3588,3D-model,,Nieuw,Ja,,,
+MDL-3587,3D-model,,Nieuw,Ja,,,
+MDL-3580,OWRB-03530-ROC-DMO-W32-000001,R1O-DET-TIJ - Aansluiting trambaan Bisschoppenhoflaan,Nieuw,Ja,,,
+MDL-3579,OWRB-03530-ROC-BMO-W32-000001,R1O-DET-TIJ - Aansluiting trambaan Bisschoppenhoflaan,Nieuw,Ja,,,
+MDL-3578,OWRB-06290-ROC-TMO-W28-000001,Zoneringsplan grondwerkzaamheden werfwegen Dive under,Nieuw,Ja,,,
+MDL-3576,OWRB-06221-ROC-DMB-W28-000001,R1O-FA-TIJ-Ontgravingsmodel Dive Under_Contouren grondwerk,Nieuw,Ja,Obj-06290,Dive under aansluiting van R1 naar E313 (MWQ1),Ja
+MDL-3575,OWRB-06221-ROC-DMA-W28-000001,R1O-FA-TIJ-Ontgravingsmodel Dive Under_surfaces,Nieuw,Ja,Obj-06290,Dive under aansluiting van R1 naar E313 (MWQ1),Ja
+MDL-3567,OWRB-06473-ROC-DMO-W32-000001,R1O-DTM-OT - Tweemontstraat,Nieuw,Ja,,,
+MDL-3566,OWRB-06473-ROC-BMO-W32-000001,R1O-DTM-OT - Tweemontstraat,Nieuw,Ja,,,
+MDL-3562,OWRB-03677-ROC-DMO-W32-000001,R1O-DTM-OT - Van Der Delftstraat,Nieuw,Ja,,,
+MDL-3561,OWRB-03677-ROC-BMO-W32-000001,R1O-DTM-OT - Van Der Delftstraat,Nieuw,Ja,,,
+MDL-3548,OWRB-06326-ROC-IMO-W32-000001,R1O-RIO-BT-scan Aquafin Paepenhof,Nieuw,Ja,,,
+MDL-3547,3D-model,,Nieuw,Ja,,,
+MDL-3546,OWRB-03675-ROC-DMO-W66-000001,Toegangsweg Lotto Arena,Nieuw,Ja,,,
+MDL-3545,OWRB-03675-ROC-BMO-W66-000001,Toegangsweg Lotto Arena,Nieuw,Ja,,,
+MDL-3544,OWRB-05598-ROC-DMO-W66-000001,Pompstation Stenenburg,Nieuw,Ja,,,
+MDL-3542,OWRB-05598-ROC-BMO-W66-000001,Pompstation Stenenburg,Nieuw,Ja,,,
+MDL-3541,OWRB-04358-ROC-DMO-W66-000001,"Bestaande brug E313 pver R1 (zuid); Dit object betreft de de brug met daarop het hoofdtracé van de E313, welke kruist met de R1",Nieuw,Ja,,,
+MDL-3540,OWRB-04358-ROC-BMO-W66-000001,"Bestaande brug E313 pver R1 (zuid); Dit object betreft de de brug met daarop het hoofdtracé van de E313, welke kruist met de R1",Nieuw,Ja,,,
+MDL-3539,3D-model,Gebouw Levanto; Schrijnwerkerij / Meubelmaker - Levanto was een oude huurder van het pand,Nieuw,Ja,,,
+MDL-3538,OWRB-05594-ROC-DMO-W66-000001,Gebouw Rental,Nieuw,Ja,,,
+MDL-3537,OWRB-05594-ROC-BMO-W66-000001,Gebouw Rental,Nieuw,Ja,,,
+MDL-3536,OWRB-05591-ROC-DMO-W66-000001,Gebouw Holcim; Betoncentrale Merksem,Nieuw,Ja,,,
+MDL-3535,OWRB-05591-ROC-BMO-W66-000001,Gebouw Holcim; Betoncentrale Merksem,Nieuw,Ja,Obj-05591,Gebouw Holcim,Ja
+MDL-3534,3D-model,,Nieuw,Ja,,,
+MDL-3533,OWRB-05593-ROC-DMO-W66-000001,Gebouw Gommaire,Nieuw,Ja,,,
+MDL-3532,OWRB-05593-ROC-BMO-W66-000001,Gebouw Gommaire,Nieuw,Ja,Obj-05593,Gebouw Gommaire,Ja
+MDL-3531,3D-model,,Nieuw,Ja,,,
+MDL-3530,3D-model,,Vervallen,Ja,,,
+MDL-3480,OWRB-01496-ROC-XRC-W59-000001,R1N-WEG-TIJ SPW K&L Deel 2 Reconstructie spoor tram Xref LP,Nieuw,Ja,Obj-01496,Tijdelijke aanpassing Schijnpoort,Ja
+MDL-3436,3D-model,,Nieuw,Ja,,,
+MDL-3421,OWRB-05825-ROC-XRF-W32-000003,R1O-WEG-OT OT (light) R1O,Nieuw,Ja,Obj-05825,R1 Oost,Ja
+MDL-3406,OWRB-05825-ROC-XRL-W59-000001,R1O-WEG-TIJ-TO Noordersingel Xref Fase11,Nieuw,Ja,,,
+MDL-3405,OWRB-05825-ROC-XRK-W59-000001,R1O-WEG-TIJ-TO Noordersingel Xref Fase10,Nieuw,Ja,Obj-05825,R1 Oost,Ja
+MDL-3404,OWRB-05825-ROC-XRK-W59-000001,R1O-WEG-TIJ-TO Noordersingel Xref vervallen,Vervallen,Ja,,,
+MDL-3403,OWRB-05825-ROC-XRJ-W59-000001,R1O-WEG-TIJ-TO Noordersingel Xref Fase9,Nieuw,Ja,Obj-05825,R1 Oost,Ja
+MDL-3401,OWRB-06806-LAN-DAL-W03-000001,test modelregistratie,Nieuw,Ja,,,
+MDL-3399,OWRB-05825-ROC-XRI-W59-000001,R1O-WEG-TIJ-TO Noordersingel Xref Fase8,Nieuw,Ja,Obj-05825,R1 Oost,Ja
+MDL-3397,OWRB-05825-ROC-XRH-W59-000001,R1O-WEG-TIJ-TO Noordersingel Xref Fase7,Nieuw,Ja,Obj-05825,R1 Oost,Ja
+MDL-3385,OWRB-03760-LAN-XRA-W66-000002,R1O-HW-R1_Overkapping Hof ter Loo VO,Nieuw,Ja,,,
+MDL-3381,OWRB-03760-ROC-XRF-W59-000001,R1O-HW-OT-Kunstwerken R1O Xref Geometrie,Nieuw,Ja,Obj-03760,Overkapping Hof ter Loo,Ja
+MDL-3380,OWRB-02711-ROC-XRF-W27-000001,R1O-NT-OT Kabeltracés kabelverleg dive-under,Nieuw,Ja,Obj-02711,K&L tracés R1-Oost,Ja
+MDL-3378,OWRB-05883-ROC-XRA-W66-000001,R1O-HW-BT-Pompstation Lobroekdok,Nieuw,Ja,Obj-05883,Pompstation Lobroekdok,Ja
+MDL-3377,OWRB-05883-ROC-DMO-W66-000001,R1O-HW-BT-Pompstation Lobroekdok,Nieuw,Ja,Obj-05883,Pompstation Lobroekdok,Ja
+MDL-3376,OWRB-05883-ROC-BMO-W66-000001,R1O-HW-BT-Pompstation Lobroekdok,Nieuw,Ja,Obj-05883,Pompstation Lobroekdok,Ja
+MDL-3372,OWRB-01496-ROC-XRB-W59-000002,R1N-WEG-TIJ SPW K&L Deel 2 Reconstructie bovenleiding tram Xref Geometrie,Nieuw,Ja,Obj-01496,Tijdelijke aanpassing Schijnpoort,Ja
+MDL-3371,OWRB-01496-ROC-XRA-W59-000002,R1N-WEG-TIJ SPW K&L Deel 2 Reconstructie bovenleiding tram Xref Annotatie,Nieuw,Ja,Obj-01496,Tijdelijke aanpassing Schijnpoort,Ja
+MDL-3370,OWRB-01496-ROC-DMO-W59-000002,R1N-WEG-TIJ SPW K&L Deel 2 Reconstructie bovenleiding tram,Nieuw,Ja,,,
+MDL-3369,OWRB-01496-ROC-BMO-W59-000002,R1N-WEG-TIJ SPW K&L Deel 2 Reconstructie bovenleiding tram,Nieuw,Ja,Obj-01496,Tijdelijke aanpassing Schijnpoort,Ja
+MDL-3356,OWRB-01496-ROC-XRB-W59-000001,R1N-WEG-TIJ SPW K&L Deel 2 Reconstructie spoor tram Xref Geometrie,Nieuw,Ja,Obj-01496,Tijdelijke aanpassing Schijnpoort,Ja
+MDL-3355,OWRB-01496-ROC-XRA-W59-000001,R1N-WEG-TIJ SPW K&L Deel 2 Reconstructie spoor tram Xref Annotatie,Nieuw,Ja,Obj-01496,Tijdelijke aanpassing Schijnpoort,Ja
+MDL-3354,OWRB-01496-ROC-QMO-W59-000001,R1N-WEG-TIJ SPW K&L Deel 2 Reconstructie trambaan,Nieuw,Ja,,,
+MDL-3353,OWRB-01496-ROC-DMO-W59-000001,R1N-WEG-TIJ SPW K&L Deel 2 Reconstructie trambaan,Nieuw,Ja,,,
+MDL-3352,OWRB-01496-ROC-BMO-W59-000001,R1N-WEG-TIJ SPW K&L Deel 2 Reconstructie spoor tram,Nieuw,Ja,Obj-01496,Tijdelijke aanpassing Schijnpoort,Ja
+MDL-3331,OWRB-06806-LAN-ALM-W03-000001,test modelregistratie,Nieuw,Ja,,,
+MDL-3297,OWRB-06221-ROC-DMO-W59-000001,R1O-WEG-TIJ Aansluiting Dive-under op Bypass Oost,Nieuw,Ja,Obj-06221,Dive under - afrit Schijnpoort,Ja
+MDL-3296,OWRB-06221-ROC-BMO-W59-000001,R1O-WEG-TIJ Aansluiting Dive-under op Bypass Oost,Nieuw,Ja,Obj-06221,Dive under - afrit Schijnpoort,Ja
+MDL-3295,OWRB-05825-ROC-XRG-W59-000001,R1O-WEG-TIJ-TO Noordersingel Xref Fase6,Nieuw,Ja,Obj-05825,R1 Oost,Ja
+MDL-3294,OWRB-06221-ROC-XRF-W59-000002,R1O-WEG-TIJ Aansluiting Dive-under op Bypass Oost Xref Annotatie,Nieuw,Ja,Obj-06221,Dive under - afrit Schijnpoort,Ja
+MDL-3293,OWRB-06221-ROC-XRF-W59-000001,R1O-WEG-TIJ Aansluiting Dive-under op Bypass Oost Xref Geometrie,Nieuw,Ja,Obj-06221,Dive under - afrit Schijnpoort,Ja
+MDL-3263,OWRB-01723-ROC-QMO-W66-000001,R1O-HW-OT-Aansluiting IJzerlaankanaal Lobroekdok,Nieuw,Ja,Obj-01723,Aansluiting IJzerlaankanaal op Lobroekdok,Ja
+MDL-3205,OWRB-05825-ROC-XRF-W59-000002,R1O-WEG-TIJ-TO Noordersingel Xref vervallen,Vervallen,Ja,Obj-05825,R1 Oost,Ja
+MDL-3204,OWRB-05825-ROC-XRF-W59-000001,R1O-WEG-TIJ-TO Noordersingel Xref Fase5,Nieuw,Ja,Obj-05825,R1 Oost,Ja
+MDL-3175,OWRB-05825-ROC-XRF-W16-000001,R1O-LS-BT Bestaande toestand bovengrond,Nieuw,Ja,Obj-05825,R1 Oost,Ja
+MDL-3148,OWRB-07070-ROC-DMO-W32-000001,R1O-TI-BT - Opmeting kokers en deksels noorden Turnhoutsebaan,Nieuw,Ja,,,
+MDL-3147,OWRB-07070-ROC-BMO-W32-000001,R1O-TI-BT - Opmeting kokers en deksels noorden Turnhoutsebaan,Nieuw,Ja,,,
+MDL-3146,OWRB-01600-ROC-DMO-W66-000001,R1O-HW-BT - Pompstation Groot Schijn,Nieuw,Ja,,,
+MDL-3136,OWRB-05174-ROC-DMO-W66-000001,HW-BT-R1O - Volkstuintjes Papenhof & Zone opgravingen Papenhof,Nieuw,Ja,Obj-05832,Volkstuintjes Papenhof,Ja
+MDL-3136,OWRB-05174-ROC-DMO-W66-000001,HW-BT-R1O - Volkstuintjes Papenhof & Zone opgravingen Papenhof,Nieuw,Ja,Obj-05174,Zone Groot Schijn Parkstrook (Deurne),Ja
+MDL-3136,OWRB-05174-ROC-DMO-W66-000001,HW-BT-R1O - Volkstuintjes Papenhof & Zone opgravingen Papenhof,Nieuw,Ja,Obj-05586,Zone opgravingen Papenhof,Ja
+MDL-3135,OWRB-05174-ROC-BMO-W66-000001,HW-BT-R1O - Volkstuintjes Papenhof & Zone opgravingen Papenhof,Nieuw,Ja,Obj-05832,Volkstuintjes Papenhof,Ja
+MDL-3135,OWRB-05174-ROC-BMO-W66-000001,HW-BT-R1O - Volkstuintjes Papenhof & Zone opgravingen Papenhof,Nieuw,Ja,Obj-05174,Zone Groot Schijn Parkstrook (Deurne),Ja
+MDL-3135,OWRB-05174-ROC-BMO-W66-000001,HW-BT-R1O - Volkstuintjes Papenhof & Zone opgravingen Papenhof,Nieuw,Ja,Obj-05586,Zone opgravingen Papenhof,Ja
+MDL-3134,OWRB-05227-ROC-DMO-W66-000001,HW-BT-R1O - Gebouw Aldi Slachthuislaan & Gebouw Drankenhandel en autohandel Slachthuislaan,Nieuw,Ja,Obj-05829,Gebouw Aldi Slachthuislaan,Ja
+MDL-3134,OWRB-05227-ROC-DMO-W66-000001,HW-BT-R1O - Gebouw Aldi Slachthuislaan & Gebouw Drankenhandel en autohandel Slachthuislaan,Nieuw,Ja,Obj-05830,Gebouw Drankenhandel en autohandel Slachthuislaan,Ja
+MDL-3134,OWRB-05227-ROC-DMO-W66-000001,HW-BT-R1O - Gebouw Aldi Slachthuislaan & Gebouw Drankenhandel en autohandel Slachthuislaan,Nieuw,Ja,Obj-05227,Zone Bedrijven Slachthhuislaan (Den Dam),Ja
+MDL-3133,OWRB-05227-ROC-BMO-W66-000001,HW-BT-R1O - Gebouw Aldi Slachthuislaan & Gebouw Drankenhandel en autohandel Slachthuislaan,Nieuw,Ja,Obj-05829,Gebouw Aldi Slachthuislaan,Ja
+MDL-3133,OWRB-05227-ROC-BMO-W66-000001,HW-BT-R1O - Gebouw Aldi Slachthuislaan & Gebouw Drankenhandel en autohandel Slachthuislaan,Nieuw,Ja,Obj-05830,Gebouw Drankenhandel en autohandel Slachthuislaan,Ja
+MDL-3133,OWRB-05227-ROC-BMO-W66-000001,HW-BT-R1O - Gebouw Aldi Slachthuislaan & Gebouw Drankenhandel en autohandel Slachthuislaan,Nieuw,Ja,Obj-05227,Zone Bedrijven Slachthhuislaan (Den Dam),Ja
+MDL-3125,OWRB-05226-ROC-DMO-W28-000003,R1O-DTM-BT-255kPa_base-Lobroekdok,Nieuw,Ja,,,
+MDL-3124,OWRB-05226-ROC-BMO-W28-000003,R1O-DTM-BT-255kPa_base-Lobroekdok,Nieuw,Ja,Obj-05226,Lobroekdok,Ja
+MDL-3123,OWRB-05226-ROC-DMO-W28-000002,R1O-DTM-BT-Soft_base-Lobroekdok,Nieuw,Ja,,,
+MDL-3122,OWRB-05226-ROC-BMO-W28-000002,R1O-DTM-BT-Soft_base-Lobroekdok,Nieuw,Ja,Obj-05226,Lobroekdok,Ja
+MDL-3121,OWRB-05226-ROC-DMO-W28-000001,R1O-DTM-BT-Seabed_base-Lobroekdok,Nieuw,Ja,,,
+MDL-3119,OWRB-05226-ROC-BMO-W28-000001.pts,R1O-DTM-BT-Seabed_base-Lobroekdok,Nieuw,Ja,Obj-05226,Lobroekdok,Ja
+MDL-3104,OWRB-02687-ROC-DMO-W66-000001,R1O-HW-BT-Nieuwe inlaat grofrooster Schijnkoker,Nieuw,Ja,Obj-02687,Lozingspunt 15  - Groot Schijn (voor tijdelijke R1 Oost),Ja
+MDL-3103,OWRB-02687-ROC-BMO-W66-000001,R1O-HW-BT-Nieuwe inlaat grofrooster Schijnkoker,Nieuw,Ja,Obj-02687,Lozingspunt 15  - Groot Schijn (voor tijdelijke R1 Oost),Ja
+MDL-3100,OWRB-05586-ROC-DMO-W32-000001,R1O-DET-BT - Archeologische opzoekingen Papenhof 2023,Nieuw,Ja,,,
+MDL-3099,OWRB-05586-ROC-BMO-W32-000001,R1O-DET-BT - Archeologische opzoekingen Papenhof 2023,Nieuw,Ja,,,
+MDL-3078,OWRB-05825-ROC-XRF-W32-000002,R1O-WEG-BT BT (light) R1O(Z),Nieuw,Ja,Obj-05825,R1 Oost,Ja
+MDL-3077,OWRB-05825-ROC-XRF-W32-000001,R1O-WEG-BT BT (light) R1O(N),Nieuw,Ja,Obj-05825,R1 Oost,Ja
+MDL-3016,OWRB-07919-ROC-DMO-W66-000001,"R1O-HW-BT-Holcim (obj.05591), Levanto (obj.05592) Gommaire (obj.05593) en Rental (obj.05594)",Nieuw,Ja,,,
+MDL-3006,OWRB-06656-ROC-DMO-W69-000001,Wegriolering Schijnpoortweg oost,Nieuw,Ja,,,
+MDL-3005,OWRB-06656-ROC-BMO-W69-000001,Wegriolering Schijnpoortweg oost,Nieuw,Ja,Obj-06656,Wegrioleringsstelsel Schijnpoortweg-oost,Ja
+MDL-2999,OWRB-05825-ROC-XRE-W59-000001,R1O-WEG-TIJ-TO Noordersingel Xref Fase4,Nieuw,Ja,Obj-05825,R1 Oost,Ja
+MDL-2996,OWRB-05825-ROC-XRD-W59-000001,R1O-WEG-TIJ-TO Noordersingel Xref Fase3,Nieuw,Ja,Obj-05825,R1 Oost,Ja
+MDL-2992,OWRB-05825-ROC-XRC-W59-000001,R1O-WEG-TIJ-TO Noordersingel Xref Fase2,Nieuw,Ja,Obj-05825,R1 Oost,Ja
+MDL-2991,OWRB-05825-ROC-XRB-W59-000001,R1O-WEG-TIJ-TO Noordersingel Xref Fase1,Nieuw,Ja,Obj-05825,R1 Oost,Ja
+MDL-2990,OWRB-05825-ROC-XRA-W59-000001,R1O-WEG-TIJ-TO Noordersingel Xref Fase0,Nieuw,Ja,Obj-05825,R1 Oost,Ja
+MDL-2989,OWRB-05825-ROC-DMO-W59-000001,R1O-WEG-TIJ-Tijdelijke oprit Noordersingel,Nieuw,Ja,Obj-05825,R1 Oost,Ja
+MDL-2988,OWRB-05825-ROC-BMO-W59-000001,R1O-WEG-TIJ-TO Noordersingel,Nieuw,Ja,Obj-05825,R1 Oost,Ja
+MDL-2987,OWRB-04042-ROC-QMO-W66-000001,R1O-HW-OT_Tunnelconstructie Schijnpoort,Nieuw,Ja,Obj-04042,Tunnelconstructie Schijnpoort,Ja
+MDL-2986,OWRB-04042-ROC-DMO-W66-000001,R1O-HW-OT_Tunnelconstructie Schijnpoort,Nieuw,Ja,Obj-04042,Tunnelconstructie Schijnpoort,Ja
+MDL-2985,OWRB-04042-ROC-BMO-W66-000001,R1O-HW-OT_Tunnelconstructie Schijnpoort,Nieuw,Ja,Obj-04042,Tunnelconstructie Schijnpoort,Ja
+MDL-2928,OWRB-05596-ROC-DMO-W66-000001,R1O-HW-BT - Residentie Rivierenhof,Nieuw,Ja,Obj-05596,Residentie Rivierenhof,Ja
+MDL-2927,OWRB-05596-ROC-BMO-W66-000001,R1O-HW-BT - Residentie Rivierenhof,Nieuw,Ja,Obj-05596,Residentie Rivierenhof,Ja
+MDL-2895,OWRB-05825-LAN-DMO-W59-000001,R1O-WEG OT-MARK,Nieuw,Ja,,,
+MDL-2894,OWRB-05825-LAN-BMO-W59-000001,R1O-WEG OT-MARK,Nieuw,Ja,,,
+MDL-2885,OWRB-05825-LAN-DMO-W67-000001,R1O-PVBR-OT,Nieuw,Ja,,,
+MDL-2884,OWRB-05825-LAN-BMO-W67-000001,R1O-PVBR-OT,Nieuw,Ja,,,
+MDL-2871,OWRB-02869-ROC-DMO-W27-000001,R1O-NT-BT-Aansluitingen Leidingenkoker Schijnpoort,Nieuw,Ja,,,
+MDL-2870,OWRB-02869-ROC-BMO-W27-000001,R1O-NT-BT-Aansluitingen Leidingenkoker Schijnpoort,Vervallen,Ja,Obj-02869,K0467 - K&L leidingkoker Schijnpoortweg,Ja
+MDL-2869,OWRB-02854-ROC-DMO-W27-000001,R1N-NT-BT- Aansluitingen Leidingenkoker Groenendaallaan,Nieuw,Ja,,,
+MDL-2868,OWRB-02854-ROC-BMO-W27-000001,R1N-NT-BT- Aansluitingen Leidingenkoker Groenendaallaan,Vervallen,Ja,Obj-02854,K0232 - K&L Leidingkoker Groenendaallaan,Ja
+MDL-2850,OWRB-04329-ROC-DMO-W66-000001,R1O-HW-BT - Polderwand west - verdiepte ligging Schijnpoort (deel bestaand - te behouden & op te breken),Nieuw,Ja,Obj-05833,Polderwand west - verdiepte ligging Schijnpoort (deel bestaand - te behouden),Ja
+MDL-2850,OWRB-04329-ROC-DMO-W66-000001,R1O-HW-BT - Polderwand west - verdiepte ligging Schijnpoort (deel bestaand - te behouden & op te breken),Nieuw,Ja,Obj-06227,Polderwand west - verdiepte ligging Schijnpoort (deel bestaand op te breken),Ja
+MDL-2849,OWRB-04329-ROC-BMO-W66-000001,R1O-HW-BT - Polderwand west - verdiepte ligging Schijnpoort (deel bestaand - te behouden & op te breken),Nieuw,Ja,Obj-05833,Polderwand west - verdiepte ligging Schijnpoort (deel bestaand - te behouden),Ja
+MDL-2849,OWRB-04329-ROC-BMO-W66-000001,R1O-HW-BT - Polderwand west - verdiepte ligging Schijnpoort (deel bestaand - te behouden & op te breken),Nieuw,Ja,Obj-06227,Polderwand west - verdiepte ligging Schijnpoort (deel bestaand op te breken),Ja
+MDL-2847,OWRB-05902-ROC-TMO-W66-000002,R1O-HW-BT - Bouwplaatse Informatie Objectdefinitietekening,Nieuw,Ja,,,
+MDL-2843,OWRB-05231-ROC-DMO-W66-000001,R1O-HW-BT - Federale politie (Obj-05597); Kantoorcomplex Noordersingel R1 (Obj-05889); Toegang tot parkeergarage Antwerp Ring Center (Obj-05214),Nieuw,Ja,,,
+MDL-2842,OWRB-05231-ROC-BMO-W66-000001,R1O-HW-BT - Federale politie (Obj-05597); Kantoorcomplex Noordersingel R1 (Obj-05889); Toegang tot parkeergarage Antwerp Ring Center (Obj-05214),Nieuw,Ja,Obj-05231,Zone Bedrijven Noordersingel (Borgerhout Intramuros),Ja
+MDL-2829,OWRB-05567-ROC-DMO-W32-000001,TOKA-DET-BT - Archeologisch onderzoek OKA,Nieuw,Ja,,,
+MDL-2827,OWRB-05567-ROC-BMO-W32-000001,TOKA-DET-BT - Archeologisch onderzoek OKA,Nieuw,Ja,,,
+MDL-2774,OWRB-06362-ROC-IMO-W32-000001,R1O-WEG-BT- VIP parking Sportpaleis,Nieuw,Ja,,,
+MDL-2729,OWRB-07625-ROC-DMO-W28-000001,R1O(N) -FA-TIJ-potentiele opslag gecontamineerd materiaal,Nieuw,Ja,,,
+MDL-2728,OWRB-07625-ROC-BMO-W28-000001,R1O(N) -FA-TIJ-potentiele opslag gecontamineerd materiaal,Nieuw,Ja,,,
+MDL-2708,OWRB-05112-ROC-DMO-W66-000002,R1O-HW-BT - Sportpaleis,Vervallen,Ja,,,
+MDL-2707,OWRB-05902-ROC-TMO-W66-000001,R1O-HW-BT - Objectdefinitietekening bestaande en te slopen objecten,Nieuw,Ja,Obj-05902,R1 Oost Context,Ja
+MDL-2698,OWRB-03678-ROC-DMO-W66-000001,R1O-HW-BT - Ten Eekhovenlei,Nieuw,Ja,Obj-03678,Ten Eekhovenlei,Ja
+MDL-2697,OWRB-03678-ROC-BMO-W66-000001,R1O-HW-BT - Ten Eekhovenlei,Nieuw,Ja,Obj-03678,Ten Eekhovenlei,Ja
+MDL-2685,OWRB-05113-ROC-DMO-W66-000001,R1O-HW-BT- Imobe Terrain,Nieuw,Ja,Obj-05113,Imobe terrein,Ja
+MDL-2684,OWRB-05113-ROC-BMO-W66-000001,R1O-HW-BT- Imobe Terrain,Nieuw,Ja,Obj-05113,Imobe terrein,Ja
+MDL-2681,OWRB-05570-ROC-DMO-W66-000002,R1O-HW-BT-Containerpark Noordersingel - Road Solids,Vervallen,Ja,Obj-05570,Containerpark Noordersingel,Ja
+MDL-2680,OWRB-05570-ROC-BMO-W66-000002,R1O-HW-BT-Containerpark Noordersingel - Road Solids,Vervallen,Ja,Obj-05570,Containerpark Noordersingel,Ja
+MDL-2677,OWRB-05114-ROC-DMO-W66-000001,R1O-HW-BT-Lotto Arena,Nieuw,Ja,Obj-05114,Lotto Arena,Ja
+MDL-2676,OWRB-05114-ROC-BMO-W66-000001,R1O-HW-BT-Lotto Arena,Nieuw,Ja,Obj-05114,Lotto Arena,Ja
+MDL-2664,OWRB-05226-ROC-DMO-W32-000001,R1N-LS-TIJ - Hekwerk RWZI Lobroekdok,Nieuw,Ja,,,
+MDL-2663,OWRB-05226-ROC-BMO-W32-000001,R1O-LS-TIJ - Hekwerk RWZI Lobroekdok,Nieuw,Ja,,,
+MDL-2652,OWRB-05831-ROC-DMO-W66-000001,R1O-HW-BT - Metrostation Sport & Keerlus Premetro,Nieuw,Ja,Obj-05831,Metrostation Sport,Ja
+MDL-2651,OWRB-05831-ROC-BMO-W66-000001,R1O-HW-BT - Metrostation Sport & Keerlus Premetro,Nieuw,Ja,Obj-05545,Keerlus premetro,Ja
+MDL-2651,OWRB-05831-ROC-BMO-W66-000001,R1O-HW-BT - Metrostation Sport & Keerlus Premetro,Nieuw,Ja,Obj-05831,Metrostation Sport,Ja
+MDL-2636,OWRB-06411-ROC-XRF-W27-000004,R1O-NT-TIJ- Xref uitvoeringsplan grouting Van der Delftstraat,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2631,OWRB-06212-ROC-XRF-W59-000002,R1O-WEG-TIJ- Xref annotatie aansluiting Dive-under op bestaande R1,Nieuw,Ja,Obj-06221,Dive under - afrit Schijnpoort,Ja
+MDL-2630,OWRB-06212-ROC-XRF-W59-000001,R1O-WEG-TIJ- Xref geometrie aansluiting Dive-under op bestaande R1,Nieuw,Ja,Obj-06221,Dive under - afrit Schijnpoort,Ja
+MDL-2625,OWRB-06411-ROC-XRF-W27-000003,RIO-WEG-TIJ-SPW werfzone leidingkoker oost,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2621,OWRB-07627-ROC-DMO-W41-000001,R1O-HW-TIJ-Grondkering oostzijde Lobroekdok,Nieuw,Ja,,,
+MDL-2620,OWRB-07627-ROC-BMO-W41-000001,R1O-HW-TIJ-Grondkering oostzijde Lobroekdok,Nieuw,Ja,Obj-07627,Grondkering oostzijde Lobroekdok,Ja
+MDL-2596,OWVA-S0292-LAN-DMO-W69-000002,SYS0292 - LP12 (Waterbeheersysteem) (c),Nieuw,Ja,Obj-06675,Drainagestelsel R1_Bu,Ja
+MDL-2595,OWVA-S0292-LAN-BMO-W69-000002,SYS0292 - LP12 (Waterbeheersysteem) (c),Nieuw,Ja,Obj-06675,Drainagestelsel R1_Bu,Ja
+MDL-2594,OWVA-S0292-LAN-DMO-W69-000001,SYS0292 - LP12 (Waterbeheersysteem) (f-g-h),Nieuw,Ja,Obj-06671,Drainagestelsel R1_Bi,Ja
+MDL-2594,OWVA-S0292-LAN-DMO-W69-000001,SYS0292 - LP12 (Waterbeheersysteem) (f-g-h),Nieuw,Ja,Obj-06672,Drainagestelsel R1-E313_oost,Ja
+MDL-2594,OWVA-S0292-LAN-DMO-W69-000001,SYS0292 - LP12 (Waterbeheersysteem) (f-g-h),Nieuw,Ja,Obj-06678,Drainagestelsel R1-E313_west,Ja
+MDL-2593,OWVA-S0292-LAN-BMO-W69-000001,SYS0292 - LP12 (Waterbeheersysteem) (f-g-h),Nieuw,Ja,Obj-06671,Drainagestelsel R1_Bi,Ja
+MDL-2593,OWVA-S0292-LAN-BMO-W69-000001,SYS0292 - LP12 (Waterbeheersysteem) (f-g-h),Nieuw,Ja,Obj-06672,Drainagestelsel R1-E313_oost,Ja
+MDL-2593,OWVA-S0292-LAN-BMO-W69-000001,SYS0292 - LP12 (Waterbeheersysteem) (f-g-h),Nieuw,Ja,Obj-06678,Drainagestelsel R1-E313_west,Ja
+MDL-2538,OWRB-05112-ROC-DMO-W66-000001,R1O-HW-BT-Sportpaleis,Nieuw,Ja,Obj-05112,Sportpaleis,Ja
+MDL-2537,OWRB-05112-ROC-BMO-W66-000001,R1O-HW-BT-Sportpaleis,Nieuw,Ja,Obj-05112,Sportpaleis,Ja
+MDL-2508,OWRB-05570-ROC-DMO-W66-000001,R1O-HW-BT-Containerpark Noordersingel,Nieuw,Ja,Obj-05570,Containerpark Noordersingel,Ja
+MDL-2507,OWRB-05570-ROC-BMO-W66-000001,R1O-HW-BT-Containerpark Noordersingel,Nieuw,Ja,Obj-05570,Containerpark Noordersingel,Ja
+MDL-2492,OWRB-05112-ROC-XRF-W59-000002,R1O-WEG-TIJ-Xref werfweg tussen Betofin en Sportpaleis annotatie,Nieuw,Ja,Obj-05112,Sportpaleis,Ja
+MDL-2491,OWRB-05112-ROC-XRF-W59-000001,R1O-WEG-TIJ-Xref werfweg tussen Betofin en Sportpaleis geometrie,Nieuw,Ja,Obj-05112,Sportpaleis,Ja
+MDL-2489,OWRB-06411-ROC-XRF-W27-000002,R1O-RIO-TIJ-Xref bemaling & persleiding RWZI Schijnpoort deel 2,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2488,OWRB-06411-ROC-XRF-W27-000001,R1O-RIO-TIJ-Xref aanvoer bemalingswater WZI Lobroekdok,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2459,OWRB-06411-ROC-XRF-W59-000036,R1O-WEG-TIJ-SPW xref annotatie afbraak Van der Delfstraat,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2458,OWRB-06411-ROC-XRF-W59-000035,R1O-WEG-TIJ-SPW xref geometrie afbraak Van der Delfstraat,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2457,OWRB-06411-ROC-XRF-W59-000034,R1O-WEG-TIJ-SPW xref annotatie aanleg Van der Delfstraat,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2456,OWRB-06411-ROC-XRF-W59-000033,R1O-WEG-TIJ-SPW xref geometrie aanleg Van der Delfstraat,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2402,OWRB-07919-ROC-BMO-W66-000001,"R1O-HW-BT-Holcim (obj.05591), Levanto (obj.05592) Gommaire (obj.05593) en Rental (obj.05594)",Vervallen,Ja,Obj-07919,Terreinen Betofin,Ja
+MDL-2401,OWRB-06411-ROC-XRF-W59-000032,R1O-WEG-TIJ-SPW Deel 2 fase 13 xref annotatie,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2393,OWRB-06411-ROC-DMO-W59-000001,R1O-WEG-TIJ-SPW Deel 2 fase 2,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2392,OWRB-06411-ROC-BMO-W59-000001,R1O-WEG-TIJ-SPW Deel 2 fase 2,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2390,OWRB-01600-ROC-BMO-W66-000001,R1O-HW-BT - Pompstation Groot Schijn,Nieuw,Ja,,,
+MDL-2312,OWRB-06411-ROC-XRF-W59-000031,R1O-WEG-TIJ-SPW Deel 2 fase 13 xref geometrie aanleg,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2298,OWRB-06411-ROC-XRF-W59-000030,R1O-WEG-TIJ-SPW Deel 2 fase 12 xref annotatie aanleg,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2297,OWRB-06411-ROC-XRF-W59-000029,R1O-WEG-TIJ-SPW Deel 2 fase 12 xref geometrie aanleg,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2296,OWRB-06411-ROC-XRF-W59-000028,R1O-WEG-TIJ-SPW Deel 2 fase 11 xref annotatie aanleg,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2295,OWRB-06411-ROC-XRF-W59-000027,R1O-WEG-TIJ-SPW Deel 2 fase 11 xref geometrie aanleg,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2294,OWRB-06411-ROC-XRF-W59-000026,R1O-WEG-TIJ-SPW Deel 2 fase 11 xref annotatie afbraak,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2293,OWRB-06411-ROC-XRF-W59-000025,R1O-WEG-TIJ-SPW Deel 2 fase 11 xref geometrie afbraak,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2292,OWRB-06411-ROC-XRF-W59-000024,R1O-WEG-TIJ-SPW Deel 2 fase 10 xref annotatie aanleg,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2291,OWRB-06411-ROC-XRF-W59-000023,R1O-WEG-TIJ-SPW Deel 2 fase 10 xref geometrie aanleg,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2290,OWRB-06411-ROC-XRF-W59-000022,R1O-WEG-TIJ-SPW Deel 2 fase 9 xref annotatie aanleg,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2289,OWRB-06411-ROC-XRF-W59-000021,R1O-WEG-TIJ-SPW Deel 2 fase 9 xref geometrie aanleg,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2288,OWRB-06411-ROC-XRF-W59-000020,R1O-WEG-TIJ-SPW Deel 2 fase 2B xref annotatie afbraak,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2287,OWRB-06411-ROC-XRF-W59-000019,R1O-WEG-TIJ-SPW Deel 2 fase 2B xref geometrie afbraak,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2286,OWRB-06411-ROC-XRF-W59-000018,R1O-WEG-TIJ-SPW Deel 2 fase 8 xref annotatie aanleg,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2285,OWRB-06411-ROC-XRF-W59-000017,R1O-WEG-TIJ-SPW Deel 2 fase 8 xref geometrie aanleg,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2284,OWRB-06411-ROC-XRF-W59-000016,R1O-WEG-TIJ-SPW Deel 2 fase 8 xref annotatie afbraak,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2283,OWRB-06411-ROC-XRF-W59-000015,R1O-WEG-TIJ-SPW Deel 2 fase 8 xref geometrie afbraak,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2282,OWRB-06411-ROC-XRF-W59-000014,R1O-WEG-TIJ-SPW Deel 2 fase 7 xref annotatie aanleg,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2281,OWRB-06411-ROC-XRF-W59-000013,R1O-WEG-TIJ-SPW Deel 2 fase 7 xref geometrie aanleg,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2280,OWRB-06411-ROC-XRF-W59-000012,R1O-WEG-TIJ-SPW Deel 2 fase 7 xref annotatie afbraak,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2279,OWRB-06411-ROC-XRF-W59-000011,R1O-WEG-TIJ-SPW Deel 2 fase 7 xref geometrie afbraak,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2278,OWRB-06411-ROC-XRF-W59-000010,R1O-WEG-TIJ-SPW Deel 2 fase 3 xref annotatie aanleg,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2277,OWRB-06411-ROC-XRF-W59-000009,R1O-WEG-TIJ-SPW Deel 2 fase 3 xref geometrie aanleg,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2276,OWRB-06411-ROC-XRF-W59-000008,R1O-WEG-TIJ-SPW Deel 2 fase 2 xref annotatie aanleg,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2275,OWRB-06411-ROC-XRF-W59-000007,R1O-WEG-TIJ-SPW Deel 2 fase 2 xref geometrie aanleg,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2274,OWRB-06411-ROC-XRF-W59-000006,R1O-WEG-TIJ-SPW Deel 2 fase 2 xref annotatie afbraak,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2273,OWRB-06411-ROC-XRF-W59-000005,R1O-WEG-TIJ-SPW Deel 2 fase 2 xref geometrie afbraak,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2272,OWRB-06411-ROC-XRF-W59-000004,R1O-WEG-TIJ-SPW Deel 2 fase 1 xref annotatie aanleg,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2271,OWRB-06411-ROC-XRF-W59-000003,R1O-WEG-TIJ-SPW Deel 2 fase 1 xref geometrie aanleg,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2270,OWRB-06411-ROC-XRF-W59-000002,R1O-WEG-TIJ-SPW Deel 2 fase 1 xref annotatie afbraak,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2266,OWRB-06411-ROC-XRF-W59-000001,R1O-WEG-TIJ-SPW Deel 2 fase 1 xref geometrie afbraak,Nieuw,Ja,Obj-06411,K&L oplossing Schijnpoort,Ja
+MDL-2265,OWRB-00ALG-ROC-XRF-W32-000001.dwg,test xrf,Vervallen,Ja,,,
+MDL-2264,OWRB-05825-ROC-DMO-W62-000002,R1O-LS-OT-Landschap - Passage van wildlife 4m,Nieuw,Ja,Obj-05825,R1 Oost,Ja
+MDL-2263,OWRB-05825-ROC-BMO-W62-000002,R1O-LS-OT-Landschap - Passage van wildlife dive under zuid 4m,Nieuw,Ja,Obj-05825,R1 Oost,Ja
+MDL-2261,OWRB-02861-ROC-DMO-W28-000001,R1ON-FA-TU-grondverzet inkokering groot Schijn,Nieuw,Ja,,,
+MDL-2260,OWRB-02861-ROC-BMO-W28-000001,R1ON-FA-TU-grondverzet inkokering groot Schijn,Nieuw,Ja,,,
+MDL-2197,OWRB-05063-ROC-QMO-W66-000001,R1ON-HW-OT-Afwateringskoker Groot Schijn,Nieuw,Ja,,,
+MDL-2195,OWRB-02861-LAN-QMO-W66-000002,R1O-HW-NT_Groot Schijn (waterloop) Open dak VO,Vervallen,Ja,Obj-05063,Afwateringskoker Groot Schijn,Ja
+MDL-2192,OWRB-05063-LAN-QMO-W66-000001,R1O-RIO-Groot Schijn (waterloop) Open dak,Nieuw,Ja,,,
+MDL-2164,OWRB-02693-LAN-DMO-W66-000001,,Nieuw,Ja,,,
+MDL-2163,OWRB-02693-LAN-BMO-W66-000001,R1O-RIO-Vloeistofkelder Hof ter Lo (OHtL),Nieuw,Ja,Obj-02693,Vloeistofkelder Hof ter Lo (OHtL),Ja
+MDL-2163,OWRB-02693-LAN-BMO-W66-000001,R1O-RIO-Vloeistofkelder Hof ter Lo (OHtL),Nieuw,Ja,Obj-06667,WE: Buitenpompinstallatie  Vloeistofkelder Onderdoorgang Hof ter Lo (OHtL),Ja
+MDL-2162,OWRB-04984-LAN-DMO-W66-000001,,Nieuw,Ja,,,
+MDL-2161,OWRB-04984-LAN-BMO-W66-000001,R1O-RIO-Vloeistofkelder Kap Hof ter Lo (KHtL),Nieuw,Ja,Obj-06669,Schoonvloeistofpompinstallatie KHtL ---VERVALLEN---,Nee
+MDL-2161,OWRB-04984-LAN-BMO-W66-000001,R1O-RIO-Vloeistofkelder Kap Hof ter Lo (KHtL),Nieuw,Ja,Obj-04984,Vloeistofkelder Kap Hof ter Lo (KHtL),Ja
+MDL-2161,OWRB-04984-LAN-BMO-W66-000001,R1O-RIO-Vloeistofkelder Kap Hof ter Lo (KHtL),Nieuw,Ja,Obj-06668,Vuilvloeistofpompinstallatie KHtL ---VERVALLEN---,Nee
+MDL-2161,OWRB-04984-LAN-BMO-W66-000001,R1O-RIO-Vloeistofkelder Kap Hof ter Lo (KHtL),Nieuw,Ja,Obj-05249,WF: Buitenpompinstallatie Vloeistofkelder Kap Hof ter Lo (KHtL),Ja
+MDL-2145,OWRB-05870-LAN-TMO-W59-000001,Grondplan configuratie knoop R1 Oost,Nieuw,Ja,,,
+MDL-2134,OWRB-02523-LAN-DMO-W59-000008,004-WEG-R1S-GWB1,Nieuw,Ja,,,
+MDL-2130,OWRB-05527-LAN-XRB-W59-000001,,Nieuw,Ja,,,
+MDL-2129,OWRB-05527-LAN-XRA-W59-000001,,Nieuw,Ja,,,
+MDL-2128,OWRB-05228-LAN-XRB-W59-000001,,Nieuw,Ja,,,
+MDL-2127,OWRB-05228-LAN-XRA-W59-000001,,Nieuw,Ja,,,
+MDL-2015,OWRB-06221-ROC-DMO-W28-000002,,Nieuw,Ja,,,
+MDL-2014,OWRB-06221-ROC-BMO-W28-000002,R1O-FA-TIJ-Bodem Ontgraving Dive Under,Nieuw,Ja,,,
+MDL-2013,OWRB-06221-ROC-DMO-W28-000001,,Nieuw,Ja,,,
+MDL-2012,OWRB-06221-ROC-BMO-W28-000001,R1O-FA-TIJ-Ontgravingsmodel Dive Under,Nieuw,Ja,Obj-06290,Dive under aansluiting van R1 naar E313 (MWQ1),Ja
+MDL-1997,OWRB-06819-ROC-DMO-W66-000001,R1O-FP-OT-Fietstunnel Turnhoutsebaan ==> is OWRO model nu,Vervallen,Ja,Obj-06819,Fietstunnel Turnhoutsebaan,Ja
+MDL-1994,OWRB-06819-ROC-BMO-W66-000001,R1O-FP-OT-Fietstunnel Turnhoutsebaan  ==> is OWRO model nu,Vervallen,Ja,Obj-06819,Fietstunnel Turnhoutsebaan,Ja
+MDL-1990,OWRB-04042-ROC-TMO-W66-000001,R1ON-HW-OT-Sectieboek Schijnpoorttunnel,Nieuw,Ja,Obj-04042,Tunnelconstructie Schijnpoort,Ja
+MDL-1989,OWRB-05527-ROC-DMO-W66-000001,,Nieuw,Ja,,,
+MDL-1988,OWRB-05527-ROC-BMO-W66-000001,,Nieuw,Ja,,,
+MDL-1985,OWRB-05825-ROC-DMO-W62-000001,R1O-LS-OT-Landschap,Nieuw,Ja,Obj-05825,R1 Oost,Ja
+MDL-1984,OWRB-05825-ROC-BMO-W62-000001,R1O-LS-OT-Landschap,Nieuw,Ja,Obj-05825,R1 Oost,Ja
+MDL-1956,OWRB-02669-LAN-DMO-W66-000001,R1O-RIO-OT-Vloeistofkelder Schijnpoorttunnel - zuid (TSCH-Z),Nieuw,Ja,Obj-02669,Hoofdkelder TSCH-Z,Ja
+MDL-1956,OWRB-02669-LAN-DMO-W66-000001,R1O-RIO-OT-Vloeistofkelder Schijnpoorttunnel - zuid (TSCH-Z),Nieuw,Ja,Obj-06643,Schoonvloeistofpompinstallatie TSCH-Z ---VERVALLEN---,Nee
+MDL-1956,OWRB-02669-LAN-DMO-W66-000001,R1O-RIO-OT-Vloeistofkelder Schijnpoorttunnel - zuid (TSCH-Z),Nieuw,Ja,Obj-06648,Vuilvloeistofpompinstallatie TSCH-Z ---VERVALLEN---,Nee
+MDL-1956,OWRB-02669-LAN-DMO-W66-000001,R1O-RIO-OT-Vloeistofkelder Schijnpoorttunnel - zuid (TSCH-Z),Nieuw,Ja,Obj-06503,WH: Drainage-pompinstallatie van Hoofdkelder Schijnpoort (TSCH-Z),Ja
+MDL-1955,OWRB-02669-LAN-BMO-W66-000001,R1O-RIO-OT-Vloeistofkelder Schijnpoorttunnel - zuid (TSCH-Z),Nieuw,Ja,Obj-02669,Hoofdkelder TSCH-Z,Ja
+MDL-1955,OWRB-02669-LAN-BMO-W66-000001,R1O-RIO-OT-Vloeistofkelder Schijnpoorttunnel - zuid (TSCH-Z),Nieuw,Ja,Obj-06643,Schoonvloeistofpompinstallatie TSCH-Z ---VERVALLEN---,Nee
+MDL-1955,OWRB-02669-LAN-BMO-W66-000001,R1O-RIO-OT-Vloeistofkelder Schijnpoorttunnel - zuid (TSCH-Z),Nieuw,Ja,Obj-06648,Vuilvloeistofpompinstallatie TSCH-Z ---VERVALLEN---,Nee
+MDL-1955,OWRB-02669-LAN-BMO-W66-000001,R1O-RIO-OT-Vloeistofkelder Schijnpoorttunnel - zuid (TSCH-Z),Nieuw,Ja,Obj-06503,WH: Drainage-pompinstallatie van Hoofdkelder Schijnpoort (TSCH-Z),Ja
+MDL-1954,OWRB-04987-LAN-DMO-W66-000001,R1O-RIO-OT-Vloeistofkelder Schijnpoorttunnel - noord (TSCH-N),Nieuw,Ja,Obj-04987,Hoofdkelder TSCH-N,Ja
+MDL-1954,OWRB-04987-LAN-DMO-W66-000001,R1O-RIO-OT-Vloeistofkelder Schijnpoorttunnel - noord (TSCH-N),Nieuw,Ja,Obj-06347,WA: Drainage-pompinstallatie  Nevenhoofdkelder  Schijnpoort (TSCH-N),Ja
+MDL-1954,OWRB-04987-LAN-DMO-W66-000001,R1O-RIO-OT-Vloeistofkelder Schijnpoorttunnel - noord (TSCH-N),Nieuw,Ja,Obj-06651,WA: Hoofdpompinstallatie Nevenhoofdkelder Schijnpoort (TSCH-N),Ja
+MDL-1953,OWRB-04987-LAN-BMO-W66-000001,R1O-RIO-OT-Vloeistofkelder Schijnpoorttunnel - noord (TSCH-N),Nieuw,Ja,Obj-04987,Hoofdkelder TSCH-N,Ja
+MDL-1953,OWRB-04987-LAN-BMO-W66-000001,R1O-RIO-OT-Vloeistofkelder Schijnpoorttunnel - noord (TSCH-N),Nieuw,Ja,Obj-06347,WA: Drainage-pompinstallatie  Nevenhoofdkelder  Schijnpoort (TSCH-N),Ja
+MDL-1953,OWRB-04987-LAN-BMO-W66-000001,R1O-RIO-OT-Vloeistofkelder Schijnpoorttunnel - noord (TSCH-N),Nieuw,Ja,Obj-06651,WA: Hoofdpompinstallatie Nevenhoofdkelder Schijnpoort (TSCH-N),Ja
+MDL-1943,OWVA-S0170-LAN-DMO-W69-000001,SYS0170 - LP6b (poldersysteem),Nieuw,Ja,Obj-06413,Drainagestelsel polder R1 Oost -7.500 (VLR1-PN),Ja
+MDL-1943,OWVA-S0170-LAN-DMO-W69-000001,SYS0170 - LP6b (poldersysteem),Nieuw,Ja,Obj-06412,Transportleiding ​DV TSCH-N​,Ja
+MDL-1942,OWVA-S0170-LAN-BMO-W69-000001,SYS0170 - LP6b (poldersysteem),Nieuw,Ja,Obj-06413,Drainagestelsel polder R1 Oost -7.500 (VLR1-PN),Ja
+MDL-1942,OWVA-S0170-LAN-BMO-W69-000001,SYS0170 - LP6b (poldersysteem),Nieuw,Ja,Obj-06412,Transportleiding ​DV TSCH-N​,Ja
+MDL-1941,OWVA-S0169-LAN-DMO-W69-000001,SYS0169 - LP5 (poldersysteem),Nieuw,Ja,Obj-06506,Drainagestelsel OKA-PZ (van polder R1 Oost - IJzerlaan -8.200),Ja
+MDL-1941,OWVA-S0169-LAN-DMO-W69-000001,SYS0169 - LP5 (poldersysteem),Nieuw,Ja,Obj-06507,Transportleiding DV TOKA-Z,Ja
+MDL-1940,OWVA-S0169-LAN-BMO-W69-000001,SYS0169 - LP5 (poldersysteem),Nieuw,Ja,Obj-06506,Drainagestelsel OKA-PZ (van polder R1 Oost - IJzerlaan -8.200),Ja
+MDL-1940,OWVA-S0169-LAN-BMO-W69-000001,SYS0169 - LP5 (poldersysteem),Nieuw,Ja,Obj-06507,Transportleiding DV TOKA-Z,Ja
+MDL-1933,OWVA-S0102-LAN-DMO-W69-000001,SYS0102 - LP6a (poldersysteem),Nieuw,Ja,Obj-06502,Drainagestelsel polder R1 Oost -4.000 (VLR1-PZ),Ja
+MDL-1933,OWVA-S0102-LAN-DMO-W69-000001,SYS0102 - LP6a (poldersysteem),Nieuw,Ja,Obj-06504,Transportleiding ​DV TSCH-Z​,Ja
+MDL-1932,OWVA-S0102-LAN-BMO-W69-000001,SYS0102 - LP6a (poldersysteem),Nieuw,Ja,Obj-06502,Drainagestelsel polder R1 Oost -4.000 (VLR1-PZ),Ja
+MDL-1932,OWVA-S0102-LAN-BMO-W69-000001,SYS0102 - LP6a (poldersysteem),Nieuw,Ja,Obj-06504,Transportleiding ​DV TSCH-Z​,Ja
+MDL-1931,OWVA-S0098-LAN-DMO-W69-000005,SYS0098 - LP12 (afwatersysteem (a) - dive under),Nieuw,Ja,Obj-06670,Transportleiding HV OTHB,Ja
+MDL-1931,OWVA-S0098-LAN-DMO-W69-000005,SYS0098 - LP12 (afwatersysteem (a) - dive under),Nieuw,Ja,Obj-06673,Wegrioleringsstelsel OTHB,Ja
+MDL-1931,OWVA-S0098-LAN-DMO-W69-000005,SYS0098 - LP12 (afwatersysteem (a) - dive under),Nieuw,Ja,Obj-06680,Wegrioleringsstelsel R1-OTHB,Ja
+MDL-1930,OWVA-S0098-LAN-BMO-W69-000005,SYS0098 - LP12 (afwatersysteem (a) - dive under),Nieuw,Ja,Obj-06670,Transportleiding HV OTHB,Ja
+MDL-1930,OWVA-S0098-LAN-BMO-W69-000005,SYS0098 - LP12 (afwatersysteem (a) - dive under),Nieuw,Ja,Obj-06673,Wegrioleringsstelsel OTHB,Ja
+MDL-1930,OWVA-S0098-LAN-BMO-W69-000005,SYS0098 - LP12 (afwatersysteem (a) - dive under),Nieuw,Ja,Obj-06680,Wegrioleringsstelsel R1-OTHB,Ja
+MDL-1927,OWVA-S0098-LAN-DMO-W69-000003,SYS0098 - LP12 (afwatersysteem c),Nieuw,Ja,Obj-06676,Wegrioleringsstelsel R1-oost_Bi,Ja
+MDL-1926,OWVA-S0098-LAN-BMO-W69-000003,SYS0098 - LP12 (afwatersysteem c),Nieuw,Ja,Obj-06676,Wegrioleringsstelsel R1-oost_Bi,Ja
+MDL-1925,OWVA-S0098-LAN-DMO-W69-000002,SYS0098 - LP12 (afwatersysteem d-e),Nieuw,Ja,Obj-06677,Wegrioleringsstelsel R1-E313,Ja
+MDL-1925,OWVA-S0098-LAN-DMO-W69-000002,SYS0098 - LP12 (afwatersysteem d-e),Nieuw,Ja,Obj-06674,Wegrioleringsstelsel R1-oost_Bu,Ja
+MDL-1924,OWVA-S0098-LAN-BMO-W69-000002,SYS0098 - LP12 (afwatersysteem d-e),Nieuw,Ja,Obj-06677,Wegrioleringsstelsel R1-E313,Ja
+MDL-1924,OWVA-S0098-LAN-BMO-W69-000002,SYS0098 - LP12 (afwatersysteem d-e),Nieuw,Ja,Obj-06674,Wegrioleringsstelsel R1-oost_Bu,Ja
+MDL-1921,OWVA-S0097-LAN-DMO-W69-000002,SYS0097 - LP11 (afwatersysteem),Nieuw,Ja,Obj-06662,Wegriolering verbinding Noordersingel-ASC Schijnpoort,Ja
+MDL-1920,OWVA-S0097-LAN-BMO-W69-000002,SYS0097 - LP11 (afwatersysteem),Nieuw,Ja,Obj-06662,Wegriolering verbinding Noordersingel-ASC Schijnpoort,Ja
+MDL-1919,OWVA-S0097-LAN-DMO-W69-000001,SYS0097 - LP11 (afwatersysteem),Nieuw,Ja,Obj-06660,Transportleiding HV OHtL,Ja
+MDL-1919,OWVA-S0097-LAN-DMO-W69-000001,SYS0097 - LP11 (afwatersysteem),Nieuw,Ja,Obj-06658,Transportleiding SV KHtL,Ja
+MDL-1919,OWVA-S0097-LAN-DMO-W69-000001,SYS0097 - LP11 (afwatersysteem),Nieuw,Ja,Obj-06659,Transportleiding VV KHtL,Ja
+MDL-1919,OWVA-S0097-LAN-DMO-W69-000001,SYS0097 - LP11 (afwatersysteem),Nieuw,Ja,Obj-06664,Wegrioleringsstelsel KHtL,Ja
+MDL-1919,OWVA-S0097-LAN-DMO-W69-000001,SYS0097 - LP11 (afwatersysteem),Nieuw,Ja,Obj-06665,Wegrioleringsstelsel OHtL,Ja
+MDL-1918,OWVA-S0097-LAN-BMO-W69-000001,SYS0097 - LP11 (afwatersysteem),Nieuw,Ja,Obj-06660,Transportleiding HV OHtL,Ja
+MDL-1918,OWVA-S0097-LAN-BMO-W69-000001,SYS0097 - LP11 (afwatersysteem),Nieuw,Ja,Obj-06658,Transportleiding SV KHtL,Ja
+MDL-1918,OWVA-S0097-LAN-BMO-W69-000001,SYS0097 - LP11 (afwatersysteem),Nieuw,Ja,Obj-06659,Transportleiding VV KHtL,Ja
+MDL-1918,OWVA-S0097-LAN-BMO-W69-000001,SYS0097 - LP11 (afwatersysteem),Nieuw,Ja,Obj-06664,Wegrioleringsstelsel KHtL,Ja
+MDL-1918,OWVA-S0097-LAN-BMO-W69-000001,SYS0097 - LP11 (afwatersysteem),Nieuw,Ja,Obj-06665,Wegrioleringsstelsel OHtL,Ja
+MDL-1917,OWVA-S0096-LAN-DMO-W69-000001,SYS0096 - LP10 (wegrioleringsstelsel),Nieuw,Ja,Obj-06655,Wegrioleringsstelsel Schijnpoortweg-west,Ja
+MDL-1916,OWVA-S0096-LAN-BMO-W69-000001,SYS0096 - LP10 (wegrioleringsstelsel),Nieuw,Ja,Obj-06655,Wegrioleringsstelsel Schijnpoortweg-west,Ja
+MDL-1913,OWVA-S0093-LAN-DMO-W69-000001,SYS0092 - LP6b (afwatersysteem),Nieuw,Ja,Obj-06652,Transportleiding HV TSCH-N,Ja
+MDL-1913,OWVA-S0093-LAN-DMO-W69-000001,SYS0092 - LP6b (afwatersysteem),Nieuw,Ja,Obj-06650,Wegrioleringsstelsel TSCH-N,Ja
+MDL-1912,OWVA-S0093-LAN-BMO-W69-000001,SYS0093 - LP6b (afwatersysteem),Nieuw,Ja,Obj-06652,Transportleiding HV TSCH-N,Ja
+MDL-1912,OWVA-S0093-LAN-BMO-W69-000001,SYS0093 - LP6b (afwatersysteem),Nieuw,Ja,Obj-06650,Wegrioleringsstelsel TSCH-N,Ja
+MDL-1911,OWVA-S0092-LAN-DMO-W69-000001,SYS0092 - LP6a (afwatersysteem),Nieuw,Ja,Obj-06646,Transportleiding SV TSCH-Z,Ja
+MDL-1911,OWVA-S0092-LAN-DMO-W69-000001,SYS0092 - LP6a (afwatersysteem),Nieuw,Ja,Obj-06645,Transportleiding VV KWS LP6a,Ja
+MDL-1911,OWVA-S0092-LAN-DMO-W69-000001,SYS0092 - LP6a (afwatersysteem),Nieuw,Ja,Obj-06642,Transportleiding VV TSCH-Z,Ja
+MDL-1911,OWVA-S0092-LAN-DMO-W69-000001,SYS0092 - LP6a (afwatersysteem),Nieuw,Ja,Obj-07661,Wegrioleringsstelsel ​Schijnpoortweg​,Ja
+MDL-1911,OWVA-S0092-LAN-DMO-W69-000001,SYS0092 - LP6a (afwatersysteem),Nieuw,Ja,Obj-06647,Wegrioleringsstelsel TSCH-Z,Ja
+MDL-1911,OWVA-S0092-LAN-DMO-W69-000001,SYS0092 - LP6a (afwatersysteem),Nieuw,Ja,Obj-06649,Wegrioleringsstelsel Verbindingsweg-noord,Ja
+MDL-1910,OWVA-S0092-LAN-BMO-W69-000001,SYS0092 - LP6a (afwatersysteem),Nieuw,Ja,Obj-06646,Transportleiding SV TSCH-Z,Ja
+MDL-1910,OWVA-S0092-LAN-BMO-W69-000001,SYS0092 - LP6a (afwatersysteem),Nieuw,Ja,Obj-06645,Transportleiding VV KWS LP6a,Ja
+MDL-1910,OWVA-S0092-LAN-BMO-W69-000001,SYS0092 - LP6a (afwatersysteem),Nieuw,Ja,Obj-06642,Transportleiding VV TSCH-Z,Ja
+MDL-1910,OWVA-S0092-LAN-BMO-W69-000001,SYS0092 - LP6a (afwatersysteem),Nieuw,Ja,Obj-07661,Wegrioleringsstelsel ​Schijnpoortweg​,Ja
+MDL-1910,OWVA-S0092-LAN-BMO-W69-000001,SYS0092 - LP6a (afwatersysteem),Nieuw,Ja,Obj-06647,Wegrioleringsstelsel TSCH-Z,Ja
+MDL-1910,OWVA-S0092-LAN-BMO-W69-000001,SYS0092 - LP6a (afwatersysteem),Nieuw,Ja,Obj-06649,Wegrioleringsstelsel Verbindingsweg-noord,Ja
+MDL-1909,OWVA-S0091-LAN-DMO-W69-000001,SYS0091 - LP5 (afwatersysteem),Nieuw,Ja,Obj-02555,Lozingspunt LP5,Ja
+MDL-1909,OWVA-S0091-LAN-DMO-W69-000001,SYS0091 - LP5 (afwatersysteem),Nieuw,Ja,Obj-06318,Transportleiding SV TOKA-Z,Ja
+MDL-1909,OWVA-S0091-LAN-DMO-W69-000001,SYS0091 - LP5 (afwatersysteem),Nieuw,Ja,Obj-06207,Transportleiding VV TOKA-Z,Ja
+MDL-1909,OWVA-S0091-LAN-DMO-W69-000001,SYS0091 - LP5 (afwatersysteem),Nieuw,Ja,Obj-06087,Wegrioleringsstelsel TOKA-Z OKA,Ja
+MDL-1909,OWVA-S0091-LAN-DMO-W69-000001,SYS0091 - LP5 (afwatersysteem),Nieuw,Ja,Obj-06324,Wegrioleringsstelsel TOKA-Z R1O,Ja
+MDL-1908,OWVA-S0091-LAN-BMO-W69-000001,SYS0091 - LP5 (afwatersysteem),Nieuw,Ja,Obj-02555,Lozingspunt LP5,Ja
+MDL-1908,OWVA-S0091-LAN-BMO-W69-000001,SYS0091 - LP5 (afwatersysteem),Nieuw,Ja,Obj-06318,Transportleiding SV TOKA-Z,Ja
+MDL-1908,OWVA-S0091-LAN-BMO-W69-000001,SYS0091 - LP5 (afwatersysteem),Nieuw,Ja,Obj-06207,Transportleiding VV TOKA-Z,Ja
+MDL-1908,OWVA-S0091-LAN-BMO-W69-000001,SYS0091 - LP5 (afwatersysteem),Nieuw,Ja,Obj-06087,Wegrioleringsstelsel TOKA-Z OKA,Ja
+MDL-1908,OWVA-S0091-LAN-BMO-W69-000001,SYS0091 - LP5 (afwatersysteem),Nieuw,Ja,Obj-06324,Wegrioleringsstelsel TOKA-Z R1O,Ja
+MDL-1897,OWVA-S0084-LAN-DMO-W69-000001,SYS0084 - LP9 (afwatersysteem),Nieuw,Ja,Obj-06656,Wegrioleringsstelsel Schijnpoortweg-oost,Ja
+MDL-1896,OWVA-S0084-LAN-BMO-W69-000001,SYS0084 - LP9 (afwatersysteem),Nieuw,Ja,Obj-06656,Wegrioleringsstelsel Schijnpoortweg-oost,Ja
+MDL-1853,OWRB-02692-ROC-DMO-W69-000001,R1O-RIO-OT-Dive under DO-TC,Vervallen,Ja,Obj-06799,Tijdelijke waterhuishouding E313 R1-Noord,Ja
+MDL-1853,OWRB-02692-ROC-DMO-W69-000001,R1O-RIO-OT-Dive under DO-TC,Vervallen,Ja,Obj-02692,Vloeistofkelder Turnhoutsebaan (OTHB),Ja
+MDL-1852,OWRB-02692-ROC-BMO-W69-000001,R1O-RIO-OT-Dive under DO-TC,Vervallen,Ja,Obj-06799,Tijdelijke waterhuishouding E313 R1-Noord,Ja
+MDL-1852,OWRB-02692-ROC-BMO-W69-000001,R1O-RIO-OT-Dive under DO-TC,Vervallen,Ja,Obj-02692,Vloeistofkelder Turnhoutsebaan (OTHB),Ja
+MDL-1842,OWRB-06788-ROC-DMO-W66-000001.dwg,R1O-HW-OT-Dakplaat onderdoorgang afrit Schijnpoort / Afrit E313 - R1,Nieuw,Ja,Obj-06788,Dakplaat onderdoorgang afrit Schijnpoort / Afrit E313 - R1 (MW41),Ja
+MDL-1841,OWRB-06788-ROC-BMO-W66-000001,R1O-HW-OT-Dakplaat onderdoorgang afrit Schijnpoort / Afrit E313 - R1,Nieuw,Ja,Obj-06788,Dakplaat onderdoorgang afrit Schijnpoort / Afrit E313 - R1 (MW41),Ja
+MDL-1838,OWRB-02717-ROC-ALM-W59-000001.dwg,R1O-WEG-TT-XXXX,Vervallen,Ja,Obj-02717,Tijdelijke verbinding E313 R1-Noord VERVALLEN,Nee
+MDL-1837,OWRB-02717-ROC-DMO-W59-000001.dwg,R1O-WEG-TT-XXXX,Vervallen,Ja,Obj-02717,Tijdelijke verbinding E313 R1-Noord VERVALLEN,Nee
+MDL-1836,OWRB-02717-ROC-BMO-W59-000001.dwg,R1O-WEG-TT-XXXX,Vervallen,Ja,Obj-02717,Tijdelijke verbinding E313 R1-Noord VERVALLEN,Nee
+MDL-1829,OWRB-05112-ROC-DMO-W59-000001,R1O-WEG-TIJ-Werfweg tussen Betofin en Sportpaleis,Nieuw,Ja,Obj-05112,Sportpaleis,Ja
+MDL-1828,OWRB-05112-ROC-BMO-W59-000001,R1O-WEG-TIJ-Werfweg tussen Betofin en Sportpaleis,Nieuw,Ja,Obj-05112,Sportpaleis,Ja
+MDL-1803,OWRB-06037-ROC-DMO-W62-000001,R1O-LS-OT-Terreinaanleg hermeandering Groot Schijn,Nieuw,Ja,,,
+MDL-1802,OWRB-06037-ROC-BMO-W62-000001,R1O-LS-OT-Terreinaanleg hermeandering Groot Schijn,Nieuw,Ja,Obj-06037,Aanpassingswerken Groot Schijn,Ja
+MDL-1769,OWRB-03760-LAN-DMO-W66-000003,R1OZ-HW-OT_Overkappingsstudie Kap Hof ter lo,Nieuw,Ja,Obj-03760,Overkapping Hof ter Loo,Ja
+MDL-1768,OWRB-03760-LAN-BMO-W66-000003,R1OZ-HW-OT_Overkappingsstudie Kap Hof ter lo,Nieuw,Ja,Obj-03760,Overkapping Hof ter Loo,Ja
+MDL-1767,OWRB-05234-LAN-DMO-W66-000005,R1ON-HW-OT_Overkappingsstudie Kap Waterpark,Nieuw,Ja,Obj-05234,Verdiepte ligging Schijnpoort,Ja
+MDL-1766,OWRB-05234-LAN-BMO-W66-000005,R1ON-HW-OT_Overkappingsstudie Kap Waterpark,Nieuw,Ja,Obj-05234,Verdiepte ligging Schijnpoort,Ja
+MDL-1765,OWRB-05524-LAN-DMO-W66-000001,R1ON-HW-OT_Overkappingsstudie Nerf Kalverwei/ Luifel Slachthuis,Nieuw,Ja,Obj-05524,Verdiepte ligging Lobroek,Ja
+MDL-1764,OWRB-05524-LAN-BMO-W66-000001,R1ON-HW-OT_Overkappingsstudie Nerf Kalverwei/ Luifel Slachthuis,Nieuw,Ja,Obj-05524,Verdiepte ligging Lobroek,Ja
+MDL-1719,OWRB-05063-ROC-DMO-W66-000001.rvt,R1ON-HW-OT-Afwateringskoker Groot Schijn,Nieuw,Ja,Obj-05063,Afwateringskoker Groot Schijn,Ja
+MDL-1718,OWRB-05063-ROC-BMO-W66-000001.rvt,R1ON-HW-OT-Afwateringskoker Groot Schijn,Nieuw,Ja,Obj-05063,Afwateringskoker Groot Schijn,Ja
+MDL-1680,OWRB-05870-RTS-TMO-W59-000001,Dwarsprofielen afrit MWJ1 dive under,Nieuw,Ja,,,
+MDL-1610,OWRB-05229-ROC-DMO-W66-000002,"R1O-HW-BT-Holcim (obj.05591), Levanto (obj.05592) en Gommaire (obj.05593)",Vervallen,Ja,Obj-05229,Zone Sportpaleis,Ja
+MDL-1609,OWRB-05229-ROC-BMO-W66-000002,"R1O-HW-BT-Holcim (obj.05591), Levanto (obj.05592) en Gommaire (obj.05593)",Vervallen,Ja,Obj-07919,Terreinen Betofin,Ja
+MDL-1609,OWRB-05229-ROC-BMO-W66-000002,"R1O-HW-BT-Holcim (obj.05591), Levanto (obj.05592) en Gommaire (obj.05593)",Vervallen,Ja,Obj-05229,Zone Sportpaleis,Ja
+MDL-1607,OWRB-06221-ROC-DMO-W66-000005,R1O-HW-OT-Architectonische randelementen,Nieuw,Ja,Obj-06221,Dive under - afrit Schijnpoort,Ja
+MDL-1606,OWRB-06221-ROC-BMO-W66-000005,R1O-HW-OT-Architectonische randelementen,Nieuw,Ja,Obj-06221,Dive under - afrit Schijnpoort,Ja
+MDL-1603,OWRB-05828-ROC-DMO-W66-000001,R1O-HW-BT-Oud Slachthuis,Nieuw,Ja,Obj-05828,Gebouw oud slachthuis (gebouw Transma),Ja
+MDL-1602,OWRB-05828-ROC-BMO-W66-000001,R1O-HW-BT-Oud Slachthuis,Nieuw,Ja,Obj-05828,Gebouw oud slachthuis (gebouw Transma),Ja
+MDL-1556,OWRB-06221-ROC-DMO-W66-000004,R1OZ-HW-OT-Dive under - Waterkelder,Nieuw,Ja,Obj-06221,Dive under - afrit Schijnpoort,Ja
+MDL-1555,OWRB-06221-ROC-BMO-W66-000004,R1OZ-HW-OT-Dive under - Waterkelder,Nieuw,Ja,Obj-06221,Dive under - afrit Schijnpoort,Ja
+MDL-1539,OWRB-04328-ROC-DMO-W66-000001,R1ON-HW-OT-Polderwanden Lobroekdok,Nieuw,Ja,,,
+MDL-1538,OWRB-04328-ROC-BMO-W66-000001,R1ON-HW-OT-Polderwanden Lobroekdok,Nieuw,Ja,,,
+MDL-1537,OWRB-05842-ROC-DMA-W66-000001,,Nieuw,Ja,,,
+MDL-1536,OWRB-05842-ROC-DMO-W66-000001,R1O-HW-OT-Afsluiting verbinding LBD-AK,Nieuw,Ja,,,
+MDL-1535,OWRB-05842-ROC-BMO-W66-000001,R1O-HW-OT-Afsluiting verbinding LBD-AK,Nieuw,Ja,,,
+MDL-1534,OWRB-05842-LAN-DMA-W66-000001,,Nieuw,Ja,,,
+MDL-1530,OWRB-01723-ROC-DMA-W66-000001,,Nieuw,Ja,,,
+MDL-1490,OWRB-06221-ROC-DMA-W66-000003,R1OZ-HW-OT-Dive under - afrit Schijnpoort - Vloeren,Nieuw,Ja,Obj-06221,Dive under - afrit Schijnpoort,Ja
+MDL-1489,OWRB-06221-ROC-DMO-W66-000003,R1OZ-HW-OT-Dive under - afrit Schijnpoort - Vloeren,Nieuw,Ja,Obj-06221,Dive under - afrit Schijnpoort,Ja
+MDL-1488,OWRB-06221-ROC-BMO-W66-000003,R1OZ-HW-OT-Dive under - afrit Schijnpoort - Vloeren,Nieuw,Ja,Obj-06221,Dive under - afrit Schijnpoort,Ja
+MDL-1482,OWRB-06R1O-LAN-DMA-W03-000001,,Nieuw,Ja,,,
+MDL-1481,OWRB-06R1O-LAN-DMO-W03-000001,,Nieuw,Ja,,,
+MDL-1467,OWRB-06221-ROC-DMO-W66-000002,R1OZ-HW-OT-Dive under - afrit Schijnpoort,Nieuw,Ja,Obj-06221,Dive under - afrit Schijnpoort,Ja
+MDL-1466,OWRB-06221-ROC-BMO-W66-000002,R1OZ-HW-OT-Dive under - afrit Schijnpoort,Nieuw,Ja,Obj-06221,Dive under - afrit Schijnpoort,Ja
+MDL-1464,OWRB-05825-LAN-DMO-W33-000001,,Nieuw,Ja,,,
+MDL-1462,OWRB-05825-LAN-DMO-W33-000001,,Nieuw,Ja,,,
+MDL-1399,OWRB-06R1O-ROC-DMO-W69-000002,,Nieuw,Ja,,,
+MDL-1398,OWRB-06R1O-ROC-BMO-W69-000002,,Nieuw,Ja,,,
+MDL-1397,OWRB-06R1O-ROC-DMO-W69-000001,,Nieuw,Ja,,,
+MDL-1396,OWRB-06R1O-ROC-BMO-W69-000001,,Nieuw,Ja,,,
+MDL-1367,OWRB-05567-LAN-DMO-W33-000001,,Nieuw,Ja,,,
+MDL-1366,OWRB-05567-LAN-BMO-W33-000001,,Nieuw,Ja,,,
+MDL-1295,OWRB-06221-ROC-DMO-W66-000001,HW-OT-R1O-Reconstructie VO Dive-under Schijnpoort,Vervallen,Ja,Obj-06221,Dive under - afrit Schijnpoort,Ja
+MDL-1294,OWRB-06221-ROC-BMO-W66-000001,HW-OT-R1O-Reconstructie VO Dive-under Schijnpoort,Vervallen,Ja,Obj-06221,Dive under - afrit Schijnpoort,Ja
+MDL-1278,OWRB-06411-LAN-TMO-W27-000002,,Nieuw,Ja,,,
+MDL-1277,OWRB-06411-LAN-TMO-W27-000001,,Nieuw,Ja,,,
+MDL-1206,OWRB-06075-LAN-BMO-W62-000016,,Nieuw,Ja,,,
+MDL-1205,OWRB-06075-LAN-BMO-W62-000015,,Nieuw,Ja,,,
+MDL-1204,OWRB-06075-LAN-BMO-W62-000014,,Nieuw,Ja,,,
+MDL-1203,OWRB-06075-LAN-BMO-W62-000013,,Nieuw,Ja,,,
+MDL-1202,OWRB-06075-LAN-BMO-W62-000002,,Nieuw,Ja,,,
+MDL-1194,OWRB-06075-LAN-DMO-W62-000001,R1O-LS-BT-Haag nabij RWZI terrein,Nieuw,Ja,,,
+MDL-1167,OWRB-06075-LAN-BMO-W62-000001,R1O-LS-BT-Haag nabij RWZI terrein,Nieuw,Ja,,,
+MDL-1104,OWRB-05527-LAN-BMO-W59-000005,R1O-WEG-OT-Verbindingsweg GASL VO,Nieuw,Ja,,,
+MDL-1103,OWRB-05527-LAN-DMO-W59-000005,R1O-WEG-OT-Verbindingsweg GASL VO,Nieuw,Ja,,,
+MDL-1102,OWRB-05527-LAN-BMO-W59-000004,R1O-WEG-OT-Verbindingsweg GVWR VO,Nieuw,Ja,,,
+MDL-1101,OWRB-05527-LAN-DMO-W59-000004,R1O-WEG-OT-Verbindingsweg GVWR VO,Nieuw,Ja,,,
+MDL-1100,OWRB-05527-LAN-BMO-W59-000003,R1O-WEG-OT-Verbindingsweg GVWL VO,Nieuw,Ja,,,
+MDL-1099,OWRB-05527-LAN-DMO-W59-000003,R1O-WEG-OT-Verbindingsweg GVWL VO,Nieuw,Ja,,,
+MDL-1098,OWRB-05527-LAN-BMO-W59-000002,R1O-WEG-OT-Verbindingsweg GASR VO,Nieuw,Ja,,,
+MDL-1097,OWRB-05527-LAN-DMO-W59-000002,R1O-WEG-OT-Verbindingsweg GASR VO,Nieuw,Ja,,,
+MDL-1094,OWRB-06075-LAN-DMO-W62-000016,R1O-LS-OT-Bomen ASC Schijnpoort verbindingsweg,Nieuw,Ja,,,
+MDL-1093,OWRB-06075-LAN-DMO-W62-000015,R1O-LS-OT-Landschap ASC Schijnpoort verbindingsweg,Nieuw,Ja,,,
+MDL-1092,OWRB-06075-LAN-DMO-W62-000014,R1O-LS-OT-SPW VBW architectonische elementen VO,Nieuw,Ja,,,
+MDL-1091,OWRB-06075-LAN-DMO-W62-000013,R1O-LS-OT-ASC Schijnpoort Fietsbrug VO,Nieuw,Ja,,,
+MDL-1090,OWRB-06075-LAN-DMO-W62-000002,R1O-LS-BT-Haag nabij RWZI terrein,Nieuw,Ja,,,
+MDL-1084,OWRB-04042-LAN-TMO-W33-000001,Uitgangspuntentekening TSCH VO,Nieuw,Ja,,,
+MDL-1055,OWRB-05228-LAN-DMO-W59-000002,R1O-WEG-OT-Schijnpoortweg VO-C3D,Nieuw,Ja,,,
+MDL-1054,OWRB-05228-LAN-BMO-W59-000002,R1O-WEG-OT-Schijnpoortweg VO-C3D,Nieuw,Ja,,,
+MDL-1008,OWRB-03530-LAN-BMO-W59-000001,R1O-WEG-OT-Schijnpoortweg VO_TramLaan-C3D,Nieuw,Ja,,,
+MDL-1000,OWRB-05524-ROC-DMO-W66-000001,,Nieuw,Ja,,,
+MDL-0999,OWRB-05232-ROC-DMO-W66-000001,,Nieuw,Ja,,,
+MDL-0978,OWRB-01723-ROC-DMO-W66-000001,R1O-HW-OT-Aansluiting IJzerlaankanaal Lobroekdok,Nieuw,Ja,,,
+MDL-0975,OWRB-01391-LAN-DMO-W66-000001,R1O-HW-OT- viaduct verbindingsweg VO,Nieuw,Ja,,,
+MDL-0969,OWRB-05527-LAN-DMO-W59-000001,R1O-WEG-OT-Verbindingsweg Schijnpoortweg VO_Open roads,Nieuw,Ja,,,
+MDL-0968,OWRB-05228-LAN-DMO-W59-000001,R1O-WEG-OT-Schijnpoortweg VO_Open roads,Nieuw,Ja,,,
+MDL-0967,OWRB-02527-LAN-DMO-W59-000006,R1N-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-05909,MWB1 - Verbindingsweg Tracé R1NO - Trace R1NW t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0967,OWRB-02527-LAN-DMO-W59-000006,R1N-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-05908,MWF1 – HRB Knooppunt Antwerpen Oost - Knooppunt Antwerpen Noord t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0967,OWRB-02527-LAN-DMO-W59-000006,R1N-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-05972,MWF1 - verbindingsweg R1NO - A1 t.p.v. OKA,Ja
+MDL-0967,OWRB-02527-LAN-DMO-W59-000006,R1N-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-06095,MWF1 - Verbindingsweg Tracé R1NO - Tracé A1 t.p.v. TLUC,Ja
+MDL-0967,OWRB-02527-LAN-DMO-W59-000006,R1N-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-06099,MWF1 - Verbindingsweg Tracé R1NO - Tracé A1 t.p.v. verdiepte ligging Luchtbal,Ja
+MDL-0967,OWRB-02527-LAN-DMO-W59-000006,R1N-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-06195,MWO1 - Afrit Groenendaallaan vanaf Knooppunt Antwerpen Noord t.p.v. TLUC,Ja
+MDL-0967,OWRB-02527-LAN-DMO-W59-000006,R1N-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-06194,MWO1 - Afrit Groenendaallaan vanaf Knooppunt Antwerpen Noord t.p.v. verdiepte ligging OKA,Ja
+MDL-0967,OWRB-02527-LAN-DMO-W59-000006,R1N-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-06197,MWP1 - Oprit Groenendaallaan richting Tracé A1 t.p.v. TLUC,Ja
+MDL-0967,OWRB-02527-LAN-DMO-W59-000006,R1N-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-06196,MWP1 - Oprit Groenendaallaan richting Tracé A1 t.p.v. verdiepte ligging Luchtbal,Ja
+MDL-0966,OWRB-02527-LAN-DMO-W59-000005,R1O-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-06237,MW41 - Verbindingsweg Tracé A13 - Tracé R1NO t.p.v. knoop Antwerpen Oost,Ja
+MDL-0966,OWRB-02527-LAN-DMO-W59-000005,R1O-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-05949,MWF1 – HRB Knooppunt Antwerpen Oost - Knooppunt Antwerpen Noord t.p.v. knoop Antwerpen Oost,Ja
+MDL-0966,OWRB-02527-LAN-DMO-W59-000005,R1O-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-05917,MWF1 – HRB Knooppunt Antwerpen Oost - Knooppunt Antwerpen Noord t.p.v. Schijnpoorttunnel,Ja
+MDL-0966,OWRB-02527-LAN-DMO-W59-000005,R1O-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-05933,MWF1 – HRB Knooppunt Antwerpen Oost - Knooppunt Antwerpen Noord t.p.v. verdiepte ligging Antwerpen Oost,Ja
+MDL-0966,OWRB-02527-LAN-DMO-W59-000005,R1O-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-05942,MWF1 – HRB Knooppunt Antwerpen Oost - Knooppunt Antwerpen Noord t.p.v. verdiepte ligging Schijnpoort,Ja
+MDL-0966,OWRB-02527-LAN-DMO-W59-000005,R1O-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-05943,MWF1 - Verbindingsweg Tracé R1NO - Trace A1 t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0966,OWRB-02527-LAN-DMO-W59-000005,R1O-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-05959,MWF1 – Verbindingsweg Tracé Zuid - Tracé R1NO t.p.v. knoop Antwerpen Oost,Ja
+MDL-0966,OWRB-02527-LAN-DMO-W59-000005,R1O-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-06235,MWG1 - Oprit Schijnpoort richting Tracé R1 Noord Oost t.p.v. verdiepte ligging Schijnpoort,Ja
+MDL-0966,OWRB-02527-LAN-DMO-W59-000005,R1O-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-05962,MWJ1 - Afrit Schijnpoort vanaf Trace R1Zuid t.p.v. knoop Antwerp Oost Open,Ja
+MDL-0966,OWRB-02527-LAN-DMO-W59-000005,R1O-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-05964,MWJ1 - Afrit Schijnpoort vanaf Trace R1Zuid t.p.v. knoop Antwerp Oost Open 2,Ja
+MDL-0966,OWRB-02527-LAN-DMO-W59-000005,R1O-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-05963,MWJ1 - Afrit Schijnpoort vanaf Trace R1Zuid t.p.v. knoop Antwerp Oost Overdekt,Ja
+MDL-0966,OWRB-02527-LAN-DMO-W59-000005,R1O-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-05965,MWJ1 - Afrit Schijnpoort vanaf Trace R1Zuid t.p.v. verdiepte ligging Antwerpen Oost,Ja
+MDL-0966,OWRB-02527-LAN-DMO-W59-000005,R1O-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-05944,MWJ2 - Afrit Schijnpoort vanaf Trace A13 t.p.v. verdiepte ligging Antwerpen Oost,Ja
+MDL-0964,OWRB-02526-LAN-DMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05916,MWE1 – HRB Knooppunt Antwerpen Noord - Knooppunt Antwerpen Oost t.p.v. Schijnpoorttunnel,Ja
+MDL-0964,OWRB-02526-LAN-DMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05937,MWE1 – HRB Knooppunt Antwerpen Noord - Knooppunt Antwerpen Oost t.p.v. verdiepte ligging Schijnpoort,Ja
+MDL-0964,OWRB-02526-LAN-DMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05935,MWE1 - Verbindingsweg Tracé A1 - Trace R1NO t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0964,OWRB-02526-LAN-DMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05958,MWE1 – Verbindingsweg Tracé R1NO - Tracé R1Zuid t.p.v. knoop Antwerpen Oost,Ja
+MDL-0964,OWRB-02526-LAN-DMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05932,MWE1 – Verbindingsweg Tracé R1NO - Tracé R1Zuid t.p.v. verdiepte ligging Antwerpen Oost,Ja
+MDL-0964,OWRB-02526-LAN-DMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05941,MWE1 – Verbindingsweg Tracé R1NO - Tracé R1Zuid t.p.v. verdiepte ligging Schijnpoort,Ja
+MDL-0964,OWRB-02526-LAN-DMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05961,MWH1 - Oprit Schijnpoort richting Trace R1Zuid t.p.v. knoop Antwerpen Oost,Ja
+MDL-0964,OWRB-02526-LAN-DMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05936,MWH1 - Oprit Schijnpoort richting Trace R1Zuid t.p.v. verdiepte ligging Antwerpen Oost,Ja
+MDL-0964,OWRB-02526-LAN-DMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-06184,MWH2 - Oprit Schijnpoort richting Trace A13 t.p.v. knoop Antwerpen Oost,Ja
+MDL-0964,OWRB-02526-LAN-DMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05934,MWH2 - Oprit Schijnpoort richting Trace A13 t.p.v. verdiepte ligging Antwerpen Oost,Ja
+MDL-0964,OWRB-02526-LAN-DMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-06236,MWI1 - Afrit Schijnpoort vanaf tracé R1 Noord Oost t.p.v. verdiepte ligging Schijnpoort,Ja
+MDL-0964,OWRB-02526-LAN-DMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05960,MWQ1 - Verbindingsweg Tracé R1NO - Tracé A13 t.p.v. knoop Antwerpen Oost,Ja
+MDL-0964,OWRB-02526-LAN-DMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05940,MWQ1 - Verbindingsweg Tracé R1NO - Tracé A13 t.p.v. verdiepte ligging Antwerpen Oost Open,Ja
+MDL-0964,OWRB-02526-LAN-DMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05939,MWQ1 - Verbindingsweg Tracé R1NO - Tracé A13 t.p.v. verdiepte ligging Antwerpen Oost Overdekt,Ja
+MDL-0964,OWRB-02526-LAN-DMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05938,MWQ1 - Verbindingsweg Tracé R1NO - Tracé A13 t.p.v. verdiepte ligging Schijnpoort,Ja
+MDL-0963,OWRB-02526-LAN-DMO-W59-000005,R1N-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05910,MWC1 - Verbindingsweg Tracé R1NW - Trace R1NO t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0963,OWRB-02526-LAN-DMO-W59-000005,R1N-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05907,MWE1 – HRB Knooppunt Antwerpen Noord - Knooppunt Antwerpen Oost t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0963,OWRB-02526-LAN-DMO-W59-000005,R1N-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05971,MWE1 - verbindingsweg A1 - R1NO t.p.v. OKA,Ja
+MDL-0963,OWRB-02526-LAN-DMO-W59-000005,R1N-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-06094,MWE1 - Verbindingsweg Tracé A1 - Tracé R1NO t.p.v. TLUC,Ja
+MDL-0963,OWRB-02526-LAN-DMO-W59-000005,R1N-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05935,MWE1 - Verbindingsweg Tracé A1 - Trace R1NO t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0963,OWRB-02526-LAN-DMO-W59-000005,R1N-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-06098,MWE1 - Verbindingsweg Tracé A1 - Tracé R1NO t.p.v. verdiepte ligging Luchtbal,Ja
+MDL-0963,OWRB-02526-LAN-DMO-W59-000005,R1N-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-06191,MWM1 - Afrit Groenendaallaan vanaf Tracé A1 t.p.v. TLUC,Ja
+MDL-0963,OWRB-02526-LAN-DMO-W59-000005,R1N-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-06190,MWM1 - Afrit Groenendaallaan vanaf Tracé A1 t.p.v. verdiepte ligging Luchtbal,Ja
+MDL-0963,OWRB-02526-LAN-DMO-W59-000005,R1N-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-06193,MWN1 - Oprit Groenendaallaan richting Knooppunt Antwerpen Noord t.p.v. TLUC,Ja
+MDL-0963,OWRB-02526-LAN-DMO-W59-000005,R1N-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-06192,MWN1 - Oprit Groenendaallaan richting Knooppunt Antwerpen Noord t.p.v. verdiepte ligging OKA,Ja
+MDL-0956,OWRB-02524-LAN-DMO-W59-000006,TOKA-WEG-OT-MWC1 VO_Open roads,Nieuw,Ja,Obj-05976,MWC1 - verbindingsweg R1NW - R1NO t.p.v. OKA,Ja
+MDL-0956,OWRB-02524-LAN-DMO-W59-000006,TOKA-WEG-OT-MWC1 VO_Open roads,Nieuw,Ja,Obj-05910,MWC1 - Verbindingsweg Tracé R1NW - Trace R1NO t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0952,OWRB-02523-LAN-DMO-W59-000006,TOKA-WEG-OT-MWB1 VO_Open roads,Nieuw,Ja,Obj-05975,MWB1 - verbindingsweg R1NO - R1NW t.p.v. OKA,Ja
+MDL-0952,OWRB-02523-LAN-DMO-W59-000006,TOKA-WEG-OT-MWB1 VO_Open roads,Nieuw,Ja,Obj-05909,MWB1 - Verbindingsweg Tracé R1NO - Trace R1NW t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0878,OWRB-03549-LAN-DMO-W66-000001,R1O-HW-BT-Nieuwe inlaat grofrooster Schijnkoker,Nieuw,Ja,,,
+MDL-0876,OWRB-05229-ROC-DMO-W66-000001,R1O-HW-BT-funderingen Lotto Arena en Sportpaleis See LOG-0071 in ROCO Relatics,Vervallen,Ja,Obj-05229,Zone Sportpaleis,Ja
+MDL-0849,OWRB-05825-ROC-TMO-W66-000002,,Nieuw,Ja,,,
+MDL-0848,OWRB-05825-ROC-TMO-W66-000001,,Nieuw,Ja,,,
+MDL-0847,OWRB-05524-ROC-BMO-W66-000001,,Nieuw,Ja,,,
+MDL-0845,OWRB-05232-ROC-BMO-W66-000001,,Nieuw,Ja,,,
+MDL-0831,OWRB-05067-ROC-TMO-W66-000001,R1O-HW-OT-Afsluiting verbinding LBD-AK,Nieuw,Ja,,,
+MDL-0783,OWRB-01723-ROC-TMO-W66-000001,R1O-HW-OT-Aansluiting IJzerlaankanaal Lobroekdok,Nieuw,Ja,,,
+MDL-0781,OWRB-01723-ROC-BMO-W66-000001,R1O-HW-OT-Aansluiting IJzerlaankanaal Lobroekdok,Nieuw,Ja,Obj-01723,Aansluiting IJzerlaankanaal op Lobroekdok,Ja
+MDL-0780,OWRB-04042-LAN-TMO-W66-000001,Uitgangspuntentekening TSCH VO,Nieuw,Ja,,,
+MDL-0765,OWRB-04042-ROC-TMO-W66-000003,R1ON-HW-OT-Schijnpoorttunnel,Nieuw,Ja,,,
+MDL-0764,OWRB-05524-ROC-TMO-W66-000002,R1ON-HW-OT-Open polder TOKA-Schijnpoorttunnel,Nieuw,Ja,,,
+MDL-0763,OWRB-05234-ROC-TMO-W66-000001,R1OZ-HW-OT-Open sleuf Schijnpoorttunnel-E313,Nieuw,Ja,,,
+MDL-0757,OWRB-05527-LAN-BMO-W59-000001,R1O-WEG-OT-Verbindingsweg Schijnpoortweg VO_Open roads,Nieuw,Ja,,,
+MDL-0756,OWRB-05228-LAN-BMO-W59-000001,R1O-WEG-OT-Schijnpoortweg VO_Open roads,Nieuw,Ja,,,
+MDL-0755,OWRB-02527-LAN-BMO-W59-000006,R1N-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-05909,MWB1 - Verbindingsweg Tracé R1NO - Trace R1NW t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0755,OWRB-02527-LAN-BMO-W59-000006,R1N-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-05908,MWF1 – HRB Knooppunt Antwerpen Oost - Knooppunt Antwerpen Noord t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0755,OWRB-02527-LAN-BMO-W59-000006,R1N-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-05972,MWF1 - verbindingsweg R1NO - A1 t.p.v. OKA,Ja
+MDL-0755,OWRB-02527-LAN-BMO-W59-000006,R1N-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-06095,MWF1 - Verbindingsweg Tracé R1NO - Tracé A1 t.p.v. TLUC,Ja
+MDL-0755,OWRB-02527-LAN-BMO-W59-000006,R1N-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-06099,MWF1 - Verbindingsweg Tracé R1NO - Tracé A1 t.p.v. verdiepte ligging Luchtbal,Ja
+MDL-0755,OWRB-02527-LAN-BMO-W59-000006,R1N-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-06195,MWO1 - Afrit Groenendaallaan vanaf Knooppunt Antwerpen Noord t.p.v. TLUC,Ja
+MDL-0755,OWRB-02527-LAN-BMO-W59-000006,R1N-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-06194,MWO1 - Afrit Groenendaallaan vanaf Knooppunt Antwerpen Noord t.p.v. verdiepte ligging OKA,Ja
+MDL-0755,OWRB-02527-LAN-BMO-W59-000006,R1N-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-06197,MWP1 - Oprit Groenendaallaan richting Tracé A1 t.p.v. TLUC,Ja
+MDL-0755,OWRB-02527-LAN-BMO-W59-000006,R1N-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-06196,MWP1 - Oprit Groenendaallaan richting Tracé A1 t.p.v. verdiepte ligging Luchtbal,Ja
+MDL-0754,OWRB-02527-LAN-BMO-W59-000005,R1O-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-06237,MW41 - Verbindingsweg Tracé A13 - Tracé R1NO t.p.v. knoop Antwerpen Oost,Ja
+MDL-0754,OWRB-02527-LAN-BMO-W59-000005,R1O-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-05949,MWF1 – HRB Knooppunt Antwerpen Oost - Knooppunt Antwerpen Noord t.p.v. knoop Antwerpen Oost,Ja
+MDL-0754,OWRB-02527-LAN-BMO-W59-000005,R1O-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-05917,MWF1 – HRB Knooppunt Antwerpen Oost - Knooppunt Antwerpen Noord t.p.v. Schijnpoorttunnel,Ja
+MDL-0754,OWRB-02527-LAN-BMO-W59-000005,R1O-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-05933,MWF1 – HRB Knooppunt Antwerpen Oost - Knooppunt Antwerpen Noord t.p.v. verdiepte ligging Antwerpen Oost,Ja
+MDL-0754,OWRB-02527-LAN-BMO-W59-000005,R1O-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-05942,MWF1 – HRB Knooppunt Antwerpen Oost - Knooppunt Antwerpen Noord t.p.v. verdiepte ligging Schijnpoort,Ja
+MDL-0754,OWRB-02527-LAN-BMO-W59-000005,R1O-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-05943,MWF1 - Verbindingsweg Tracé R1NO - Trace A1 t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0754,OWRB-02527-LAN-BMO-W59-000005,R1O-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-05959,MWF1 – Verbindingsweg Tracé Zuid - Tracé R1NO t.p.v. knoop Antwerpen Oost,Ja
+MDL-0754,OWRB-02527-LAN-BMO-W59-000005,R1O-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-06235,MWG1 - Oprit Schijnpoort richting Tracé R1 Noord Oost t.p.v. verdiepte ligging Schijnpoort,Ja
+MDL-0754,OWRB-02527-LAN-BMO-W59-000005,R1O-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-05962,MWJ1 - Afrit Schijnpoort vanaf Trace R1Zuid t.p.v. knoop Antwerp Oost Open,Ja
+MDL-0754,OWRB-02527-LAN-BMO-W59-000005,R1O-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-05964,MWJ1 - Afrit Schijnpoort vanaf Trace R1Zuid t.p.v. knoop Antwerp Oost Open 2,Ja
+MDL-0754,OWRB-02527-LAN-BMO-W59-000005,R1O-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-05963,MWJ1 - Afrit Schijnpoort vanaf Trace R1Zuid t.p.v. knoop Antwerp Oost Overdekt,Ja
+MDL-0754,OWRB-02527-LAN-BMO-W59-000005,R1O-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-05965,MWJ1 - Afrit Schijnpoort vanaf Trace R1Zuid t.p.v. verdiepte ligging Antwerpen Oost,Ja
+MDL-0754,OWRB-02527-LAN-BMO-W59-000005,R1O-WEG-OT-MWF1 VO_Open roads,Nieuw,Ja,Obj-05944,MWJ2 - Afrit Schijnpoort vanaf Trace A13 t.p.v. verdiepte ligging Antwerpen Oost,Ja
+MDL-0752,OWRB-02526-LAN-BMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05916,MWE1 – HRB Knooppunt Antwerpen Noord - Knooppunt Antwerpen Oost t.p.v. Schijnpoorttunnel,Ja
+MDL-0752,OWRB-02526-LAN-BMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05937,MWE1 – HRB Knooppunt Antwerpen Noord - Knooppunt Antwerpen Oost t.p.v. verdiepte ligging Schijnpoort,Ja
+MDL-0752,OWRB-02526-LAN-BMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05935,MWE1 - Verbindingsweg Tracé A1 - Trace R1NO t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0752,OWRB-02526-LAN-BMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05958,MWE1 – Verbindingsweg Tracé R1NO - Tracé R1Zuid t.p.v. knoop Antwerpen Oost,Ja
+MDL-0752,OWRB-02526-LAN-BMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05932,MWE1 – Verbindingsweg Tracé R1NO - Tracé R1Zuid t.p.v. verdiepte ligging Antwerpen Oost,Ja
+MDL-0752,OWRB-02526-LAN-BMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05941,MWE1 – Verbindingsweg Tracé R1NO - Tracé R1Zuid t.p.v. verdiepte ligging Schijnpoort,Ja
+MDL-0752,OWRB-02526-LAN-BMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05961,MWH1 - Oprit Schijnpoort richting Trace R1Zuid t.p.v. knoop Antwerpen Oost,Ja
+MDL-0752,OWRB-02526-LAN-BMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05936,MWH1 - Oprit Schijnpoort richting Trace R1Zuid t.p.v. verdiepte ligging Antwerpen Oost,Ja
+MDL-0752,OWRB-02526-LAN-BMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-06184,MWH2 - Oprit Schijnpoort richting Trace A13 t.p.v. knoop Antwerpen Oost,Ja
+MDL-0752,OWRB-02526-LAN-BMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05934,MWH2 - Oprit Schijnpoort richting Trace A13 t.p.v. verdiepte ligging Antwerpen Oost,Ja
+MDL-0752,OWRB-02526-LAN-BMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-06236,MWI1 - Afrit Schijnpoort vanaf tracé R1 Noord Oost t.p.v. verdiepte ligging Schijnpoort,Ja
+MDL-0752,OWRB-02526-LAN-BMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05960,MWQ1 - Verbindingsweg Tracé R1NO - Tracé A13 t.p.v. knoop Antwerpen Oost,Ja
+MDL-0752,OWRB-02526-LAN-BMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05940,MWQ1 - Verbindingsweg Tracé R1NO - Tracé A13 t.p.v. verdiepte ligging Antwerpen Oost Open,Ja
+MDL-0752,OWRB-02526-LAN-BMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05939,MWQ1 - Verbindingsweg Tracé R1NO - Tracé A13 t.p.v. verdiepte ligging Antwerpen Oost Overdekt,Ja
+MDL-0752,OWRB-02526-LAN-BMO-W59-000006,R1O-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05938,MWQ1 - Verbindingsweg Tracé R1NO - Tracé A13 t.p.v. verdiepte ligging Schijnpoort,Ja
+MDL-0751,OWRB-02526-LAN-BMO-W59-000005,R1N-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05910,MWC1 - Verbindingsweg Tracé R1NW - Trace R1NO t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0751,OWRB-02526-LAN-BMO-W59-000005,R1N-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05907,MWE1 – HRB Knooppunt Antwerpen Noord - Knooppunt Antwerpen Oost t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0751,OWRB-02526-LAN-BMO-W59-000005,R1N-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05971,MWE1 - verbindingsweg A1 - R1NO t.p.v. OKA,Ja
+MDL-0751,OWRB-02526-LAN-BMO-W59-000005,R1N-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-06094,MWE1 - Verbindingsweg Tracé A1 - Tracé R1NO t.p.v. TLUC,Ja
+MDL-0751,OWRB-02526-LAN-BMO-W59-000005,R1N-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-05935,MWE1 - Verbindingsweg Tracé A1 - Trace R1NO t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0751,OWRB-02526-LAN-BMO-W59-000005,R1N-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-06098,MWE1 - Verbindingsweg Tracé A1 - Tracé R1NO t.p.v. verdiepte ligging Luchtbal,Ja
+MDL-0751,OWRB-02526-LAN-BMO-W59-000005,R1N-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-06191,MWM1 - Afrit Groenendaallaan vanaf Tracé A1 t.p.v. TLUC,Ja
+MDL-0751,OWRB-02526-LAN-BMO-W59-000005,R1N-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-06190,MWM1 - Afrit Groenendaallaan vanaf Tracé A1 t.p.v. verdiepte ligging Luchtbal,Ja
+MDL-0751,OWRB-02526-LAN-BMO-W59-000005,R1N-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-06193,MWN1 - Oprit Groenendaallaan richting Knooppunt Antwerpen Noord t.p.v. TLUC,Ja
+MDL-0751,OWRB-02526-LAN-BMO-W59-000005,R1N-WEG-OT-MWE1 VO_Open roads,Nieuw,Ja,Obj-06192,MWN1 - Oprit Groenendaallaan richting Knooppunt Antwerpen Noord t.p.v. verdiepte ligging OKA,Ja
+MDL-0744,OWRB-02524-LAN-BMO-W59-000006,TOKA-WEG-OT-MWC1 VO_Open roads,Nieuw,Ja,Obj-05976,MWC1 - verbindingsweg R1NW - R1NO t.p.v. OKA,Ja
+MDL-0744,OWRB-02524-LAN-BMO-W59-000006,TOKA-WEG-OT-MWC1 VO_Open roads,Nieuw,Ja,Obj-05910,MWC1 - Verbindingsweg Tracé R1NW - Trace R1NO t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0740,OWRB-02523-LAN-BMO-W59-000006,TOKA-WEG-OT-MWB1 VO_Open roads,Nieuw,Ja,Obj-05975,MWB1 - verbindingsweg R1NO - R1NW t.p.v. OKA,Ja
+MDL-0740,OWRB-02523-LAN-BMO-W59-000006,TOKA-WEG-OT-MWB1 VO_Open roads,Nieuw,Ja,Obj-05909,MWB1 - Verbindingsweg Tracé R1NO - Trace R1NW t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0630,OWRB-03549-LAN-BMO-W66-000001,R1O-HW-BT-Nieuwe inlaat grofrooster Schijnkoker,Nieuw,Ja,,,
+MDL-0628,OWRB-05229-ROC-BMO-W66-000001,R1O-HW-BT-funderingen Lotto Arena en Sportpaleis See LOG-0071 in ROCO Relatics,Vervallen,Ja,Obj-05229,Zone Sportpaleis,Ja
+MDL-0626,OWRB-05213-LAN-BMO-W66-000001,R1O-HW-BT-Slibgistingstank RWZI Deurne,Nieuw,Ja,,,
+MDL-0619,OWRB-03745-LAN-DMO-W59-000001,,Nieuw,Ja,,,
+MDL-0618,OWRB-01242-LAN-DMO-W59-000001,,Nieuw,Ja,,,
+MDL-0617,OWRB-05163-LAN-DMO-W59-000001,004-WEG-R1S-GX3L,Nieuw,Ja,,,
+MDL-0609,OWRB-05234-LAN-DMO-W66-000007,R1O-HW-Constructie copied geometry VO,Nieuw,Ja,,,
+MDL-0607,OWRB-04353-LAN-DMO-W66-000001,R1O-BT-Oud pompstation Groot Schijn,Nieuw,Ja,,,
+MDL-0606,OWRB-05842-LAN-DMO-W66-000001,R1O-BT-Verbindingsgeul Lobroekdok Albertkanaal,Nieuw,Ja,,,
+MDL-0605,OWRB-04984-LAN-DMO-W66-000006,R1O-TIJ-Lozingspunten R1O,Nieuw,Ja,,,
+MDL-0604,OWRB-04330-LAN-DMO-W66-000001,R1O-RIO-Vloeistofkelder_Open polder zuid,Vervallen,Nee,,,
+MDL-0603,OWRB-04329-LAN-DMO-W66-000001,R1O-RIO-Vloeistofkelder Verbindingsweg,Nieuw,Ja,,,
+MDL-0602,OWRB-05232-LAN-DMO-W66-000002,R1O-RIO-Vloeistofkelder Turnhoutsebaan,Nieuw,Ja,,,
+MDL-0601,OWRB-02546-LAN-DMO-W66-000009,R1O-RIO-Lozingspunten R1O,Nieuw,Ja,Obj-04996,Lozingspunt 12a t/m 12h Bij E313 KW122 en R1 KW124 (BT) ---VERVALLEN---,Nee
+MDL-0601,OWRB-02546-LAN-DMO-W66-000009,R1O-RIO-Lozingspunten R1O,Nieuw,Ja,Obj-02686,Lozingspunt 6a & 6b Lobroekdok ---VERVALLEN---,Nee
+MDL-0601,OWRB-02546-LAN-DMO-W66-000009,R1O-RIO-Lozingspunten R1O,Nieuw,Ja,Obj-03548,Lozingspunt 9b Groot Schijn opwaarts pompstation ---VERVALLEN---,Nee
+MDL-0601,OWRB-02546-LAN-DMO-W66-000009,R1O-RIO-Lozingspunten R1O,Nieuw,Ja,Obj-04995,Lozingspunt LP10,Ja
+MDL-0601,OWRB-02546-LAN-DMO-W66-000009,R1O-RIO-Lozingspunten R1O,Nieuw,Ja,Obj-04997,Lozingspunt LP11,Ja
+MDL-0600,OWRB-04042-LAN-DMO-W66-000002,R1O-RIO-Hoofdwaterkelders Schijnpoort tunnel,Nieuw,Ja,,,
+MDL-0599,OWRB-05063-LAN-DMO-W66-000001,R1O-RIO-Groot Schijn (waterloop) Open dak,Nieuw,Ja,,,
+MDL-0598,OWRB-04042-LAN-DMO-W66-000001,R1O-DBW-Constr. Schijnpoorttunnel,Nieuw,Ja,,,
+MDL-0597,OWRB-04026-LAN-DMO-W64-000001,R1O-DBW-OT-Dienstbouwwerk Schijnpoort Energie,Nieuw,Ja,,,
+MDL-0596,OWRB-03709-LAN-DMO-W64-000001,R1O-DBW-Dienstbouwwerk Schijnpoort,Nieuw,Ja,,,
+MDL-0595,OWRB-03760-LAN-DMO-W66-000001,R1O-HW-Constr. Overkapping Hof ter Loo +verdiepte ligging,Nieuw,Ja,,,
+MDL-0594,OWRB-05232-LAN-DMO-W66-000001,R1O-HW-Constr. Gesloten deel E313-R1,Nieuw,Ja,,,
+MDL-0593,OWRB-05234-LAN-DMO-W66-000004,R1O-HW-Constr. Schijnpolder tussen viaduct verbindingsweg en einde polder (Zuid),Nieuw,Ja,,,
+MDL-0592,OWRB-05234-LAN-DMO-W66-000003,R1O-HW-OT-Constr. Schijnpolder tussen gesloten deel Schijnpoorttunnel en viaduct verbindingsweg (Zuid),Nieuw,Ja,,,
+MDL-0591,OWRB-05234-LAN-DMO-W66-000002,R1O-HW-OT-Viaduct verbindingsweg,Nieuw,Ja,,,
+MDL-0590,OWRB-05234-LAN-DMO-W66-000001,R1O-HW-OT-Gesloten deel aansluiting van R1 naar E313,Nieuw,Ja,,,
+MDL-0588,OWRB-04328-LAN-DMO-W66-000001,R1O-HW-OT-Constr. Open polder lobroekdok,Nieuw,Ja,,,
+MDL-0542,OWRB-03745-LAN-TMO-W59-000003,,Nieuw,Ja,,,
+MDL-0541,OWRB-03745-LAN-BMO-W59-000001,,Nieuw,Ja,,,
+MDL-0540,OWRB-01242-LAN-BMO-W59-000001,,Nieuw,Ja,,,
+MDL-0539,OWRB-05163-LAN-BMO-W59-000001,004-WEG-R1S-GX3L,Nieuw,Ja,,,
+MDL-0490,OWRB-05091-LAN-DMO-W66-000002,R1N-HW-R1_Luchtbaltunnel VO,Vervallen,Nee,Obj-01378,Gesloten deel aansluiting van R1 naar E313 (MWQ1),Ja
+MDL-0490,OWRB-05091-LAN-DMO-W66-000002,R1N-HW-R1_Luchtbaltunnel VO,Vervallen,Nee,Obj-03140,"Groenendaallaan (Hoofdkelder) (vervallen, opgesplitst in GDL-W en GDL-O)",Nee
+MDL-0490,OWRB-05091-LAN-DMO-W66-000002,R1N-HW-R1_Luchtbaltunnel VO,Vervallen,Nee,Obj-05136,Hoofdkelder TKZO-N ---VERVALLEN---,Nee
+MDL-0490,OWRB-05091-LAN-DMO-W66-000002,R1N-HW-R1_Luchtbaltunnel VO,Vervallen,Nee,Obj-05137,Hoofdkelder TLUC-O,Ja
+MDL-0490,OWRB-05091-LAN-DMO-W66-000002,R1N-HW-R1_Luchtbaltunnel VO,Vervallen,Nee,Obj-05135,Hoofdkelder TLUC-W,Ja
+MDL-0490,OWRB-05091-LAN-DMO-W66-000002,R1N-HW-R1_Luchtbaltunnel VO,Vervallen,Nee,Obj-05090,Luchtbaltunnel Midden,Ja
+MDL-0490,OWRB-05091-LAN-DMO-W66-000002,R1N-HW-R1_Luchtbaltunnel VO,Vervallen,Nee,Obj-05091,Luchtbaltunnel Noord,Ja
+MDL-0490,OWRB-05091-LAN-DMO-W66-000002,R1N-HW-R1_Luchtbaltunnel VO,Vervallen,Nee,Obj-05092,"Polder Luchtbal West t.p.v. Groenendaallaan (GDL-PW), polderpeil -3.0 m TAW",Ja
+MDL-0490,OWRB-05091-LAN-DMO-W66-000002,R1N-HW-R1_Luchtbaltunnel VO,Vervallen,Nee,Obj-04033,Tunnelconstructie Luchtbal deel R1-Noord,Ja
+MDL-0490,OWRB-05091-LAN-DMO-W66-000002,R1N-HW-R1_Luchtbaltunnel VO,Vervallen,Nee,Obj-05094,Vluchtvoorzieningen verdiepte ligging 16_T50 Zijberm MWA1 Luchtbalknoop Noord,Ja
+MDL-0490,OWRB-05091-LAN-DMO-W66-000002,R1N-HW-R1_Luchtbaltunnel VO,Vervallen,Nee,Obj-05095,Vluchtvoorzieningen verdiepte ligging 16_T50 Zijberm MWD1 Luchtbalknoop Noord,Ja
+MDL-0485,OWRB-01723-LAN-DMO-W66-000001,R1O-HW-OT-Ijzerlaankanaal VO,Nieuw,Ja,Obj-01725,Drijvend groen,Ja
+MDL-0484,OWRB-01723-LAN-BMO-W66-000001,R1O-HW-OT-Ijzerlaankanaal VO,Nieuw,Ja,Obj-01723,Aansluiting IJzerlaankanaal op Lobroekdok,Ja
+MDL-0479,OWRB-04328-LAN-DMO-W66-000002,R1O-HW-OT_OKA Zuid open polder VO,Nieuw,Ja,Obj-04328,Open polder tussen gesloten deel OKA en gesloten deel Schijnpoorttunnel (Noord),Ja
+MDL-0479,OWRB-04328-LAN-DMO-W66-000002,R1O-HW-OT_OKA Zuid open polder VO,Nieuw,Ja,Obj-05070,scherm 12_T   MWE1 Lobroek polder 6,Ja
+MDL-0479,OWRB-04328-LAN-DMO-W66-000002,R1O-HW-OT_OKA Zuid open polder VO,Nieuw,Ja,Obj-05071,scherm 12_T   MWF1 Lobroek polder 6,Ja
+MDL-0479,OWRB-04328-LAN-DMO-W66-000002,R1O-HW-OT_OKA Zuid open polder VO,Nieuw,Ja,Obj-05107,Vluchtvoorzieningen verdiepte ligging 12_T41 Zijberm MWE1 Kanaalkruising,Ja
+MDL-0479,OWRB-04328-LAN-DMO-W66-000002,R1O-HW-OT_OKA Zuid open polder VO,Nieuw,Ja,Obj-05108,Vluchtvoorzieningen verdiepte ligging 12_T41 Zijberm MWF1 Kanaalkruising,Ja
+MDL-0478,OWRB-04328-LAN-BMO-W66-000002,R1O-HW-OT_OKA Zuid open polder VO,Nieuw,Ja,Obj-06176,CB-wand Oost Lobroekpolder [vervallen],Nee
+MDL-0478,OWRB-04328-LAN-BMO-W66-000002,R1O-HW-OT_OKA Zuid open polder VO,Nieuw,Ja,Obj-06173,Compartimenteringsscherm OKA/Verdiepte ligging Lobroek,Ja
+MDL-0478,OWRB-04328-LAN-BMO-W66-000002,R1O-HW-OT_OKA Zuid open polder VO,Nieuw,Ja,Obj-05911,Diepwand Oost Lobroekpolder,Ja
+MDL-0478,OWRB-04328-LAN-BMO-W66-000002,R1O-HW-OT_OKA Zuid open polder VO,Nieuw,Ja,Obj-05912,Diepwand West Lobroekpolder,Ja
+MDL-0478,OWRB-04328-LAN-BMO-W66-000002,R1O-HW-OT_OKA Zuid open polder VO,Nieuw,Ja,Obj-06265,Milieu schermen rondom verdiepte ligging Lobroek,Ja
+MDL-0478,OWRB-04328-LAN-BMO-W66-000002,R1O-HW-OT_OKA Zuid open polder VO,Nieuw,Ja,Obj-06266,Milieuscherm op tunnelmond OKA - verdiepte ligging Lobroek,Ja
+MDL-0478,OWRB-04328-LAN-BMO-W66-000002,R1O-HW-OT_OKA Zuid open polder VO,Nieuw,Ja,Obj-05914,Oostelijke grondkerende wand verdiepte ligging Lobroek,Ja
+MDL-0478,OWRB-04328-LAN-BMO-W66-000002,R1O-HW-OT_OKA Zuid open polder VO,Nieuw,Ja,Obj-04328,Open polder tussen gesloten deel OKA en gesloten deel Schijnpoorttunnel (Noord),Ja
+MDL-0478,OWRB-04328-LAN-BMO-W66-000002,R1O-HW-OT_OKA Zuid open polder VO,Nieuw,Ja,Obj-05070,scherm 12_T   MWE1 Lobroek polder 6,Ja
+MDL-0478,OWRB-04328-LAN-BMO-W66-000002,R1O-HW-OT_OKA Zuid open polder VO,Nieuw,Ja,Obj-05071,scherm 12_T   MWF1 Lobroek polder 6,Ja
+MDL-0478,OWRB-04328-LAN-BMO-W66-000002,R1O-HW-OT_OKA Zuid open polder VO,Nieuw,Ja,Obj-05107,Vluchtvoorzieningen verdiepte ligging 12_T41 Zijberm MWE1 Kanaalkruising,Ja
+MDL-0478,OWRB-04328-LAN-BMO-W66-000002,R1O-HW-OT_OKA Zuid open polder VO,Nieuw,Ja,Obj-05108,Vluchtvoorzieningen verdiepte ligging 12_T41 Zijberm MWF1 Kanaalkruising,Ja
+MDL-0468,OWRB-03520-LAN-BMO-W59-000001,004-WEG-R1S-GWQ1,Nieuw,Ja,Obj-05960,MWQ1 - Verbindingsweg Tracé R1NO - Tracé A13 t.p.v. knoop Antwerpen Oost,Ja
+MDL-0468,OWRB-03520-LAN-BMO-W59-000001,004-WEG-R1S-GWQ1,Nieuw,Ja,Obj-05940,MWQ1 - Verbindingsweg Tracé R1NO - Tracé A13 t.p.v. verdiepte ligging Antwerpen Oost Open,Ja
+MDL-0468,OWRB-03520-LAN-BMO-W59-000001,004-WEG-R1S-GWQ1,Nieuw,Ja,Obj-05939,MWQ1 - Verbindingsweg Tracé R1NO - Tracé A13 t.p.v. verdiepte ligging Antwerpen Oost Overdekt,Ja
+MDL-0468,OWRB-03520-LAN-BMO-W59-000001,004-WEG-R1S-GWQ1,Nieuw,Ja,Obj-05938,MWQ1 - Verbindingsweg Tracé R1NO - Tracé A13 t.p.v. verdiepte ligging Schijnpoort,Ja
+MDL-0467,OWRB-03520-LAN-DMO-W59-000001,004-WEG-R1S-GWQ1,Nieuw,Ja,Obj-05960,MWQ1 - Verbindingsweg Tracé R1NO - Tracé A13 t.p.v. knoop Antwerpen Oost,Ja
+MDL-0467,OWRB-03520-LAN-DMO-W59-000001,004-WEG-R1S-GWQ1,Nieuw,Ja,Obj-05940,MWQ1 - Verbindingsweg Tracé R1NO - Tracé A13 t.p.v. verdiepte ligging Antwerpen Oost Open,Ja
+MDL-0467,OWRB-03520-LAN-DMO-W59-000001,004-WEG-R1S-GWQ1,Nieuw,Ja,Obj-05939,MWQ1 - Verbindingsweg Tracé R1NO - Tracé A13 t.p.v. verdiepte ligging Antwerpen Oost Overdekt,Ja
+MDL-0467,OWRB-03520-LAN-DMO-W59-000001,004-WEG-R1S-GWQ1,Nieuw,Ja,Obj-05938,MWQ1 - Verbindingsweg Tracé R1NO - Tracé A13 t.p.v. verdiepte ligging Schijnpoort,Ja
+MDL-0466,OWRB-03738-LAN-BMO-W59-000001,004-WEG-R1S-GWJ2,Nieuw,Ja,Obj-05944,MWJ2 - Afrit Schijnpoort vanaf Trace A13 t.p.v. verdiepte ligging Antwerpen Oost,Ja
+MDL-0465,OWRB-03738-LAN-DMO-W59-000001,004-WEG-R1S-GWJ2,Nieuw,Ja,Obj-05944,MWJ2 - Afrit Schijnpoort vanaf Trace A13 t.p.v. verdiepte ligging Antwerpen Oost,Ja
+MDL-0464,OWRB-03737-LAN-BMO-W59-000001,004-WEG-R1S-GWJ1,Nieuw,Ja,Obj-05962,MWJ1 - Afrit Schijnpoort vanaf Trace R1Zuid t.p.v. knoop Antwerp Oost Open,Ja
+MDL-0464,OWRB-03737-LAN-BMO-W59-000001,004-WEG-R1S-GWJ1,Nieuw,Ja,Obj-05964,MWJ1 - Afrit Schijnpoort vanaf Trace R1Zuid t.p.v. knoop Antwerp Oost Open 2,Ja
+MDL-0464,OWRB-03737-LAN-BMO-W59-000001,004-WEG-R1S-GWJ1,Nieuw,Ja,Obj-05963,MWJ1 - Afrit Schijnpoort vanaf Trace R1Zuid t.p.v. knoop Antwerp Oost Overdekt,Ja
+MDL-0464,OWRB-03737-LAN-BMO-W59-000001,004-WEG-R1S-GWJ1,Nieuw,Ja,Obj-05965,MWJ1 - Afrit Schijnpoort vanaf Trace R1Zuid t.p.v. verdiepte ligging Antwerpen Oost,Ja
+MDL-0463,OWRB-03737-LAN-DMO-W59-000001,004-WEG-R1S-GWJ1,Nieuw,Ja,Obj-05962,MWJ1 - Afrit Schijnpoort vanaf Trace R1Zuid t.p.v. knoop Antwerp Oost Open,Ja
+MDL-0463,OWRB-03737-LAN-DMO-W59-000001,004-WEG-R1S-GWJ1,Nieuw,Ja,Obj-05964,MWJ1 - Afrit Schijnpoort vanaf Trace R1Zuid t.p.v. knoop Antwerp Oost Open 2,Ja
+MDL-0463,OWRB-03737-LAN-DMO-W59-000001,004-WEG-R1S-GWJ1,Nieuw,Ja,Obj-05963,MWJ1 - Afrit Schijnpoort vanaf Trace R1Zuid t.p.v. knoop Antwerp Oost Overdekt,Ja
+MDL-0463,OWRB-03737-LAN-DMO-W59-000001,004-WEG-R1S-GWJ1,Nieuw,Ja,Obj-05965,MWJ1 - Afrit Schijnpoort vanaf Trace R1Zuid t.p.v. verdiepte ligging Antwerpen Oost,Ja
+MDL-0462,OWRB-03736-LAN-BMO-W59-000001,004-WEG-R1S-GWI1,Nieuw,Ja,Obj-06236,MWI1 - Afrit Schijnpoort vanaf tracé R1 Noord Oost t.p.v. verdiepte ligging Schijnpoort,Ja
+MDL-0461,OWRB-03736-LAN-DMO-W59-000001,004-WEG-R1S-GWI1,Nieuw,Ja,Obj-06236,MWI1 - Afrit Schijnpoort vanaf tracé R1 Noord Oost t.p.v. verdiepte ligging Schijnpoort,Ja
+MDL-0460,OWRB-03607-LAN-BMO-W66-000001,R1O-HW-BT-Bestaande Premetrokokers KW03,Nieuw,Ja,Obj-05545,Keerlus premetro,Ja
+MDL-0460,OWRB-03607-LAN-BMO-W66-000001,R1O-HW-BT-Bestaande Premetrokokers KW03,Nieuw,Ja,Obj-03607,Premetro Schijnpoort,Ja
+MDL-0460,OWRB-03607-LAN-BMO-W66-000001,R1O-HW-BT-Bestaande Premetrokokers KW03,Nieuw,Ja,Obj-05834,Premetrokoker 1,Ja
+MDL-0460,OWRB-03607-LAN-BMO-W66-000001,R1O-HW-BT-Bestaande Premetrokokers KW03,Nieuw,Ja,Obj-05835,Premetrokoker 2,Ja
+MDL-0460,OWRB-03607-LAN-BMO-W66-000001,R1O-HW-BT-Bestaande Premetrokokers KW03,Nieuw,Ja,Obj-05836,Premetrokoker 3,Ja
+MDL-0460,OWRB-03607-LAN-BMO-W66-000001,R1O-HW-BT-Bestaande Premetrokokers KW03,Nieuw,Ja,Obj-05837,Premetrokoker 4,Ja
+MDL-0460,OWRB-03607-LAN-BMO-W66-000001,R1O-HW-BT-Bestaande Premetrokokers KW03,Nieuw,Ja,Obj-05839,Vertrekschacht pre-metro Noord,Ja
+MDL-0460,OWRB-03607-LAN-BMO-W66-000001,R1O-HW-BT-Bestaande Premetrokokers KW03,Nieuw,Ja,Obj-05838,Vertrekschacht pre-metro Zuid,Ja
+MDL-0459,OWRB-03607-LAN-DMO-W66-000001,R1O-HW-BT-Bestaande Premetrokokers KW03,Nieuw,Ja,Obj-03607,Premetro Schijnpoort,Ja
+MDL-0458,OWRB-04350-LAN-BMO-W66-000001,R1O-HW-BT-Gasontspanstation (ext. KW93),Nieuw,Ja,Obj-04350,L0465W - K&L Gasontspanstation Schijnpoortweg Fluvius (KW93),Ja
+MDL-0457,OWRB-04350-LAN-DMO-W66-000001,R1O-HW-BT-Gasontspanstation (ext. KW93),Nieuw,Ja,Obj-04350,L0465W - K&L Gasontspanstation Schijnpoortweg Fluvius (KW93),Ja
+MDL-0456,OWRB-02861-LAN-DMO-W66-000001,R1O-HW-BT_Groot Schijn (waterloop) Open dak,Nieuw,Ja,Obj-02861,Groot Schijn noordelijk deel langs sportpaleis naar albertkanaal,Ja
+MDL-0455,OWRB-02861-LAN-BMO-W66-000001,R1O-HW-BT_Groot Schijn (waterloop) Open dak,Nieuw,Ja,Obj-02861,Groot Schijn noordelijk deel langs sportpaleis naar albertkanaal,Ja
+MDL-0454,OWRB-05226-LAN-DMO-W66-000001,R1O-HW-BT-Kademuur Lobroekdok oost KW28,Nieuw,Ja,Obj-01447,Kademuur Lobroekdok oost,Nee
+MDL-0454,OWRB-05226-LAN-DMO-W66-000001,R1O-HW-BT-Kademuur Lobroekdok oost KW28,Nieuw,Ja,Obj-05226,Lobroekdok,Ja
+MDL-0454,OWRB-05226-LAN-DMO-W66-000001,R1O-HW-BT-Kademuur Lobroekdok oost KW28,Nieuw,Ja,Obj-02724,Tankstation en ondergrondse tanks,Ja
+MDL-0453,OWRB-02869-LAN-DMO-W27-000001,R1O-NT-BT-Leidingenkoker Schijnpoort,Nieuw,Ja,Obj-02869,K0467 - K&L leidingkoker Schijnpoortweg,Ja
+MDL-0452,OWRB-02869-LAN-BMO-W27-000001,R1O-NT-BT-Leidingenkoker Schijnpoort,Nieuw,Ja,Obj-02869,K0467 - K&L leidingkoker Schijnpoortweg,Ja
+MDL-0451,OWRB-04347-LAN-BMO-W66-000001,R1O-HW-BT-R1_Passerelle Schijnpoortweg,Nieuw,Ja,Obj-04347,VW13 - Fietsbrug en Passarelle  deel stad,Ja
+MDL-0450,OWRB-04347-LAN-DMO-W66-000001,R1O-HW-BT-R1_Passerelle Schijnpoortweg,Nieuw,Ja,Obj-04347,VW13 - Fietsbrug en Passarelle  deel stad,Ja
+MDL-0449,OWRB-02861-LAN-DMO-W66-000002,R1O-HW-NT_Groot Schijn (waterloop) Open dak VO,Vervallen,Ja,Obj-05063,Afwateringskoker Groot Schijn,Ja
+MDL-0448,OWRB-02861-LAN-BMO-W66-000002,R1O-HW-NT_Groot Schijn (waterloop) Open dak VO,Vervallen,Ja,Obj-05063,Afwateringskoker Groot Schijn,Ja
+MDL-0447,OWRB-02658-LAN-DMO-W66-000001,R1O-HW-OT-Fietsbrug en paserelle,Nieuw,Ja,Obj-02658,Fietsbrug en passerelle,Ja
+MDL-0446,OWRB-04328-LAN-DMO-W66-000003,R1O-HW-OT_Ten Noorden van Schijnpoort VO,Nieuw,Ja,Obj-04328,Open polder tussen gesloten deel OKA en gesloten deel Schijnpoorttunnel (Noord),Ja
+MDL-0446,OWRB-04328-LAN-DMO-W66-000003,R1O-HW-OT_Ten Noorden van Schijnpoort VO,Nieuw,Ja,Obj-05070,scherm 12_T   MWE1 Lobroek polder 6,Ja
+MDL-0446,OWRB-04328-LAN-DMO-W66-000003,R1O-HW-OT_Ten Noorden van Schijnpoort VO,Nieuw,Ja,Obj-05071,scherm 12_T   MWF1 Lobroek polder 6,Ja
+MDL-0446,OWRB-04328-LAN-DMO-W66-000003,R1O-HW-OT_Ten Noorden van Schijnpoort VO,Nieuw,Ja,Obj-05099,Vluchtvoorzieningen verdiepte ligging 13_T40 Zijberm MWE1 lokbroekpolder,Ja
+MDL-0446,OWRB-04328-LAN-DMO-W66-000003,R1O-HW-OT_Ten Noorden van Schijnpoort VO,Nieuw,Ja,Obj-05100,Vluchtvoorzieningen verdiepte ligging 13_T40 Zijberm MWF1 lokbroekpolder,Ja
+MDL-0445,OWRB-04328-LAN-BMO-W66-000003,R1O-HW-OT_Ten Noorden van Schijnpoort VO,Nieuw,Ja,Obj-06176,CB-wand Oost Lobroekpolder [vervallen],Nee
+MDL-0445,OWRB-04328-LAN-BMO-W66-000003,R1O-HW-OT_Ten Noorden van Schijnpoort VO,Nieuw,Ja,Obj-05911,Diepwand Oost Lobroekpolder,Ja
+MDL-0445,OWRB-04328-LAN-BMO-W66-000003,R1O-HW-OT_Ten Noorden van Schijnpoort VO,Nieuw,Ja,Obj-05912,Diepwand West Lobroekpolder,Ja
+MDL-0445,OWRB-04328-LAN-BMO-W66-000003,R1O-HW-OT_Ten Noorden van Schijnpoort VO,Nieuw,Ja,Obj-05067,Kadeconstructie Albertkanaal zuidzijde dempen toegang Lobroekdok (nieuw),Ja
+MDL-0445,OWRB-04328-LAN-BMO-W66-000003,R1O-HW-OT_Ten Noorden van Schijnpoort VO,Nieuw,Ja,Obj-06265,Milieu schermen rondom verdiepte ligging Lobroek,Ja
+MDL-0445,OWRB-04328-LAN-BMO-W66-000003,R1O-HW-OT_Ten Noorden van Schijnpoort VO,Nieuw,Ja,Obj-06267,Milieuscherm tunnelmond schijnpoorttunnel noord - verdiepte ligging Lobroek,Ja
+MDL-0445,OWRB-04328-LAN-BMO-W66-000003,R1O-HW-OT_Ten Noorden van Schijnpoort VO,Nieuw,Ja,Obj-05914,Oostelijke grondkerende wand verdiepte ligging Lobroek,Ja
+MDL-0445,OWRB-04328-LAN-BMO-W66-000003,R1O-HW-OT_Ten Noorden van Schijnpoort VO,Nieuw,Ja,Obj-04328,Open polder tussen gesloten deel OKA en gesloten deel Schijnpoorttunnel (Noord),Ja
+MDL-0445,OWRB-04328-LAN-BMO-W66-000003,R1O-HW-OT_Ten Noorden van Schijnpoort VO,Nieuw,Ja,Obj-06174,Polderwand Oostzijde Lobroekpolder,Ja
+MDL-0445,OWRB-04328-LAN-BMO-W66-000003,R1O-HW-OT_Ten Noorden van Schijnpoort VO,Nieuw,Ja,Obj-05070,scherm 12_T   MWE1 Lobroek polder 6,Ja
+MDL-0445,OWRB-04328-LAN-BMO-W66-000003,R1O-HW-OT_Ten Noorden van Schijnpoort VO,Nieuw,Ja,Obj-05071,scherm 12_T   MWF1 Lobroek polder 6,Ja
+MDL-0445,OWRB-04328-LAN-BMO-W66-000003,R1O-HW-OT_Ten Noorden van Schijnpoort VO,Nieuw,Ja,Obj-05099,Vluchtvoorzieningen verdiepte ligging 13_T40 Zijberm MWE1 lokbroekpolder,Ja
+MDL-0445,OWRB-04328-LAN-BMO-W66-000003,R1O-HW-OT_Ten Noorden van Schijnpoort VO,Nieuw,Ja,Obj-05100,Vluchtvoorzieningen verdiepte ligging 13_T40 Zijberm MWF1 lokbroekpolder,Ja
+MDL-0444,OWRB-03735-LAN-BMO-W59-000001,004-WEG-R1S-GWH2,Nieuw,Ja,Obj-06184,MWH2 - Oprit Schijnpoort richting Trace A13 t.p.v. knoop Antwerpen Oost,Ja
+MDL-0444,OWRB-03735-LAN-BMO-W59-000001,004-WEG-R1S-GWH2,Nieuw,Ja,Obj-05934,MWH2 - Oprit Schijnpoort richting Trace A13 t.p.v. verdiepte ligging Antwerpen Oost,Ja
+MDL-0443,OWRB-03735-LAN-DMO-W59-000001,004-WEG-R1S-GWH2,Nieuw,Ja,Obj-06184,MWH2 - Oprit Schijnpoort richting Trace A13 t.p.v. knoop Antwerpen Oost,Ja
+MDL-0443,OWRB-03735-LAN-DMO-W59-000001,004-WEG-R1S-GWH2,Nieuw,Ja,Obj-05934,MWH2 - Oprit Schijnpoort richting Trace A13 t.p.v. verdiepte ligging Antwerpen Oost,Ja
+MDL-0442,OWRB-03734-LAN-BMO-W59-000001,004-WEG-R1S-GWH1,Nieuw,Ja,Obj-05961,MWH1 - Oprit Schijnpoort richting Trace R1Zuid t.p.v. knoop Antwerpen Oost,Ja
+MDL-0442,OWRB-03734-LAN-BMO-W59-000001,004-WEG-R1S-GWH1,Nieuw,Ja,Obj-05936,MWH1 - Oprit Schijnpoort richting Trace R1Zuid t.p.v. verdiepte ligging Antwerpen Oost,Ja
+MDL-0441,OWRB-03734-LAN-DMO-W59-000001,004-WEG-R1S-GWH1,Nieuw,Ja,Obj-05961,MWH1 - Oprit Schijnpoort richting Trace R1Zuid t.p.v. knoop Antwerpen Oost,Ja
+MDL-0441,OWRB-03734-LAN-DMO-W59-000001,004-WEG-R1S-GWH1,Nieuw,Ja,Obj-05936,MWH1 - Oprit Schijnpoort richting Trace R1Zuid t.p.v. verdiepte ligging Antwerpen Oost,Ja
+MDL-0440,OWRB-03740-LAN-BMO-W59-000001,004-WEG-R1S-GWG1,Nieuw,Ja,Obj-06235,MWG1 - Oprit Schijnpoort richting Tracé R1 Noord Oost t.p.v. verdiepte ligging Schijnpoort,Ja
+MDL-0439,OWRB-03740-LAN-DMO-W59-000001,004-WEG-R1S-GWG1,Nieuw,Ja,Obj-06235,MWG1 - Oprit Schijnpoort richting Tracé R1 Noord Oost t.p.v. verdiepte ligging Schijnpoort,Ja
+MDL-0438,OWRB-02527-LAN-BMO-W59-000003,004-WEG-R1S-GWF1,Nieuw,Ja,Obj-05949,MWF1 – HRB Knooppunt Antwerpen Oost - Knooppunt Antwerpen Noord t.p.v. knoop Antwerpen Oost,Ja
+MDL-0438,OWRB-02527-LAN-BMO-W59-000003,004-WEG-R1S-GWF1,Nieuw,Ja,Obj-05933,MWF1 – HRB Knooppunt Antwerpen Oost - Knooppunt Antwerpen Noord t.p.v. verdiepte ligging Antwerpen Oost,Ja
+MDL-0438,OWRB-02527-LAN-BMO-W59-000003,004-WEG-R1S-GWF1,Nieuw,Ja,Obj-05942,MWF1 – HRB Knooppunt Antwerpen Oost - Knooppunt Antwerpen Noord t.p.v. verdiepte ligging Schijnpoort,Ja
+MDL-0438,OWRB-02527-LAN-BMO-W59-000003,004-WEG-R1S-GWF1,Nieuw,Ja,Obj-05959,MWF1 – Verbindingsweg Tracé Zuid - Tracé R1NO t.p.v. knoop Antwerpen Oost,Ja
+MDL-0437,OWRB-02527-LAN-DMO-W59-000003,004-WEG-R1S-GWF1,Nieuw,Ja,Obj-05949,MWF1 – HRB Knooppunt Antwerpen Oost - Knooppunt Antwerpen Noord t.p.v. knoop Antwerpen Oost,Ja
+MDL-0437,OWRB-02527-LAN-DMO-W59-000003,004-WEG-R1S-GWF1,Nieuw,Ja,Obj-05933,MWF1 – HRB Knooppunt Antwerpen Oost - Knooppunt Antwerpen Noord t.p.v. verdiepte ligging Antwerpen Oost,Ja
+MDL-0437,OWRB-02527-LAN-DMO-W59-000003,004-WEG-R1S-GWF1,Nieuw,Ja,Obj-05942,MWF1 – HRB Knooppunt Antwerpen Oost - Knooppunt Antwerpen Noord t.p.v. verdiepte ligging Schijnpoort,Ja
+MDL-0437,OWRB-02527-LAN-DMO-W59-000003,004-WEG-R1S-GWF1,Nieuw,Ja,Obj-05959,MWF1 – Verbindingsweg Tracé Zuid - Tracé R1NO t.p.v. knoop Antwerpen Oost,Ja
+MDL-0436,OWRB-02656-LAN-DMO-W66-000001,R1O-HW-BT-R1_Bestaande brug E313 over R1 (noord) KW122,Nieuw,Ja,Obj-02656,Bestaande brug E313 over R1 richting R1 Zuid,Ja
+MDL-0435,OWRB-02656-LAN-BMO-W66-000001,R1O-HW-BT-R1_Bestaande brug E313 over R1 (noord) KW122,Nieuw,Ja,Obj-02656,Bestaande brug E313 over R1 richting R1 Zuid,Ja
+MDL-0434,OWRB-04358-LAN-BMO-W66-000001,R1O-HW-R1_Bestaande brug E313 over R1 (zuid) KW124,Nieuw,Ja,Obj-04358,Bestaande brug E313 over R1 (zuid),Ja
+MDL-0433,OWRB-04358-LAN-DMO-W66-000001,R1O-HW-R1_Bestaande brug E313 over R1 (zuid) KW124,Nieuw,Ja,Obj-04358,Bestaande brug E313 over R1 (zuid),Ja
+MDL-0432,OWRB-04348-LAN-BMO-W66-000001,R1O-HW-BT-_CB Wand RWZI Deurne KW86,Nieuw,Ja,Obj-04348,CB Wand RWZI Deurne,Ja
+MDL-0431,OWRB-04348-LAN-DMO-W66-000001,R1O-HW-BT-_CB Wand RWZI Deurne KW86,Nieuw,Ja,Obj-04348,CB Wand RWZI Deurne,Ja
+MDL-0430,OWRB-03570-LAN-DMO-W27-000001,R1O-NT-BT-Collector leidingen rondom verbindingsweg,Nieuw,Ja,Obj-03570,Aquafincollectoren Schijnpoort (VW01),Ja
+MDL-0429,OWRB-03570-LAN-BMO-W27-000001,R1O-NT-BT-Collector leidingen rondom verbindingsweg,Nieuw,Ja,Obj-06281,Aquafincollector Schijnpoort bestaand,Ja
+MDL-0429,OWRB-03570-LAN-BMO-W27-000001,R1O-NT-BT-Collector leidingen rondom verbindingsweg,Nieuw,Ja,Obj-03570,Aquafincollectoren Schijnpoort (VW01),Ja
+MDL-0429,OWRB-03570-LAN-BMO-W27-000001,R1O-NT-BT-Collector leidingen rondom verbindingsweg,Nieuw,Ja,Obj-06227,Polderwand west - verdiepte ligging Schijnpoort (deel bestaand op te breken),Ja
+MDL-0429,OWRB-03570-LAN-BMO-W27-000001,R1O-NT-BT-Collector leidingen rondom verbindingsweg,Nieuw,Ja,Obj-05883,Pompstation Lobroekdok,Ja
+MDL-0428,OWRB-03676-LAN-DMO-W66-000001,R1O-HW-BT-R1-Gebouwen Noordersingel KW149 - See LOG-0072 in ROCO Relatics,Vervallen,Ja,Obj-03676,Noordersingel,Ja
+MDL-0427,OWRB-03676-LAN-BMO-W66-000001,R1O-HW-BT-R1-Gebouwen Noordersingel KW149 See LOG-0072 in ROCO Relatics,Vervallen,Ja,Obj-05113,Imobe terrein,Ja
+MDL-0426,OWRB-02867-LAN-DMO-W27-000001,R1O-NT-BT-Leidingenkoker 10,Nieuw,Ja,Obj-02867,K0592 - K&L Leidingkoker Turnhoutsebaan (LK 10),Ja
+MDL-0425,OWRB-02867-LAN-BMO-W27-000001,R1O-NT-BT-Leidingenkoker 10,Nieuw,Ja,Obj-02867,K0592 - K&L Leidingkoker Turnhoutsebaan (LK 10),Ja
+MDL-0424,OWRB-01600-LAN-DMO-W66-000001,R1O-HW-BT-R1_Pompstation Groot Schijn,Nieuw,Ja,Obj-01600,Pompstation Groot Schijn,Ja
+MDL-0423,OWRB-01600-LAN-BMO-W66-000001,R1O-HW-BT-R1_Pompstation Groot Schijn,Nieuw,Ja,Obj-01600,Pompstation Groot Schijn,Ja
+MDL-0422,OWRB-05213-LAN-DMO-W66-000001,R1O-HW-BT-Slibgistingstank RWZI Deurne,Nieuw,Ja,Obj-05213,Slibgistingstank RWZI Deurne,Ja
+MDL-0421,OWRB-01384-LAN-DMO-W66-000001,R1N-HW-BT-R1-Viaduct Turnhoutsebaan KW121,Nieuw,Ja,Obj-01384,Bestaande brug Turnhoutsebaan over R1 ,Ja
+MDL-0420,OWRB-01384-LAN-BMO-W66-000001,R1N-HW-BT-R1-Viaduct Turnhoutsebaan KW121,Nieuw,Ja,Obj-01384,Bestaande brug Turnhoutsebaan over R1 ,Ja
+MDL-0419,OWRB-06R1O-LAN-DMO-W59-000001,,Nieuw,Ja,Obj-05148,N-WE-FP-37       Fietspad vertrekkend van N-WE-FP-48 aansluitend op jaagpad Albertkanaal,Ja
+MDL-0419,OWRB-06R1O-LAN-DMO-W59-000001,,Nieuw,Ja,Obj-05150,N-WE-FP-39       Fietspad vertrekkend op Fietsbrug Ijzerlaan aansluitend aan N-WE-FP-38,Ja
+MDL-0419,OWRB-06R1O-LAN-DMO-W59-000001,,Nieuw,Ja,Obj-05151,N-WE-FP-40       Fietspad van N-WE-FP-37 aansluitend op Fietsbrug Ijzerlaan,Ja
+MDL-0419,OWRB-06R1O-LAN-DMO-W59-000001,,Nieuw,Ja,Obj-05152,N-WE-FP-41       Fietspad vanuit park Groot schijn  richting fietsburg/passerelle,Ja
+MDL-0419,OWRB-06R1O-LAN-DMO-W59-000001,,Nieuw,Ja,Obj-05153,N-WE-FP-42       Fietspad van N-WE-FP-49 aansluitend op N-WE-FP-41,Ja
+MDL-0419,OWRB-06R1O-LAN-DMO-W59-000001,,Nieuw,Ja,Obj-05154,N-WE-FP-43       Fietspad van Rivierenhof aansluitend op kop Hof ter Loo,Ja
+MDL-0419,OWRB-06R1O-LAN-DMO-W59-000001,,Nieuw,Ja,Obj-05155,N-WE-FP-44       Fietspad van N-WE-FP-43 aansluitend aan fietspadbrug of Groot Schijn ri Rivierenhof,Ja
+MDL-0419,OWRB-06R1O-LAN-DMO-W59-000001,,Nieuw,Ja,Obj-05156,N-WE-FP-46       Fietspad van N-WE-FP-47 naar bestaand fietspad Raoul Grégoirplein,Ja
+MDL-0419,OWRB-06R1O-LAN-DMO-W59-000001,,Nieuw,Ja,Obj-05157,N-WE-FP-47       Fietspad van N-WE-FP-50 naar bestaand FP Bisschoppenhoflaan,Ja
+MDL-0419,OWRB-06R1O-LAN-DMO-W59-000001,,Nieuw,Ja,Obj-05158,N-WE-FP-48       Fietspad van N-WE-FP-50 aansluitend op N-WE-FP-37,Ja
+MDL-0419,OWRB-06R1O-LAN-DMO-W59-000001,,Nieuw,Ja,Obj-05159,N-WE-FP-49       Fietspad van Verbindingsweg naar bestaand FP Bisschoppenhoflaan,Ja
+MDL-0419,OWRB-06R1O-LAN-DMO-W59-000001,,Nieuw,Ja,Obj-05160,N-WE-FP-50       Fietspad Schijnpoortweg Noord,Ja
+MDL-0419,OWRB-06R1O-LAN-DMO-W59-000001,,Nieuw,Ja,Obj-05161,N-WE-FP-51       Fietspad van N-WE-FP-50 naar Verbindingsweg,Ja
+MDL-0419,OWRB-06R1O-LAN-DMO-W59-000001,,Nieuw,Ja,Obj-05162,N-WE-FP-52       Fietspad Schijnpoortweg zuid,Ja
+MDL-0419,OWRB-06R1O-LAN-DMO-W59-000001,,Nieuw,Ja,Obj-05119,Ringfietspad,Ja
+MDL-0418,OWRB-02655-LAN-DMO-W66-000001,R1O-HW-R1_Aansluiting deel E313 VO,Nieuw,Ja,Obj-02655,Onderdoorgang afrit Schijnpoort / Afrit E313 - R1 (MW41) VERVALLEN,Nee
+MDL-0418,OWRB-02655-LAN-DMO-W66-000001,R1O-HW-R1_Aansluiting deel E313 VO,Nieuw,Ja,Obj-04331,Verdiepte ligging Antwerpen Oost,Ja
+MDL-0417,OWRB-02655-LAN-BMO-W66-000001,R1O-HW-R1_Aansluiting deel E313 VO,Nieuw,Ja,Obj-05076,-,Nee
+MDL-0417,OWRB-02655-LAN-BMO-W66-000001,R1O-HW-R1_Aansluiting deel E313 VO,Nieuw,Ja,Obj-06221,Dive under - afrit Schijnpoort,Ja
+MDL-0417,OWRB-02655-LAN-BMO-W66-000001,R1O-HW-R1_Aansluiting deel E313 VO,Nieuw,Ja,Obj-05967,Grond- en waterkering onder Turnhoutsebaan ter grondkering voor MWJ1,Ja
+MDL-0417,OWRB-02655-LAN-BMO-W66-000001,R1O-HW-R1_Aansluiting deel E313 VO,Nieuw,Ja,Obj-05966,Grond- en waterkering onder Turnhoutsebaan tussen MWF1 en MWJ1,Ja
+MDL-0417,OWRB-02655-LAN-BMO-W66-000001,R1O-HW-R1_Aansluiting deel E313 VO,Nieuw,Ja,Obj-05968,Grondkerende constructie onder viaduct E34/E313-Zuid,Ja
+MDL-0417,OWRB-02655-LAN-BMO-W66-000001,R1O-HW-R1_Aansluiting deel E313 VO,Nieuw,Ja,Obj-06217,Grondvernageling Landhoofd viaduct Turnhoutsebaan,Ja
+MDL-0417,OWRB-02655-LAN-BMO-W66-000001,R1O-HW-R1_Aansluiting deel E313 VO,Nieuw,Ja,Obj-06279,Milieuschermen Knoop Antwerpen-Oost,Ja
+MDL-0417,OWRB-02655-LAN-BMO-W66-000001,R1O-HW-R1_Aansluiting deel E313 VO,Nieuw,Ja,Obj-02655,Onderdoorgang afrit Schijnpoort / Afrit E313 - R1 (MW41) VERVALLEN,Nee
+MDL-0417,OWRB-02655-LAN-BMO-W66-000001,R1O-HW-R1_Aansluiting deel E313 VO,Nieuw,Ja,Obj-06218,Onderdoorgang Afrit Schijnpoort kruising Turnhoutsebaan - VERVALLEN,Nee
+MDL-0417,OWRB-02655-LAN-BMO-W66-000001,R1O-HW-R1_Aansluiting deel E313 VO,Nieuw,Ja,Obj-05077,Scherm 15_T   MWF1 Antwerpen Oost kruising 5.5,Ja
+MDL-0417,OWRB-02655-LAN-BMO-W66-000001,R1O-HW-R1_Aansluiting deel E313 VO,Nieuw,Ja,Obj-05571,U-bak midden afrit Schijnpoort - VERVALLEN,Nee
+MDL-0417,OWRB-02655-LAN-BMO-W66-000001,R1O-HW-R1_Aansluiting deel E313 VO,Nieuw,Ja,Obj-06232,U-bak noord afrit Schijnpoort - VERVALLEN,Nee
+MDL-0417,OWRB-02655-LAN-BMO-W66-000001,R1O-HW-R1_Aansluiting deel E313 VO,Nieuw,Ja,Obj-06233,U-bak zuid afrit Schijnpoort VERVALLEN,Nee
+MDL-0416,OWRB-01378-LAN-DMO-W66-000001,R1O-HW-R1_Open polder Zuid VO,Nieuw,Ja,Obj-02687,Lozingspunt 15  - Groot Schijn (voor tijdelijke R1 Oost),Ja
+MDL-0416,OWRB-01378-LAN-DMO-W66-000001,R1O-HW-R1_Open polder Zuid VO,Nieuw,Ja,Obj-04330,Open polder tussen viaduct verbindingsweg en einde polder (Zuid),Ja
+MDL-0416,OWRB-01378-LAN-DMO-W66-000001,R1O-HW-R1_Open polder Zuid VO,Nieuw,Ja,Obj-02693,Vloeistofkelder Hof ter Lo (OHtL),Ja
+MDL-0416,OWRB-01378-LAN-DMO-W66-000001,R1O-HW-R1_Open polder Zuid VO,Nieuw,Ja,Obj-04984,Vloeistofkelder Kap Hof ter Lo (KHtL),Ja
+MDL-0416,OWRB-01378-LAN-DMO-W66-000001,R1O-HW-R1_Open polder Zuid VO,Nieuw,Ja,Obj-05101,Vluchtvoorzieningen gesloten deel aansluiting R1 naar E313 (MWQ1),Ja
+MDL-0415,OWRB-03760-LAN-DMO-W66-000002,R1O-HW-R1_Overkapping Hof ter Loo VO,Nieuw,Ja,Obj-05076,-,Nee
+MDL-0415,OWRB-03760-LAN-DMO-W66-000002,R1O-HW-R1_Overkapping Hof ter Loo VO,Nieuw,Ja,Obj-03760,Overkapping Hof ter Loo,Ja
+MDL-0415,OWRB-03760-LAN-DMO-W66-000002,R1O-HW-R1_Overkapping Hof ter Loo VO,Nieuw,Ja,Obj-04331,Verdiepte ligging Antwerpen Oost,Ja
+MDL-0415,OWRB-03760-LAN-DMO-W66-000002,R1O-HW-R1_Overkapping Hof ter Loo VO,Nieuw,Ja,Obj-05102,Vluchtvoorzieningen verdiepte ligging 14_T31 Middenberm MWE1/MWF1 overkapping hof ter Loo,Ja
+MDL-0415,OWRB-03760-LAN-DMO-W66-000002,R1O-HW-R1_Overkapping Hof ter Loo VO,Nieuw,Ja,Obj-05098,Vluchtvoorzieningen verdiepte ligging 15_T29 Zijberm MWF1 Antwerpen oost kruising,Ja
+MDL-0414,OWRB-03760-LAN-BMO-W66-000002,R1O-HW-R1_Overkapping Hof ter Loo VO,Nieuw,Ja,Obj-06284,Dak Hof ter Loo,Ja
+MDL-0414,OWRB-03760-LAN-BMO-W66-000002,R1O-HW-R1_Overkapping Hof ter Loo VO,Nieuw,Ja,Obj-05955,Grondkerende constructie tussen MWH2 en MWQ1,Ja
+MDL-0414,OWRB-03760-LAN-BMO-W66-000002,R1O-HW-R1_Overkapping Hof ter Loo VO,Nieuw,Ja,Obj-05840,Grondkerende constructie westzijde MWH2,Ja
+MDL-0414,OWRB-03760-LAN-BMO-W66-000002,R1O-HW-R1_Overkapping Hof ter Loo VO,Nieuw,Ja,Obj-06280,Milieuscherm op Zuidzijde Kap hof ter Loo,Ja
+MDL-0414,OWRB-03760-LAN-BMO-W66-000002,R1O-HW-R1_Overkapping Hof ter Loo VO,Nieuw,Ja,Obj-06279,Milieuschermen Knoop Antwerpen-Oost,Ja
+MDL-0414,OWRB-03760-LAN-BMO-W66-000002,R1O-HW-R1_Overkapping Hof ter Loo VO,Nieuw,Ja,Obj-03760,Overkapping Hof ter Loo,Ja
+MDL-0414,OWRB-03760-LAN-BMO-W66-000002,R1O-HW-R1_Overkapping Hof ter Loo VO,Nieuw,Ja,Obj-06245,Polderwand dwars verdiepte ligging Antwerpen Oost (vervallen is dubbel Obj-06776),Nee
+MDL-0414,OWRB-03760-LAN-BMO-W66-000002,R1O-HW-R1_Overkapping Hof ter Loo VO,Nieuw,Ja,Obj-05077,Scherm 15_T   MWF1 Antwerpen Oost kruising 5.5,Ja
+MDL-0414,OWRB-03760-LAN-BMO-W66-000002,R1O-HW-R1_Overkapping Hof ter Loo VO,Nieuw,Ja,Obj-04331,Verdiepte ligging Antwerpen Oost,Ja
+MDL-0414,OWRB-03760-LAN-BMO-W66-000002,R1O-HW-R1_Overkapping Hof ter Loo VO,Nieuw,Ja,Obj-05102,Vluchtvoorzieningen verdiepte ligging 14_T31 Middenberm MWE1/MWF1 overkapping hof ter Loo,Ja
+MDL-0414,OWRB-03760-LAN-BMO-W66-000002,R1O-HW-R1_Overkapping Hof ter Loo VO,Nieuw,Ja,Obj-05098,Vluchtvoorzieningen verdiepte ligging 15_T29 Zijberm MWF1 Antwerpen oost kruising,Ja
+MDL-0414,OWRB-03760-LAN-BMO-W66-000002,R1O-HW-R1_Overkapping Hof ter Loo VO,Nieuw,Ja,Obj-06243,Wand Oost knoop Antwerpen Oost (4500),Ja
+MDL-0414,OWRB-03760-LAN-BMO-W66-000002,R1O-HW-R1_Overkapping Hof ter Loo VO,Nieuw,Ja,Obj-06242,Wand West knoop Antwerpen Oost,Ja
+MDL-0412,OWRB-02526-LAN-BMO-W59-000003,004-WEG-R1S-GWE1,Nieuw,Ja,Obj-05937,MWE1 – HRB Knooppunt Antwerpen Noord - Knooppunt Antwerpen Oost t.p.v. verdiepte ligging Schijnpoort,Ja
+MDL-0412,OWRB-02526-LAN-BMO-W59-000003,004-WEG-R1S-GWE1,Nieuw,Ja,Obj-05958,MWE1 – Verbindingsweg Tracé R1NO - Tracé R1Zuid t.p.v. knoop Antwerpen Oost,Ja
+MDL-0412,OWRB-02526-LAN-BMO-W59-000003,004-WEG-R1S-GWE1,Nieuw,Ja,Obj-05932,MWE1 – Verbindingsweg Tracé R1NO - Tracé R1Zuid t.p.v. verdiepte ligging Antwerpen Oost,Ja
+MDL-0412,OWRB-02526-LAN-BMO-W59-000003,004-WEG-R1S-GWE1,Nieuw,Ja,Obj-05941,MWE1 – Verbindingsweg Tracé R1NO - Tracé R1Zuid t.p.v. verdiepte ligging Schijnpoort,Ja
+MDL-0411,OWRB-02526-LAN-DMO-W59-000003,004-WEG-R1S-GWE1,Nieuw,Ja,Obj-05937,MWE1 – HRB Knooppunt Antwerpen Noord - Knooppunt Antwerpen Oost t.p.v. verdiepte ligging Schijnpoort,Ja
+MDL-0411,OWRB-02526-LAN-DMO-W59-000003,004-WEG-R1S-GWE1,Nieuw,Ja,Obj-05958,MWE1 – Verbindingsweg Tracé R1NO - Tracé R1Zuid t.p.v. knoop Antwerpen Oost,Ja
+MDL-0411,OWRB-02526-LAN-DMO-W59-000003,004-WEG-R1S-GWE1,Nieuw,Ja,Obj-05932,MWE1 – Verbindingsweg Tracé R1NO - Tracé R1Zuid t.p.v. verdiepte ligging Antwerpen Oost,Ja
+MDL-0411,OWRB-02526-LAN-DMO-W59-000003,004-WEG-R1S-GWE1,Nieuw,Ja,Obj-05941,MWE1 – Verbindingsweg Tracé R1NO - Tracé R1Zuid t.p.v. verdiepte ligging Schijnpoort,Ja
+MDL-0410,OWRB-01661-LAN-BMO-W59-000001,004-WEG-R1S-GW41,Nieuw,Ja,Obj-06237,MW41 - Verbindingsweg Tracé A13 - Tracé R1NO t.p.v. knoop Antwerpen Oost,Ja
+MDL-0409,OWRB-01661-LAN-DMO-W59-000001,004-WEG-R1S-GW41,Nieuw,Ja,Obj-06237,MW41 - Verbindingsweg Tracé A13 - Tracé R1NO t.p.v. knoop Antwerpen Oost,Ja
+MDL-0408,OWRB-02527-LAN-BMO-W59-000002,003-WEG-R1S-GWF1,Nieuw,Ja,Obj-05917,MWF1 – HRB Knooppunt Antwerpen Oost - Knooppunt Antwerpen Noord t.p.v. Schijnpoorttunnel,Ja
+MDL-0408,OWRB-02527-LAN-BMO-W59-000002,003-WEG-R1S-GWF1,Nieuw,Ja,Obj-05908,MWF1 – HRB Knooppunt Antwerpen Oost - Knooppunt Antwerpen Noord t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0408,OWRB-02527-LAN-BMO-W59-000002,003-WEG-R1S-GWF1,Nieuw,Ja,Obj-05942,MWF1 – HRB Knooppunt Antwerpen Oost - Knooppunt Antwerpen Noord t.p.v. verdiepte ligging Schijnpoort,Ja
+MDL-0408,OWRB-02527-LAN-BMO-W59-000002,003-WEG-R1S-GWF1,Nieuw,Ja,Obj-05943,MWF1 - Verbindingsweg Tracé R1NO - Trace A1 t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0407,OWRB-02527-LAN-DMO-W59-000002,003-WEG-R1S-GWF1,Nieuw,Ja,Obj-05917,MWF1 – HRB Knooppunt Antwerpen Oost - Knooppunt Antwerpen Noord t.p.v. Schijnpoorttunnel,Ja
+MDL-0407,OWRB-02527-LAN-DMO-W59-000002,003-WEG-R1S-GWF1,Nieuw,Ja,Obj-05908,MWF1 – HRB Knooppunt Antwerpen Oost - Knooppunt Antwerpen Noord t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0407,OWRB-02527-LAN-DMO-W59-000002,003-WEG-R1S-GWF1,Nieuw,Ja,Obj-05942,MWF1 – HRB Knooppunt Antwerpen Oost - Knooppunt Antwerpen Noord t.p.v. verdiepte ligging Schijnpoort,Ja
+MDL-0407,OWRB-02527-LAN-DMO-W59-000002,003-WEG-R1S-GWF1,Nieuw,Ja,Obj-05943,MWF1 - Verbindingsweg Tracé R1NO - Trace A1 t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0406,OWRB-02526-LAN-BMO-W59-000002,003-WEG-R1S-GWE1,Nieuw,Ja,Obj-05916,MWE1 – HRB Knooppunt Antwerpen Noord - Knooppunt Antwerpen Oost t.p.v. Schijnpoorttunnel,Ja
+MDL-0406,OWRB-02526-LAN-BMO-W59-000002,003-WEG-R1S-GWE1,Nieuw,Ja,Obj-05907,MWE1 – HRB Knooppunt Antwerpen Noord - Knooppunt Antwerpen Oost t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0406,OWRB-02526-LAN-BMO-W59-000002,003-WEG-R1S-GWE1,Nieuw,Ja,Obj-05937,MWE1 – HRB Knooppunt Antwerpen Noord - Knooppunt Antwerpen Oost t.p.v. verdiepte ligging Schijnpoort,Ja
+MDL-0406,OWRB-02526-LAN-BMO-W59-000002,003-WEG-R1S-GWE1,Nieuw,Ja,Obj-05935,MWE1 - Verbindingsweg Tracé A1 - Trace R1NO t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0405,OWRB-02526-LAN-DMO-W59-000002,003-WEG-R1S-GWE1,Nieuw,Ja,Obj-05916,MWE1 – HRB Knooppunt Antwerpen Noord - Knooppunt Antwerpen Oost t.p.v. Schijnpoorttunnel,Ja
+MDL-0405,OWRB-02526-LAN-DMO-W59-000002,003-WEG-R1S-GWE1,Nieuw,Ja,Obj-05907,MWE1 – HRB Knooppunt Antwerpen Noord - Knooppunt Antwerpen Oost t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0405,OWRB-02526-LAN-DMO-W59-000002,003-WEG-R1S-GWE1,Nieuw,Ja,Obj-05937,MWE1 – HRB Knooppunt Antwerpen Noord - Knooppunt Antwerpen Oost t.p.v. verdiepte ligging Schijnpoort,Ja
+MDL-0405,OWRB-02526-LAN-DMO-W59-000002,003-WEG-R1S-GWE1,Nieuw,Ja,Obj-05935,MWE1 - Verbindingsweg Tracé A1 - Trace R1NO t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0404,OWRB-03530-LAN-DMO-W59-000001,R1O-WEG-OT-Schijnpoortweg VO_TramLaan-C3D,Nieuw,Ja,Obj-03530,Tramspoor omgeving Schijnpoortweg,Ja
+MDL-0382,OWRB-02524-LAN-BMO-W59-000003,002-WEG-TOKA-GWC1,Nieuw,Ja,Obj-05976,MWC1 - verbindingsweg R1NW - R1NO t.p.v. OKA,Ja
+MDL-0382,OWRB-02524-LAN-BMO-W59-000003,002-WEG-TOKA-GWC1,Nieuw,Ja,Obj-05910,MWC1 - Verbindingsweg Tracé R1NW - Trace R1NO t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0381,OWRB-02524-LAN-DMO-W59-000003,002-WEG-TOKA-GWC1,Nieuw,Ja,Obj-05976,MWC1 - verbindingsweg R1NW - R1NO t.p.v. OKA,Ja
+MDL-0381,OWRB-02524-LAN-DMO-W59-000003,002-WEG-TOKA-GWC1,Nieuw,Ja,Obj-05910,MWC1 - Verbindingsweg Tracé R1NW - Trace R1NO t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0380,OWRB-02523-LAN-BMO-W59-000003,002-WEG-TOKA-GWB1,Nieuw,Ja,Obj-05975,MWB1 - verbindingsweg R1NO - R1NW t.p.v. OKA,Ja
+MDL-0380,OWRB-02523-LAN-BMO-W59-000003,002-WEG-TOKA-GWB1,Nieuw,Ja,Obj-05909,MWB1 - Verbindingsweg Tracé R1NO - Trace R1NW t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0379,OWRB-02523-LAN-DMO-W59-000003,002-WEG-TOKA-GWB1,Nieuw,Ja,Obj-05975,MWB1 - verbindingsweg R1NO - R1NW t.p.v. OKA,Ja
+MDL-0379,OWRB-02523-LAN-DMO-W59-000003,002-WEG-TOKA-GWB1,Nieuw,Ja,Obj-05909,MWB1 - Verbindingsweg Tracé R1NO - Trace R1NW t.p.v. verdiepte ligging Lobroek,Ja
+MDL-0345,OWRB-01391-LAN-BMO-W66-000001,R1O-HW-OT- viaduct verbindingsweg VO,Nieuw,Ja,Obj-06219,Constructiewand langsviaduct Oostzijde,Ja
+MDL-0345,OWRB-01391-LAN-BMO-W66-000001,R1O-HW-OT- viaduct verbindingsweg VO,Nieuw,Ja,Obj-06220,Constructiewand langsviaduct Westzijde,Ja
+MDL-0345,OWRB-01391-LAN-BMO-W66-000001,R1O-HW-OT- viaduct verbindingsweg VO,Nieuw,Ja,Obj-01391,Dwars Viaduct Verbindingsweg over de verdiepte R1,Ja
+MDL-0345,OWRB-01391-LAN-BMO-W66-000001,R1O-HW-OT- viaduct verbindingsweg VO,Nieuw,Ja,Obj-06208,Grondkerende constructie tussen MWG1 en MWF1,Ja
+MDL-0345,OWRB-01391-LAN-BMO-W66-000001,R1O-HW-OT- viaduct verbindingsweg VO,Nieuw,Ja,Obj-03759,Onderdoorgang Verbindingsweg,Nee
+MDL-0345,OWRB-01391-LAN-BMO-W66-000001,R1O-HW-OT- viaduct verbindingsweg VO,Nieuw,Ja,Obj-06262,Ontlastplaat Aquafin collector Merksem,Ja
+MDL-0345,OWRB-01391-LAN-BMO-W66-000001,R1O-HW-OT- viaduct verbindingsweg VO,Nieuw,Ja,Obj-04329,Open polder tussen gesloten deel Schijnpoorttunnel en viaduct verbindingsweg (Zuid),Ja
+MDL-0345,OWRB-01391-LAN-BMO-W66-000001,R1O-HW-OT- viaduct verbindingsweg VO,Nieuw,Ja,Obj-06082,Polderwand Oost - verdiepte ligging Schijnpoort (4300),Ja
+MDL-0345,OWRB-01391-LAN-BMO-W66-000001,R1O-HW-OT- viaduct verbindingsweg VO,Nieuw,Ja,Obj-06227,Polderwand west - verdiepte ligging Schijnpoort (deel bestaand op te breken),Ja
+MDL-0345,OWRB-01391-LAN-BMO-W66-000001,R1O-HW-OT- viaduct verbindingsweg VO,Nieuw,Ja,Obj-06228,Polderwand west - verdiepte ligging Schijnpoorttunnel (deel nieuw te bouwen),Ja
+MDL-0345,OWRB-01391-LAN-BMO-W66-000001,R1O-HW-OT- viaduct verbindingsweg VO,Nieuw,Ja,Obj-05103,Vluchtvoorzieningen verdiepte ligging 14_T33 Middenberm MWE1/MWF1 verbindingsweg,Ja
+MDL-0344,OWRB-01369-LAN-BMO-W66-000002,R1O-HW-R1_Schijnpoorttunnel VO ASC Schijnpoort,Nieuw,Ja,Obj-06273,Compartimengeringswand Schijnpoort Tunnelconstructie Zuidzijde,Ja
+MDL-0344,OWRB-01369-LAN-BMO-W66-000002,R1O-HW-R1_Schijnpoorttunnel VO ASC Schijnpoort,Nieuw,Ja,Obj-06274,Compartimenteringswand Schijnpoort Tunnelconstructie Midden (OUM),Ja
+MDL-0344,OWRB-01369-LAN-BMO-W66-000002,R1O-HW-R1_Schijnpoorttunnel VO ASC Schijnpoort,Nieuw,Ja,Obj-06272,Compartimenteringswand Schijnpoort tunnelconstructie Noordzijde,Ja
+MDL-0344,OWRB-01369-LAN-BMO-W66-000002,R1O-HW-R1_Schijnpoorttunnel VO ASC Schijnpoort,Nieuw,Ja,Obj-06268,Diepwand Oost Schijnpoort tunnelconstructie Midden-Noord,Ja
+MDL-0344,OWRB-01369-LAN-BMO-W66-000002,R1O-HW-R1_Schijnpoorttunnel VO ASC Schijnpoort,Nieuw,Ja,Obj-06269,Diepwand West Schijnpoort tunnelconstructie Midden-Zuid,Ja
+MDL-0344,OWRB-01369-LAN-BMO-W66-000002,R1O-HW-R1_Schijnpoorttunnel VO ASC Schijnpoort,Nieuw,Ja,Obj-06288,Fundering Schijnpoort Tunnelconstructie Midden --vervallen --,Nee
+MDL-0344,OWRB-01369-LAN-BMO-W66-000002,R1O-HW-R1_Schijnpoorttunnel VO ASC Schijnpoort,Nieuw,Ja,Obj-06287,Gesloten deel Schijnpoort Midden,Ja
+MDL-0344,OWRB-01369-LAN-BMO-W66-000002,R1O-HW-R1_Schijnpoorttunnel VO ASC Schijnpoort,Nieuw,Ja,Obj-06285,Gesloten deel Schijnpoort Tunnelconstructie Noord,Ja
+MDL-0344,OWRB-01369-LAN-BMO-W66-000002,R1O-HW-R1_Schijnpoorttunnel VO ASC Schijnpoort,Nieuw,Ja,Obj-06286,Gesloten deel Schijnpoort Tunnelconstructie Zuid,Ja
+MDL-0344,OWRB-01369-LAN-BMO-W66-000002,R1O-HW-R1_Schijnpoorttunnel VO ASC Schijnpoort,Nieuw,Ja,Obj-04329,Open polder tussen gesloten deel Schijnpoorttunnel en viaduct verbindingsweg (Zuid),Ja
+MDL-0344,OWRB-01369-LAN-BMO-W66-000002,R1O-HW-R1_Schijnpoorttunnel VO ASC Schijnpoort,Nieuw,Ja,Obj-05918,Polderconstructie Schijnpoort Noord,Ja
+MDL-0344,OWRB-01369-LAN-BMO-W66-000002,R1O-HW-R1_Schijnpoorttunnel VO ASC Schijnpoort,Nieuw,Ja,Obj-06234,Polderconstructie Schijnpoort Zuid,Ja
+MDL-0344,OWRB-01369-LAN-BMO-W66-000002,R1O-HW-R1_Schijnpoorttunnel VO ASC Schijnpoort,Nieuw,Ja,Obj-06082,Polderwand Oost - verdiepte ligging Schijnpoort (4300),Ja
+MDL-0344,OWRB-01369-LAN-BMO-W66-000002,R1O-HW-R1_Schijnpoorttunnel VO ASC Schijnpoort,Nieuw,Ja,Obj-05919,Polderwand Oost Schijnpoort tunnelconstructie noord,Ja
+MDL-0344,OWRB-01369-LAN-BMO-W66-000002,R1O-HW-R1_Schijnpoorttunnel VO ASC Schijnpoort,Nieuw,Ja,Obj-06270,Polderwand Oost Schijnpoort Tunnelconstructie zuid,Ja
+MDL-0344,OWRB-01369-LAN-BMO-W66-000002,R1O-HW-R1_Schijnpoorttunnel VO ASC Schijnpoort,Nieuw,Ja,Obj-06228,Polderwand west - verdiepte ligging Schijnpoorttunnel (deel nieuw te bouwen),Ja
+MDL-0344,OWRB-01369-LAN-BMO-W66-000002,R1O-HW-R1_Schijnpoorttunnel VO ASC Schijnpoort,Nieuw,Ja,Obj-05920,Polderwand West Schijnpoort tunnelconstructie Noord,Ja
+MDL-0344,OWRB-01369-LAN-BMO-W66-000002,R1O-HW-R1_Schijnpoorttunnel VO ASC Schijnpoort,Nieuw,Ja,Obj-06271,Polderwand West Schijnpoort Tunnelconstructie Zuid,Ja
+MDL-0344,OWRB-01369-LAN-BMO-W66-000002,R1O-HW-R1_Schijnpoorttunnel VO ASC Schijnpoort,Nieuw,Ja,Obj-05070,scherm 12_T   MWE1 Lobroek polder 6,Ja
+MDL-0344,OWRB-01369-LAN-BMO-W66-000002,R1O-HW-R1_Schijnpoorttunnel VO ASC Schijnpoort,Nieuw,Ja,Obj-05071,scherm 12_T   MWF1 Lobroek polder 6,Ja
+MDL-0344,OWRB-01369-LAN-BMO-W66-000002,R1O-HW-R1_Schijnpoorttunnel VO ASC Schijnpoort,Nieuw,Ja,Obj-05922,Tijdelijke Polderconstructie Schijnpoort Midden-Noord,Ja
+MDL-0344,OWRB-01369-LAN-BMO-W66-000002,R1O-HW-R1_Schijnpoorttunnel VO ASC Schijnpoort,Nieuw,Ja,Obj-04042,Tunnelconstructie Schijnpoort,Ja
+MDL-0344,OWRB-01369-LAN-BMO-W66-000002,R1O-HW-R1_Schijnpoorttunnel VO ASC Schijnpoort,Nieuw,Ja,Obj-05104,Vluchtvoorzieningen verdiepte ligging 14_T35 Zijberm MWE1 Schijnpoortknoop,Ja
+MDL-0344,OWRB-01369-LAN-BMO-W66-000002,R1O-HW-R1_Schijnpoorttunnel VO ASC Schijnpoort,Nieuw,Ja,Obj-05105,Vluchtvoorzieningen verdiepte ligging 14_T35 Zijberm MWF1 Schijnpoortknoop,Ja
+MDL-0343,OWRB-01378-LAN-BMO-W66-000001,R1O-HW-R1_Open polder Zuid VO,Nieuw,Ja,Obj-01378,Gesloten deel aansluiting van R1 naar E313 (MWQ1),Ja
+MDL-0343,OWRB-01378-LAN-BMO-W66-000001,R1O-HW-R1_Open polder Zuid VO,Nieuw,Ja,Obj-05950,Grondkerende combiwand tussen MWE1 en MWF1,Ja
+MDL-0343,OWRB-01378-LAN-BMO-W66-000001,R1O-HW-R1_Open polder Zuid VO,Nieuw,Ja,Obj-05953,Grondkerende combiwand tussen MWQ1 en MWH1,Ja
+MDL-0343,OWRB-01378-LAN-BMO-W66-000001,R1O-HW-R1_Open polder Zuid VO,Nieuw,Ja,Obj-05951,Grondkerende constructie tussen MWF1-MWJ1,Ja
+MDL-0343,OWRB-01378-LAN-BMO-W66-000001,R1O-HW-R1_Open polder Zuid VO,Nieuw,Ja,Obj-05952,Grondkerende damwand tussen MWH2 en MWQ1,Ja
+MDL-0343,OWRB-01378-LAN-BMO-W66-000001,R1O-HW-R1_Open polder Zuid VO,Nieuw,Ja,Obj-05954,Grondkerende wand tussen MWH1 en MWE1,Ja
+MDL-0343,OWRB-01378-LAN-BMO-W66-000001,R1O-HW-R1_Open polder Zuid VO,Nieuw,Ja,Obj-02687,Lozingspunt 15  - Groot Schijn (voor tijdelijke R1 Oost),Ja
+MDL-0343,OWRB-01378-LAN-BMO-W66-000001,R1O-HW-R1_Open polder Zuid VO,Nieuw,Ja,Obj-06291,Open deel aansluiting van R1 naar E313 (MWQ1),Ja
+MDL-0343,OWRB-01378-LAN-BMO-W66-000001,R1O-HW-R1_Open polder Zuid VO,Nieuw,Ja,Obj-04330,Open polder tussen viaduct verbindingsweg en einde polder (Zuid),Ja
+MDL-0343,OWRB-01378-LAN-BMO-W66-000001,R1O-HW-R1_Open polder Zuid VO,Nieuw,Ja,Obj-06275,Polderwand dwars verdiepte ligging Antwerpen Oost  (MWE1),Ja
+MDL-0343,OWRB-01378-LAN-BMO-W66-000001,R1O-HW-R1_Open polder Zuid VO,Nieuw,Ja,Obj-06084,Polderwand dwars verdiepte ligging Antwerpen Oost (MWF1) (4500),Ja
+MDL-0343,OWRB-01378-LAN-BMO-W66-000001,R1O-HW-R1_Open polder Zuid VO,Nieuw,Ja,Obj-06209,Polderwand Oost verdiepte ligging Antwerpen Oost (4500),Ja
+MDL-0343,OWRB-01378-LAN-BMO-W66-000001,R1O-HW-R1_Open polder Zuid VO,Nieuw,Ja,Obj-05948,Polderwand West verdiepte ligging Antwerpen Oost,Ja
+MDL-0343,OWRB-01378-LAN-BMO-W66-000001,R1O-HW-R1_Open polder Zuid VO,Nieuw,Ja,Obj-05101,Vluchtvoorzieningen gesloten deel aansluiting R1 naar E313 (MWQ1),Ja
+MDL-0339,OWRB-SY032-LAN-BMO-W69-000003,,Nieuw,Ja,Obj-02686,Lozingspunt 6a & 6b Lobroekdok ---VERVALLEN---,Nee
+MDL-0339,OWRB-SY032-LAN-BMO-W69-000003,,Nieuw,Ja,Obj-06302,Lozingspunt LP6a,Ja
+MDL-0337,OWRB-SY032-LAN-BMO-W69-000010,,Nieuw,Ja,Obj-06296,Lozingspunt LP12c,Ja
+MDL-0337,OWRB-SY032-LAN-BMO-W69-000010,,Nieuw,Ja,Obj-06298,Lozingspunt LP12e,Ja
+MDL-0337,OWRB-SY032-LAN-BMO-W69-000010,,Nieuw,Ja,Obj-06299,Lozingspunt LP12f,Ja
+MDL-0337,OWRB-SY032-LAN-BMO-W69-000010,,Nieuw,Ja,Obj-06300,Lozingspunt LP12g,Ja
+MDL-0337,OWRB-SY032-LAN-BMO-W69-000010,,Nieuw,Ja,Obj-06301,Lozingspunt LP12h,Ja
+MDL-0336,OWRB-SY032-LAN-BMO-W69-000009,,Nieuw,Ja,Obj-06294,Lozingspunt LP12a,Ja
+MDL-0336,OWRB-SY032-LAN-BMO-W69-000009,,Nieuw,Ja,Obj-06295,Lozingspunt LP12b,Ja
+MDL-0336,OWRB-SY032-LAN-BMO-W69-000009,,Nieuw,Ja,Obj-06297,Lozingspunt LP12d,Ja
+MDL-0336,OWRB-SY032-LAN-BMO-W69-000009,,Nieuw,Ja,Obj-06298,Lozingspunt LP12e,Ja
+MDL-0335,OWRB-SY032-LAN-BMO-W69-000008,,Nieuw,Ja,Obj-04997,Lozingspunt LP11,Ja
+MDL-0334,OWRB-SY032-LAN-BMO-W69-000007,,Nieuw,Ja,Obj-04995,Lozingspunt LP10,Ja
+MDL-0324,OWRB-06210-LAN-DMO-W66-000001,,Nieuw,Ja,,,
+MDL-0323,OWRB-06210-LAN-BMO-W66-000001,,Nieuw,Ja,,,
+MDL-0309,OWRB-05955-BIM-DMO-W03-000001,,Nieuw,Ja,,,
+MDL-0282,OWRB-05234-LAN-BMO-W66-000007,R1O-HW-Constructie copied geometry VO,Nieuw,Ja,,,
+MDL-0279,OWRB-04353-LAN-BMO-W66-000001,R1O-BT-Oud pompstation Groot Schijn,Nieuw,Ja,Obj-04353,Oud pompstation Groot Schijn (niet actueel dubbeling),Nee
+MDL-0278,OWRB-05842-LAN-BMO-W66-000001,R1O-BT-Verbindingsgeul Lobroekdok Albertkanaal,Nieuw,Ja,Obj-05842,Verbindingsgeul Lobroekdok Albertkanaal,Ja
+MDL-0277,OWRB-04984-LAN-BMO-W66-000006,R1O-TIJ-Lozingspunten R1O,Nieuw,Ja,Obj-02687,Lozingspunt 15  - Groot Schijn (voor tijdelijke R1 Oost),Ja
+MDL-0276,OWRB-04330-LAN-BMO-W66-000001,R1O-RIO-Vloeistofkelder_Open polder zuid,Vervallen,Nee,Obj-02693,Vloeistofkelder Hof ter Lo (OHtL),Ja
+MDL-0276,OWRB-04330-LAN-BMO-W66-000001,R1O-RIO-Vloeistofkelder_Open polder zuid,Vervallen,Nee,Obj-04984,Vloeistofkelder Kap Hof ter Lo (KHtL),Ja
+MDL-0275,OWRB-04329-LAN-BMO-W66-000001,R1O-RIO-Vloeistofkelder Verbindingsweg,Nieuw,Ja,Obj-02946,Vloeistofkelder Verbindingsweg - VERVALLEN,Nee
+MDL-0274,OWRB-05232-LAN-BMO-W66-000002,R1O-RIO-Vloeistofkelder Turnhoutsebaan,Nieuw,Ja,Obj-02692,Vloeistofkelder Turnhoutsebaan (OTHB),Ja
+MDL-0273,OWRB-02546-LAN-BMO-W66-000009,R1O-RIO-Lozingspunten R1O,Nieuw,Ja,Obj-04996,Lozingspunt 12a t/m 12h Bij E313 KW122 en R1 KW124 (BT) ---VERVALLEN---,Nee
+MDL-0273,OWRB-02546-LAN-BMO-W66-000009,R1O-RIO-Lozingspunten R1O,Nieuw,Ja,Obj-02686,Lozingspunt 6a & 6b Lobroekdok ---VERVALLEN---,Nee
+MDL-0273,OWRB-02546-LAN-BMO-W66-000009,R1O-RIO-Lozingspunten R1O,Nieuw,Ja,Obj-03549,Lozingspunt 9a Groot Schijn langs Sportpaleis ---VERVALLEN---,Nee
+MDL-0273,OWRB-02546-LAN-BMO-W66-000009,R1O-RIO-Lozingspunten R1O,Nieuw,Ja,Obj-03548,Lozingspunt 9b Groot Schijn opwaarts pompstation ---VERVALLEN---,Nee
+MDL-0273,OWRB-02546-LAN-BMO-W66-000009,R1O-RIO-Lozingspunten R1O,Nieuw,Ja,Obj-04995,Lozingspunt LP10,Ja
+MDL-0273,OWRB-02546-LAN-BMO-W66-000009,R1O-RIO-Lozingspunten R1O,Nieuw,Ja,Obj-04997,Lozingspunt LP11,Ja
+MDL-0272,OWRB-04042-LAN-BMO-W66-000002,R1O-RIO-Hoofdwaterkelders Schijnpoort tunnel,Nieuw,Ja,Obj-04987,Hoofdkelder TSCH-N,Ja
+MDL-0272,OWRB-04042-LAN-BMO-W66-000002,R1O-RIO-Hoofdwaterkelders Schijnpoort tunnel,Nieuw,Ja,Obj-02669,Hoofdkelder TSCH-Z,Ja
+MDL-0271,OWRB-05063-LAN-BMO-W66-000001,R1O-RIO-Groot Schijn (waterloop) Open dak,Nieuw,Ja,Obj-05063,Afwateringskoker Groot Schijn,Ja
+MDL-0270,OWRB-04042-LAN-BMO-W66-000001,R1O-DBW-Constr. Schijnpoorttunnel,Nieuw,Ja,Obj-04042,Tunnelconstructie Schijnpoort,Ja
+MDL-0269,OWRB-04026-LAN-BMO-W64-000001,R1O-DBW-OT-Dienstbouwwerk Schijnpoort Energie,Nieuw,Ja,Obj-04026,Dienstbouwwerk Schijnpoort Energie,Ja
+MDL-0268,OWRB-03709-LAN-BMO-W64-000001,R1O-DBW-Dienstbouwwerk Schijnpoort,Nieuw,Ja,Obj-03709,Dienstbouwwerk Schijnpoort,Ja
+MDL-0267,OWRB-05232-LAN-BMO-W66-000001,R1O-HW-Constr. Gesloten deel E313-R1,Nieuw,Ja,Obj-02655,Onderdoorgang afrit Schijnpoort / Afrit E313 - R1 (MW41) VERVALLEN,Nee
+MDL-0267,OWRB-05232-LAN-BMO-W66-000001,R1O-HW-Constr. Gesloten deel E313-R1,Nieuw,Ja,Obj-05571,U-bak midden afrit Schijnpoort - VERVALLEN,Nee
+MDL-0266,OWRB-05234-LAN-BMO-W66-000002,R1O-HW-OT-Viaduct verbindingsweg,Nieuw,Ja,Obj-01391,Dwars Viaduct Verbindingsweg over de verdiepte R1,Ja
+MDL-0265,OWRB-05234-LAN-BMO-W66-000001,R1O-HW-OT-Gesloten deel aansluiting van R1 naar E313,Nieuw,Ja,Obj-01378,Gesloten deel aansluiting van R1 naar E313 (MWQ1),Ja
+MDL-0263,OWRB-02658-LAN-BMO-W66-000001,R1O-HW-OT-Fietsbrug en paserelle,Nieuw,Ja,Obj-02658,Fietsbrug en passerelle,Ja
+MDL-0224,OWRB-02872-LAN-BMO-W59-000001,R1N-RIO-BT-Schijnkoker (vervallen),Nieuw,Ja,Obj-04428,Schijnkoker (handhaven),Ja
+MDL-0224,OWRB-02872-LAN-BMO-W59-000001,R1N-RIO-BT-Schijnkoker (vervallen),Nieuw,Ja,Obj-02872,Schijnkoker (verwijderen),Ja
+MDL-0224,OWRB-02872-LAN-BMO-W59-000001,R1N-RIO-BT-Schijnkoker (vervallen),Nieuw,Ja,Obj-05841,Schijnkoker R1O (lokaal te verwijderen),Ja
+MDL-0218,OWRB-05226-LAN-BMO-W66-000001,R1O-HW-BT-Kademuur Lobroekdok oost KW28,Nieuw,Ja,Obj-01447,Kademuur Lobroekdok oost,Nee
+MDL-0218,OWRB-05226-LAN-BMO-W66-000001,R1O-HW-BT-Kademuur Lobroekdok oost KW28,Nieuw,Ja,Obj-05226,Lobroekdok,Ja
+MDL-0205,OWRB-03760-LAN-BMO-W66-000001,R1O-HW-Constr. Overkapping Hof ter Loo +verdiepte ligging,Nieuw,Ja,Obj-05076,-,Nee
+MDL-0205,OWRB-03760-LAN-BMO-W66-000001,R1O-HW-Constr. Overkapping Hof ter Loo +verdiepte ligging,Nieuw,Ja,Obj-03760,Overkapping Hof ter Loo,Ja
+MDL-0205,OWRB-03760-LAN-BMO-W66-000001,R1O-HW-Constr. Overkapping Hof ter Loo +verdiepte ligging,Nieuw,Ja,Obj-05102,Vluchtvoorzieningen verdiepte ligging 14_T31 Middenberm MWE1/MWF1 overkapping hof ter Loo,Ja
+MDL-0204,OWRB-05234-LAN-BMO-W66-000004,R1O-HW-Constr. Schijnpolder tussen viaduct verbindingsweg en einde polder (Zuid),Nieuw,Ja,Obj-04330,Open polder tussen viaduct verbindingsweg en einde polder (Zuid),Ja
+MDL-0204,OWRB-05234-LAN-BMO-W66-000004,R1O-HW-Constr. Schijnpolder tussen viaduct verbindingsweg en einde polder (Zuid),Nieuw,Ja,Obj-05077,Scherm 15_T   MWF1 Antwerpen Oost kruising 5.5,Ja
+MDL-0204,OWRB-05234-LAN-BMO-W66-000004,R1O-HW-Constr. Schijnpolder tussen viaduct verbindingsweg en einde polder (Zuid),Nieuw,Ja,Obj-05101,Vluchtvoorzieningen gesloten deel aansluiting R1 naar E313 (MWQ1),Ja
+MDL-0204,OWRB-05234-LAN-BMO-W66-000004,R1O-HW-Constr. Schijnpolder tussen viaduct verbindingsweg en einde polder (Zuid),Nieuw,Ja,Obj-05098,Vluchtvoorzieningen verdiepte ligging 15_T29 Zijberm MWF1 Antwerpen oost kruising,Ja
+MDL-0203,OWRB-05234-LAN-BMO-W66-000003,R1O-HW-OT-Constr. Schijnpolder tussen gesloten deel Schijnpoorttunnel en viaduct verbindingsweg (Zuid),Nieuw,Ja,Obj-05074,Milieuscherm MWE1 verdiepte ligging schijnpoort,Ja
+MDL-0203,OWRB-05234-LAN-BMO-W66-000003,R1O-HW-OT-Constr. Schijnpolder tussen gesloten deel Schijnpoorttunnel en viaduct verbindingsweg (Zuid),Nieuw,Ja,Obj-05072,Milieuscherm MWF1 verdiepte ligging schijnpoort,Ja
+MDL-0203,OWRB-05234-LAN-BMO-W66-000003,R1O-HW-OT-Constr. Schijnpolder tussen gesloten deel Schijnpoorttunnel en viaduct verbindingsweg (Zuid),Nieuw,Ja,Obj-05073,Milieuscherm op tunnelmond Schijnpoorttunnel zuid - verdiepte ligging schijnpoort,Ja
+MDL-0203,OWRB-05234-LAN-BMO-W66-000003,R1O-HW-OT-Constr. Schijnpolder tussen gesloten deel Schijnpoorttunnel en viaduct verbindingsweg (Zuid),Nieuw,Ja,Obj-05075,Milieuscherm tussen RWZI Aquafin en verbindingsweg schijnpoort,Ja
+MDL-0203,OWRB-05234-LAN-BMO-W66-000003,R1O-HW-OT-Constr. Schijnpolder tussen gesloten deel Schijnpoorttunnel en viaduct verbindingsweg (Zuid),Nieuw,Ja,Obj-04329,Open polder tussen gesloten deel Schijnpoorttunnel en viaduct verbindingsweg (Zuid),Ja
+MDL-0203,OWRB-05234-LAN-BMO-W66-000003,R1O-HW-OT-Constr. Schijnpolder tussen gesloten deel Schijnpoorttunnel en viaduct verbindingsweg (Zuid),Nieuw,Ja,Obj-05103,Vluchtvoorzieningen verdiepte ligging 14_T33 Middenberm MWE1/MWF1 verbindingsweg,Ja
+MDL-0203,OWRB-05234-LAN-BMO-W66-000003,R1O-HW-OT-Constr. Schijnpolder tussen gesloten deel Schijnpoorttunnel en viaduct verbindingsweg (Zuid),Nieuw,Ja,Obj-05104,Vluchtvoorzieningen verdiepte ligging 14_T35 Zijberm MWE1 Schijnpoortknoop,Ja
+MDL-0203,OWRB-05234-LAN-BMO-W66-000003,R1O-HW-OT-Constr. Schijnpolder tussen gesloten deel Schijnpoorttunnel en viaduct verbindingsweg (Zuid),Nieuw,Ja,Obj-05105,Vluchtvoorzieningen verdiepte ligging 14_T35 Zijberm MWF1 Schijnpoortknoop,Ja
+MDL-0202,OWRB-04328-LAN-BMO-W66-000001,R1O-HW-OT-Constr. Open polder lobroekdok,Nieuw,Ja,Obj-04328,Open polder tussen gesloten deel OKA en gesloten deel Schijnpoorttunnel (Noord),Ja
+MDL-0202,OWRB-04328-LAN-BMO-W66-000001,R1O-HW-OT-Constr. Open polder lobroekdok,Nieuw,Ja,Obj-05070,scherm 12_T   MWE1 Lobroek polder 6,Ja
+MDL-0202,OWRB-04328-LAN-BMO-W66-000001,R1O-HW-OT-Constr. Open polder lobroekdok,Nieuw,Ja,Obj-05071,scherm 12_T   MWF1 Lobroek polder 6,Ja
+MDL-0202,OWRB-04328-LAN-BMO-W66-000001,R1O-HW-OT-Constr. Open polder lobroekdok,Nieuw,Ja,Obj-05107,Vluchtvoorzieningen verdiepte ligging 12_T41 Zijberm MWE1 Kanaalkruising,Ja
+MDL-0202,OWRB-04328-LAN-BMO-W66-000001,R1O-HW-OT-Constr. Open polder lobroekdok,Nieuw,Ja,Obj-05108,Vluchtvoorzieningen verdiepte ligging 12_T41 Zijberm MWF1 Kanaalkruising,Ja
+MDL-0202,OWRB-04328-LAN-BMO-W66-000001,R1O-HW-OT-Constr. Open polder lobroekdok,Nieuw,Ja,Obj-05099,Vluchtvoorzieningen verdiepte ligging 13_T40 Zijberm MWE1 lokbroekpolder,Ja
+MDL-0202,OWRB-04328-LAN-BMO-W66-000001,R1O-HW-OT-Constr. Open polder lobroekdok,Nieuw,Ja,Obj-05100,Vluchtvoorzieningen verdiepte ligging 13_T40 Zijberm MWF1 lokbroekpolder,Ja
